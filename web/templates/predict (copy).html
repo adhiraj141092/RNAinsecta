@@ -1,0 +1,149 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="post post-alt">
+						<h2 class="title">Results</h2>
+						<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+     
+      						<div id="content">
+<p>
+Sequence Entered:<br><b>{{ rna }}</b><br> <h3 style="color: #ab0606;">{{ display }}</h3><br>The MFE score is: <b>{{ mfe }}</b> <br>Secondary Structure:<br> {{ str }} <br>
+
+ <canvas id="myChart"></canvas>
+
+    
+
+<a href="{{url_for('home')}}">Back</a></li>
+</p>
+
+</div>
+    </div>
+<br><br>
+
+
+					
+</div>
+</div>
+
+						</div>
+					</div>
+					</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<p><b>Secondary Structure:</b><br>
+							<img src="{{ plot }}" alt="beleg" height="500px" class="cropped1"><br>
+							<a href="{{ url_for('static', filename='rna.ps')}}">Download PS file</a>
+
+							</p>
+						</li>
+					</ul>
+				</div> 
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script>
+	
+	var score = new Array();
+	const xlab = [];
+	var features = new Array();
+
+	
+	chartit();
+
+	async function getdata(){
+	
+		d3.csv("/static/input.csv", function(results){
+	  	const res = results;
+	  	console.log(res);
+	  	const entries = Object.entries(res);
+	  	console.log(entries);
+	  	var nu = entries.slice(33,37);
+	  	console.log(nu);
+		//Object.entries(res).slice(33,38).map(entry => entry[1]);
+		for ( i=0; i<nu.length; i++ )
+		{
+			for ( j=0; j<nu[i].length; j++ )
+			{
+			nu[i][1] = parseFloat(nu[i][1]);
+			}
+
+			score.push(nu[i][1]);
+			features.push(nu[i][0]);
+		}
+
+		// take the second column
+		// var score = nu.map(function(value,index) { return value[1]; });
+		// var features = nu.map(function(value,index) { return value[0]; });
+		// return [score, features];
+
+		});
+		return [score, features];
+	}
+
+
+		
+		// const scr = rec.map(function(re){
+		// 	return re.score;
+		// });
+		// var fea = rec.features;
+		// var lst = rec.list;
+
+		// const scr = list.map(function(re){
+		// 	return re[score];
+		// });
+
+		// var scr = list.map(function(value,index) { return value[1]; });
+		// var fea = list.map(function(value,index) { return value[0]; });
+
+		// console.log(features);
+		// result.forEach(function(res) {
+		// 	console.log(res);
+		// });
+		// for(let i = 0; i < result.length; i++) {
+		// 	console.log(result[i])
+		// }
+
+
+		async function chartit(){
+			await getdata();
+			console.log(score)
+	     	var ctx = document.getElementById('myChart').getContext('2d');
+	        var chart = new Chart(ctx, {
+	    // The type of chart we want to create
+	            
+	            type: 'bar',
+
+	            // The data for our dataset
+	            data: {
+	                labels: features,
+	                datasets: [{
+	                    label: 'Nucleotide counts',
+	                    backgroundColor: 'rgb(0, 99, 132)',
+	                    borderColor: 'rgb(0, 99, 132)',
+	                    data: score
+	                }]
+	            },
+
+
+	            // Configuration options go here
+	            options: {}
+	        });
+    
+    }
+
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <script>
+   
+    </script>
+
+
+
+
+
+{% endblock content %}

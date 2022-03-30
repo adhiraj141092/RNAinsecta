@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="demo"></div>
+<div id="target"></div>
+<form method="POST" action="{{ url_for('form') }}">
+    {{ form.csrf_token }}
+    {{ form.username.label }} {{ form.username(size=20) }}
+    <p>orientation {{ form.dir }} Cleave at {{ form.seq }} </p>
+
+    <select id="ori">
+  <option value="0" selected="selected">Select</option>
+  <option value="1">3'</option>
+  <option value="2">5'</option>
+</select>
+
+<select id="loop">
+  <option value="#" selected="selected">Select</option>
+  
+</select>
+<select id="loop2">
+  <option value="#" selected="selected">Select</option>
+  
+</select>
+
+<select id="loop1" style="display: none;">
+  <option value="#">Select</option>
+  
+</select>
+
+<!-- <div id = "res"></div>
+<div id = "res1"></div> -->
+
+    <input type="submit" value="Go">
+</form>
+
+<div id="Hello"></div><div id="World"></div>
+<form class="form-inline" method="POST" action="{{ url_for('val') }}">
+    <div class="form-group">
+        <div class="input-group">
+            <span class="input-group-addon">Please select</span>
+                <select name="getseq3" class="selectpicker form-control">
+                {% for i in seq3 %}
+                <option value="{{ i }}">{{ i }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <button type="submit" class="btn btn-default">Go</button>
+    </div>
+</form>
+
+
+<script type="text/javascript">
+
+
+</script>
+
+<script type="text/javascript">
+<!--const s3 = {{ seq3|tojson }};-->
+<!--const seq3 = JSON.parse(s3);-->
+
+<!--const s5 = {{ seq5|tojson }};-->
+<!--const seq5 = JSON.parse(s5);-->
+
+
+
+<!--// var e = document.getElementById("ddlViewBy");-->
+<!--// var value = e.options[e.selectedIndex].value;-->
+<!--// var str = e.value;-->
+
+
+<!--$(document).ready(function(){-->
+
+<!--	$.each(seq3, function(key, value){-->
+<!--		$('#res1').append("3' " + key + ": " + value + "<br>");-->
+<!--		$('#loop').append(`<option value="${key}">-->
+<!--                           ${value}-->
+<!--                      </option>`);-->
+
+
+<!--	});-->
+
+<!--	$.each(seq5, function(key, value){-->
+<!--		$('#res1').append("5' " + key + ": " + value + "<br>");-->
+<!--		$('#loop2').append(`<option value="${key}">-->
+<!--                           ${value}-->
+<!--                      </option>`);-->
+
+<!--	});-->
+<!--	$('#loop').hide();-->
+<!--	$('#loop2').hide();-->
+
+
+<!--	$("#ori").change(function(){-->
+
+<!--		var origi = $(this).val();-->
+<!--		if (origi == 1) {-->
+<!--			$.each(seq3, function(key, value){-->
+<!--				$('#res1').append("3' " + key + ": " + value + "<br>");-->
+<!--				$('#loop1').append(`<option value="${key}">-->
+<!--		                           ${value}-->
+<!--		                      </option>`);-->
+
+<!--			});-->
+<!--		-->
+<!--			$('#loop').show();-->
+<!--			$('#loop2').hide();-->
+<!--		}-->
+<!--			-->
+<!--		if (origi == 2) {-->
+<!--			$.each(seq5, function(key, value){-->
+<!--				$('#res1').append("5' " + key + ": " + value + "<br>");-->
+<!--				$('#loop1').append(`<option value="${key}">-->
+<!--		                           ${value}-->
+<!--		                      </option>`);-->
+
+<!--			});-->
+
+<!--			$('#loop2').show();-->
+<!--			$('#loop').hide();-->
+
+<!--		}-->
+<!--		if (origi == 0) {-->
+<!--			$('#loop2').hide();-->
+<!--			$('#loop').hide();-->
+
+<!--		}-->
+<!--			-->
+<!--		$('#res').html(origi);-->
+
+<!--	})-->
+<!--});-->
+
+<!--console.log();-->
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+</body>
+</html>

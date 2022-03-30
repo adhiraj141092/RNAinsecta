@@ -1,0 +1,228 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<!-- insert the page content here -->
+<div id="page">
+	<div id="page-bgtop">
+		<div id="page-bgbtm">
+			<div id="content">
+				<div class="post">
+					<h2 class="title"><a href="#">Welcome to RNAinsecta</a></h2>
+					<div class="entry">
+						<p>This is <strong>RNAinsecta</strong>, a precursor MicroRNA prediction tool in insect. This
+							tool is based on Machine Learning classification model which is extensively trained with
+							insect precursor-microRNA. There are two models: <br>
+						<li>SVM (Sensitivity: 89.44% | Specificity: 94.58% | Accuracy: 92.19%)</li>
+						<li>Random Forest (Sensitivity: 92.67%% | Specificity: 69.53% | Accuracy: 80.28%)</li>
+						.</p>
+						<p class="links"><a href="#" class="button">Read More</a></p>
+					</div>
+
+					<div class="post post-alt">
+
+
+					<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+
+      						<div id="content">
+
+         {{msg}}
+         <div id ="back1" class="alert alert-info" role="alert" style="word-wrap: break-word;">
+          <h4>Predict Precursor MicroRNAs</h4>
+			<form name="mirna1" action="{{ url_for('predict2')}}" method="post" onSubmit="return check_Beta(mirna1)">
+        <label for="clf" style="display: inline;">Model:</label>
+         <select id="clf" name="clf" class="required" style="width: 20%">
+  <option value="2" selected title="Sensitivity: 89.44% | Specificity: 94.58% | Accuracy: 92.19%">SVM</option>
+  <option value="1"  title="Sensitivity: 92.67%% | Specificity: 69.53% | Accuracy: 80.28%">Random Forest</option>
+</select>&nbsp;<br><br>
+<textarea name="rna1" placeholder="Enter FASTA sequences" id = "txtOutput" required="required"
+						  style="margin: 0px; width: 550px; height: 119px;"></textarea><br>
+         <p><i>Max 200 sequence</i></p> 
+				<button type="submit" class="btn btn-primary mb-2">PREDICT</button>      &nbsp;<button type="button" class="btn btn-primary mb-2" onclick="example()">Example</button>
+
+			</form>
+    </div>
+      <br><br>
+			
+      <div id = "back2" class="alert alert-primary" role="alert" style="word-wrap: break-word;">
+      <h4>Enter Single Sequence:</h4>
+			<form name="mirna" action="{{ url_for('predict')}}" method="post" onSubmit="return check_Alpha(mirna)">
+        <label for="clf1" style="display: inline;">Model:</label>
+         <select id="clf1" name="clf1" class="required" style="width: 20%">
+	 <option value="2" selected title="Sensitivity: 89.44% | Specificity: 94.58% | Accuracy: 92.19%">SVM</option>
+  <option value="1"  title="Sensitivity: 92.67%% | Specificity: 69.53% | Accuracy: 80.28%">Random Forest</option>
+
+</select>&nbsp;<br><br>
+				<input type="text" id="rna" name="rna" size="100">
+				<br><br>
+				<button type="submit" class="btn btn-primary mb-2">PREDICT</button>      &nbsp;<button type="button" class="btn btn-primary mb-2" onclick="example1()">Example</button>
+
+			</form>
+    </div>
+
+<script type="text/javascript">
+   function check_Alpha(letters){
+    var regex = /^[ATGCuUatcg]+$/;
+    var reg1 = /[ATGCuUatcg]+(\n)[ATGCuUatgc]/;
+    var reg2 = /(>.*)(\n)/;
+
+
+    if(reg2.test(letters.rna.value) == true){
+   alert("Enter raw sequence without header.");
+   letters.rna.focus();
+   return false;
+    }
+
+    else if(reg1.test(letters.rna.value) == true){
+   alert("Line break detected! \nThe sequence must be in the same line.");
+   letters.rna.focus();
+   return false;
+    }
+    else if(regex.test(letters.rna.value) == false){
+   alert("Sequence must contain A,T/U,G & C only");
+   letters.rna.focus();
+   return false;
+    }
+
+    return true;
+  }
+
+   function check_Beta(letters){
+    var regex = /^>.*\n(?![AUGC]*$).*/gim;
+    var reg1 = /(>.*)(\n)[ATGCuUatcg]+(\n)+[ATGCuUatgc]/;
+    var reg3 = /(>.*)(\n)[ATGCuUatcg]{0,20}$/gm;
+    var reg2 = /(>.*)(\n)/;
+
+
+    if(reg2.test(letters.rna1.value) == false){
+   alert("Enter sequence with fasta header.");
+   letters.rna1.focus();
+   return false;
+    }
+
+    else if(reg1.test(letters.rna1.value) == true){
+   alert("Line break detected! \nThe sequence must be in the same line.");
+   letters.rna1.focus();
+   return false;
+    }
+    else if(regex.test(letters.rna1.value) == true){
+   alert("Sequence must contain A,T/U,G & C only");
+   letters.rna1.focus();
+   return false;
+    }
+    else if(reg3.test(letters.rna1.value) == true){
+   alert("Sequences must be more than 20bp length");
+   letters.rna1.focus();
+   return false;
+    }
+
+
+    return true;
+  }
+
+
+
+</script>
+
+
+     </div>
+    </div>
+
+</div>
+</div>
+
+
+						</div>
+					</div>
+					</div>
+
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<div style="clear: both;">&nbsp;</div>
+						</li>
+						<li>
+							<p>Created and maintained by<br><I>Adhiraj Nath</I><br><a href="https://www.iitg.ac.in/ubora/" target="new">Bioengineering Research Laboratory, IIT Guwahati.</a></p>
+						</li>
+					</ul>
+				</div>
+
+
+<!--    <script>-->
+<!--    function check_Alpha(letters){-->
+<!--    var regex = /[ATGUCatucg]/;-->
+<!--    if(regex.test(letters.rna.value) == false){-->
+<!--   alert("Should contain sequence only");-->
+<!--   letters.rna.focus();-->
+<!--   return false;-->
+<!--    }-->
+<!--    if(letters.rna.value == " "){-->
+<!--      alert("cannot be left empty");-->
+<!--      letters.rna.focus();-->
+<!--      return false;-->
+<!--    }-->
+<!--    return true;-->
+<!--  }-->
+<!--    </script>-->
+
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+
+  <script type = "text/javascript">
+  // from textBoxes.html
+  function example(){
+  var txtOutput = document.getElementById("txtOutput");
+  txtOutput.value = ">dme-mir-276a MI0000359\nCCUGGUUUUUGCCAUCAGCGAGGUAUAGAGUUCCUACGUUCAUUAUAAACUCGUAGGAACUUCAUACCGUGCUCUUGGAAGACCAAAAAACAACCAAG\n>dme-mir-277 MI0000360\nUUGAAGGUUUUGGGCUGCGUGUCAGGAGUGCAUUUGCACUGAAACUAUCUGAAGCAUGUAAAUGCACUAUCUGGUACGACAUUCCAGAACGUACAAUCUU\n>dme-mir-278 MI0000361\nGUAAUGGUACGGUGCGACCGGAUGAUGGUUCACAACGACCGUGUCAUUUAAACGGGUCGGUGGGACUUUCGUCCGUUUGUAACGCCAUUUGUCAACGA"
+  } // end sayHi
+
+  function example1(){
+  var txtOutput1 = document.getElementById("rna");
+  txtOutput1.value = "GGUGAAGUGUGCAGUAAUUAGUGCCAGGUAGGUUAGAUUUCCAGUGUCUCGAGUUAAUCCGUCAGCGAGGUAUAGAGUUCCUAUGCGUUCGGAUAAAAUAUUCCAUAGGAACUUCAUACCGUGCUCUUGGAUUGCUUGGAAGUCAUCGAGAGGGUAAUGGUGGAAGUUCGUGGCUAAUUUGUAAAUCAUC"
+  }
+
+
+ </script>
+ <script type = "text/javascript">
+   
+   $(document).ready(function(){
+
+    $("#clf").change(function(){
+
+    var origi = $(this).val();
+    if (origi == 2) {
+      $("#back1").attr("class", "alert alert-info");
+    }
+
+    if (origi == 1) {
+      $("#back1").attr("class", "alert alert-warning");
+    }
+    
+   
+    });
+
+    $("#clf1").change(function(){
+
+    var origi = $(this).val();
+    if (origi == 2) {
+      $("#back2").attr("class", "alert alert-info");
+    }
+
+    if (origi == 1) {
+      $("#back2").attr("class", "alert alert-warning");
+    }
+    
+   
+    });
+
+
+   });
+
+ </script>
+
+	
+{% endblock content %}

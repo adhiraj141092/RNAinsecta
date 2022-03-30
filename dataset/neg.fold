@@ -1,0 +1,1605 @@
+>pseudo_premiRNA_0
+CCGAGAUAUCACCAGAAAUAUAUUGGAUUUUCCCCUGACCCUGAGUGUCCGGCCCCUGAGAUGGUGGUUUUCUCGG
+((((((.(((((((........((((((.(((..........))).)))))).........)))))))..)))))) (-22.80)
+>pseudo_premiRNA_1
+CUGAGUGUCCGGGCCAUGAGACUGUGGUUUUUUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGUUGCACAGAUUCAUGCGCCAGGGCUCCUGCAG
+(((((.((((.(((((((((.(((((.......(((((..(((....))).))))).........))))).)))))).))).))))..)).))) (-36.10)
+>pseudo_premiRNA_2
+UCUCCCGUCCGUCGAAAUUUUUUUUUUUUACUUGAACAAGGCGCAUAGAGCCCGCCGAACCACGAUUUCCGUGCGUCUUACAUCUUUCGACGAUGGGACGA
+..(((((((.(((((((................((..(((((((((.(((..((........))..))).)))))))))...))))))))))))))))... (-30.70)
+>pseudo_premiRNA_3
+AUGUCGUUCCUGCUGCACAGAUUCAUGCGCAAGGGCCUCCUACGGACAAUGCACUUUGAUUUAUGCUCUAUCUCUAAUAGCACCCGACAU
+((((((....(((((...((((....((((((((((.(((...)))....)).))))).....)))...))))....)))))..)))))) (-18.40)
+>pseudo_premiRNA_4
+CCAUACACUGCUUGCGUAGCUCUGUCAAAUCCCCGCCUCGUUCGCCUCUUCGGAUCGAACGUUUUUUUACCGAAGGGCGCAAAGAACGUUUCUGAGUCGGGUUAAGGAAGGAUGCUACGUACGAGCGAACGAUGG
+((((....(((((((((((((((.((.....((((.(((((((((((((((((................)))))))).))...))))......))).)))).....)).))).)))))))..)))))....)))) (-46.10)
+>pseudo_premiRNA_5
+UGCGUAGCUCUGUCAAAUCCCCGCCUCGUUCACCUCUUCGGAUCGAACGUGUUUUUACCGAAGGGCGCAAAGAACGUUUCUGAGUCGGGUUAAGGAAGGAUGCUACGUA
+(((((((((((.((.....((((.(((((((.(((((((((................)))))))).)....))))......))).)))).....)).))).)))))))) (-34.60)
+>pseudo_premiRNA_6
+GGAUAACUUUAUAAAACUAUAUAAAACUAUAUAAAACUAUAUAAAACUAUAUAAAACUAUAUUAAACUAUUAAAGCUAUAUAAAUUUAUAUAAAACUAUAUAAAAAUCC
+((((...((((((....((((((((..((((((.......(((.....(((((....))))).....)))......))))))..))))))))......)))))).)))) ( -9.50)
+>pseudo_premiRNA_7
+UAUAUAAAACUAUAUAAAUCUAAUAGAACUAUAUAAAACUAUAUAAAACUAUUUAAAACUAUAUAACUAUAUA
+((((((....((((((.....(((((...((((((....))))))...)))))......))))))..)))))) ( -6.80)
+>pseudo_premiRNA_8
+AUGGCGCCGGACUGUCAGGGUCAAGGAAAAAUCCCAUAUAUAUCUGGUGACAUCUCGGUGCUAU
+(((((((((((.(((((((((...(((....))).......))))..))))))).))))))))) (-20.70)
+>pseudo_premiRNA_9
+CCAAAGUGAAUGUCUGCAGGAGGCCCUGGCGCAUGAAUCUGUGCAGUGGGAACGAUCUCGGACCAUCAGGGG
+((....(((..(((((.(((.(.(((..(((((......)))))...)))..)..))))))))..)))..)) (-20.70)
+>pseudo_premiRNA_10
+GCGAAAAUUCUGUGAAUUUCACGGACAGUGUACGUUCUAGUUGUUGUAAACGAUCGGAAUCGUUUGUAUGGACUCGCGUGAGUGUUCGCGGCGUCGUGCGUCGUUCAAUUACGACCGCCGCGGAUACCGCUCCACUGCGAUAUGGAUCUGAGCGACAACUUUUUCGGCUGUUCGUGAGAUGAACGGUUCGU
+(((((....((((..((((((((((((((...((....(((((((((..(.((((.(.(((((.....((((...(((...((((((((((((......(((((......))))))))))))))))))))))))..))))).).)))))..)))))))))....))))))))))))))))..))))))))) (-81.70)
+>pseudo_premiRNA_11
+CAUGAGACGGUGAUUUUCUCGGACCCUGGUGGUCCGAUGUUGAUCCCGUGCACAGAUUCAUG
+((((((((((.((((..((((((((.....))))))).)..)))))))).......)))))) (-23.20)
+>pseudo_premiRNA_12
+GGGGUAGCCAUAUGACUUAGCAGUGAUGGGACUUCUGGGUCGAGGUCUCAUCGGGACGGUGGCUACAUC
+...((((((((....((.......(((((((((((......)))))))))))))....))))))))... (-27.90)
+>pseudo_premiRNA_13
+ACUUAACCGCAAGGCCGAGAAGAGAUCCGGCUGUGUGUUAUUCGAGUACAGUUUGAUCUGACCCAUAGGCCGUGAAGU
+.......(((..((((......(((((.((((((((........).))))))).)))))........))))))).... (-20.60)
+>pseudo_premiRNA_14
+GUGUUAUGCGAGUGAAGUUUGAUCUUAGCCAUAAGGCCGAGAAGCGAAUAGAUUUGGGUUAUAC
+((((.((.(((((...(((((.((((.(((....))).))))..)))))..))))).)).)))) (-16.30)
+>pseudo_premiRNA_15
+CUGACCCUGAGUGUCCGGCCCCUGAGACGGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCCAGGGCUCCUUCAG
+(((((((((.((((.......(((.(.((((((...((((((((......)).))))))......))))))).)))......))))))))).....)))) (-34.00)
+>pseudo_premiRNA_16
+GGAGGCCCUGGCGCAUGAAUCUGUGCAACGGGAACGACCUCGGACACCAGGGGCCGAGAAAACCACAGUCUCAUGGGGCCGGAUAAUCAGGGUCAGGGGAAAAUCC
+(((..(((((((.(.((((((((.((..((.((..((((((((.(......).))))).........))))).))..)))))))..)))).))))))).....))) (-35.40)
+>pseudo_premiRNA_17
+CGGCGCUCUAACGGUCGAUCAUGGGUACUCCAAGUUCGACGUCGAGACUGGAAUCGUCUGUAGACGACUUAGGUACCG
+(((.((.(((..(((((.(((((((...((((..((((....))))..))))....))))).)))))))))))).))) (-21.50)
+>pseudo_premiRNA_18
+GGCGGGGUGUUGUACUCGGUAGAGCAGUUACCACGCUGCGUCUGUUGAGCCUCAGCCCUAUGCU
+(((((((.((((..((((((((((((((......))))).)))))))))...))))))).)))) (-24.60)
+>pseudo_premiRNA_19
+CUCUUCGCGUGGAUCGUCCCAUCGUCGAGAGACGUAAGUUUCAUAAGUAAGCCUUGGCGGUUACUCUCCGACGCGGGGAUUCCACGACGAGAGAG
+((((.((((((((..(((((..(((((.((((.((((.(.(((...........))).).)))))))))))))..))))))))))).)))))).. (-42.00)
+>pseudo_premiRNA_20
+GUCGGAUGUAGCCUUGGAUCCUAUGAGAUCUCGUCCUGGAGUCCCAUCACUGCUAGUCAAAUGGCUACACCCGAC
+(((((.(((((((...(((.(..(((...(((......))).....)))..)...)))....))))))).))))) (-25.50)
+>pseudo_premiRNA_21
+GUAUACUUUUUUAUGGUAUUUCACCUAUUAGAUUGUGUAAUGCAGUUAUAUAUUUUAUUAUGAAGUUUUUGCAGUUCCAUAUAACUUGAUAU
+..(((((.......)))))......((((((.((((((..((((((((((........))))).....))))).....)))))).)))))). (-10.30)
+>pseudo_premiRNA_22
+CUAUAUUGGCCUAUAUAGUUUUAUAUAGAUCUGUAUAGUUUAUAUAAUUUAUGUAGUUUUAUAUAGUUUUAUAUAGUUUUAUAUAGUUUUAUAUAG
+((((((....((((((((..(((((((((.((((((((.(((((((...)))))))..)))))))).)))))))))..))))))))....)))))) (-24.30)
+>pseudo_premiRNA_23
+CUGGUGAUAUCUCGGGUUCUAUUACAGAUAGCGCGAUAAAUCAAAGUGCAUUCUUUGCAGAGGCCCUGGCGCAUGAAUCUGUGCAGCAGCUACGACCUCGGACCACCAG
+((((((...(((.(((((((..(((((((.((((.(....((....((((.....)))))).....).))))....)))))))....))....))))).))).)))))) (-28.70)
+>pseudo_premiRNA_24
+GGCAAUUCUGGCCGACGGAAUCCAAGUUUUCCACUUUGGCAACCUGGUUUGUAUAGUCUAAAUCAUUUUCGACCAAAAGUAUCCAGAGCUUCCCAUCGGUCAGCCGGAUGUAGCC
+((((..((((((.(((.((....(((((((..((((((((((..(((((((.......)))))))..)).).)).)))))....)))))))....)).))).))))))..).))) (-30.30)
+>pseudo_premiRNA_25
+CUGGCCGACGGAAUCCAAGUUUUCCACUUUGGCAACCUGGUUUGUAUAGUCUAAAUCAUUUUCGACCAAAAGAAUACCGACCUUCCCAUCGGUCAG
+((((((((.((((.....((.(((...((((((((..(((((((.......)))))))..)).).))))).))).)).....))))..)))))))) (-23.40)
+>pseudo_premiRNA_26
+GCCAGGAAGGUCGGGGGAAGCCAUUUGACUUCGCAGUGAUGGGACUCCAGGACGAGGUCUCAUGGGACCAGGGCUACAUCCGGC
+(((.(((.((((..((....((((..(((((((......(((....)))...)))))))..))))..))..))))...)))))) (-30.30)
+>pseudo_premiRNA_27
+CCAAAGUGAAUUGUCUGCAGGAAGCCCUGGCGCAUGAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGG
+((...(((....(((((.(((..(.((((..((((.....))))..))))..)..)))))))))))...)) (-21.40)
+>pseudo_premiRNA_28
+UUCUAAGUCAAAUGGCUUCCGCCGACCUUCCUGGCAAUUCUGCCCGACGGAAUCCUAUUUUGCACUUUGGAA
+.(((((((((((.((.(((((.((........((((....)))))).))))).))...)))).)).))))). (-18.90)
+>pseudo_premiRNA_29
+AGCCGGAUGUAGCUUUGGUCCCUAUGAGACCUCGUCCUGGAGUCCCAUCACAGCUAAGUCAAAGGCU
+((((.(((.(((((.((......(((.(((.((......))))).))))).))))).)))...)))) (-17.30)
+>pseudo_premiRNA_30
+CUGACCCUGAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGUCCCUGGUGGUCCGAGGUCAUCCCGCUGCACAGAUUCAUGCGCCAGGGCCUCCUACAG
+........(((.(((((((..((((((.((((((...((((((.((.....)).)))))).....))))))......)))))).))).)))))))...... (-35.40)
+>pseudo_premiRNA_31
+CUCAUGGGGCCGGUCACUCAGGGUCGGGGAAAAAUCCAUAUAUAUCUGGUGAUAUCUCGGGUGCUAUUAGAG
+((.((((.(((.(((((.((((.....(((....))).......)))))))).....).))).)))).)).. (-19.10)
+>pseudo_premiRNA_32
+GCGAAGGUUACGGAGGGACGUGAAGCGCCCGAGCAAUGAAACGUCCGCAGGAGGAAACGAGCAACCGCCAACAUUGUUUCGCGACGUUUCCAUAAUGUAUUGUCGUUUCGCUCGCAUCCCGCUUCUUUCCCCUAGUUUCUCGACGC
+(((..((..((((.((((...((((((..(((((...((((((.(.(((..((((((((.((..................))..))))))).)..)))...).))))))))))).....))))))..)))))).))..).)..))) (-44.40)
+>pseudo_premiRNA_33
+GCGAAGGUUACGGAGGGACGUGAAGCGCCCGAGCAAUGAAACGUCCGCAGGAGGAAACGAGUAACCGCCAACAUUGUUUCGCGACGUUUCCAUAAUGUAUUGUCGUUUCGCUCGCAUCCCGCUUCUUUCCCCUAGUUUCUCGACGCGUAGUUUCGC
+((((((..(((((((((((..((((((..(((((...((((((.(.(((..((((((((......(((.(((...)))..))).))))))).)..)))...).))))))))))).....)))))).........)))))))....)))).)))))) (-46.00)
+>pseudo_premiRNA_34
+UUAUCGGGUCUUCGUUGGAAUUACCGUCGCUGGCAUUGUAAACUCCAGAUGACCUUGUGAUUCCUCGUCGGGCACUGGUAA
+.((((((((((.((..((((((((.((((((((...........)))).))))...)))))))).))..)))).)))))). (-28.60)
+>pseudo_premiRNA_35
+GAGUGGAGCGAAAGAUAAUAUAAAAAGGAGCGAAAGAUACAUACAUAUAUAUAUAUAAGUUACGAGUUCAAUUUCUGCACACACUC
+((((((.((((((..............((((....(((..(((.((....)).)))..)))....))))..)))).)).).))))) ( -8.80)
+>pseudo_premiRNA_36
+GGCCCUGGGCAUGAUUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGAGCCGACUGUCAGGGUC
+((((((((.((((.(((((((..((((.......(((((.((......))))))).......))))..))))))).))..)))))))))) (-35.30)
+>pseudo_premiRNA_37
+UCUUUCCGGAACCCGGCAGCGGAACCGCAUACCAUUCGGGCCCUCGUAAGAGUGUUCGUCGGGGUAACCCAAAUGACCUGGCGACGCCGUCGGGAGAUCCGGGGAGA
+((((((((((.((((((.(((....(((....((((.(((.(((((...((....))..)))))...))).)))).....))).))).))))))...)))))))))) (-46.40)
+>pseudo_premiRNA_38
+AUGGGACGCCAGGACGAUGUCUCAUAGGGACGAAGGCUACAUCCGACUGACCGAUGGGAAAGUGGGAUACUUUUGGCCGAAAUUGACUUUAGACUAUACAAUCCAGGUUUCCAAAGCGCAAAACUUGGAUUCGUCGGGCAGAAUUGCCAGGAAGGUCGGGGUAGUCAUUUGACUUAGCAGUGAUGGGACGCCAGGACGAUGCUCAU
+((((((((.(.....).)))))))).(((.((((((((((.(((((((..((..(((.((..........(((((.((((...................(((((((((((..........)))))))))))..)))).))))))).)))))..))))))))))))).)))).)))((((((..(((....)))..))..))))... (-60.40)
+>pseudo_premiRNA_39
+GUGUCGACCGUGGGACUUAGAAAAAUUUCGGGAAGUCCGAUUCGCCUGCUGGAAUUACCGCACGCCUGGACAGCCCGCAUCGACCGAUAC
+((((((..((((................((((..(((((....((.(((.((.....))))).)).)))))..)))))).))..)))))) (-24.40)
+>pseudo_premiRNA_40
+CUCUGCCUUAUGGCUAAGAUCAAAGUGUACUCGCAUAACAAACAUCCUGAUCCUUGUCGGCCAUAUGGCUAAG
+((..(((.((((((((((((((..((((.............))))..)))).)))...))))))).)))..)) (-20.40)
+>pseudo_premiRNA_41
+CUGGUGAUAUCUCGGGUGCUAUUCAGAUAGCGCAAUAAAUCGAAGUGCAUUGUCUGUAGGAGGCACUGGCGAAUGAAUCUAUGCAUCAG
+(((((((((((.(.((((((.(((((((((.(((...........))).))))))).))..)))))).).)).......))).)))))) (-25.20)
+>pseudo_premiRNA_42
+UCUUAGCCAUAAGGCCGAAAGCGAUCUGGAUUUGCGUUAUGCGAGUACACUUUGAUCUUAGCCACAAGGCCGAGAAGCGAUCUGGAUUGUGUUAUGCGAGUACACUAUGAUCGCAGCCAUAAGGCCGAGA
+((((.(((.((.(((.....(((((((((((((((((.((((((...((..(((.((((.(((....))).))))..)))..))..)))))).))))))))...))).)))))).))).)).))).)))) (-43.40)
+>pseudo_premiRNA_43
+GCCUGCACGCCUCUAAGGCCGUAUCCUUUCUAGUCAAAGGAGGCAACGAUAUUUCCUAAGGAGUUCGUGUGGGU
+(((((((((.((((.(((..(((((((((((......))))))....)))))..)))..))))..))))))))) (-25.70)
+>pseudo_premiRNA_44
+GAGUGUCCGACCGCAUGAGACAGUGGUUUUCUCGCCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCCAGGGCCUC
+(((.((((...((((((((.((((((...(((((..((....))..)))))......))))))......))))))))...))))))) (-32.90)
+>pseudo_premiRNA_45
+CGUCAGCGGCAAAUGGGGCGGGAUUCUUCCUUUACGGGUCGAAUCCUCCAUGAAGCCCUGACG
+((((((.(((..((((...(((((((..(((....)))..)))))))))))...))))))))) (-29.70)
+>pseudo_premiRNA_46
+UGGAAAUCUGGUUUCCAUAGUCUAGACUCAUUUUCGACUAAAGGUAACCCGGACUUUCCA
+(((((((((((.((((.(((((.(((.....))).)))))..)).)).))))).)))))) (-17.40)
+>pseudo_premiRNA_47
+GGACCAAGGCCGUAGCCGUCGUCCCGAUGAGACCUCGACCCAGGAGUCUCAUCACUGCUACGUCAUAUGGCUACCCUGGUCC
+((((((.((..(((((((((((..(((((((((.((......)).))))))))...)..)))....)))))))))))))))) (-34.80)
+>pseudo_premiRNA_48
+GUGCGGACGAGCACGCGUAUUCGUAACGGGUCGAAUAGUUCUUAUUCCCCGUCGUCGCGUGUCCUCGCUGGAC
+((.(((.((((.((((((...((..(((((..(((((.....))))))))))))..)))))).))))))).)) (-28.40)
+>pseudo_premiRNA_49
+CGAUCCAGAUCGUUUCUCGACAUUAUGGUUAAUAUCAACGUGUCUGGCAUAACGAAGAUCCAGAUCG
+(((((..(((((((.((.(((((..((((....))))..))))).))...)))))...))..))))) (-16.80)
+>pseudo_premiRNA_50
+CCAAAAGGAAGUACGCGAUUGAAACUGAUGAAAACAACUAAAAUGCAGGUUAAUCUGAGUGAAAUUCCGUAUUUUGG
+((((((((((...(((((((((..(((((.............)).))).))))))...)))...))))...)))))) (-13.40)
+>pseudo_premiRNA_51
+GACAAGUAACUAUAUCUGGCAAAUCACCAUCACCCCUGGGGCAUCUGCAACUGUCAAUGAUCAUCUUCAUCAGAAGCUUCUGUACUUGUGAAUUCAAAAUUUCUAGAAAUGUAGCGGUC
+(((..((.((.((.(((((.((((.....((((....(((((.((((.........((((......)))))))).))))).......)))).......))))))))).)))).)).))) (-19.50)
+>pseudo_premiRNA_52
+GACAUGGACCACCAGGGGCCGAGAAAAUUACAGAUUUUCGGUAUCCGUCACCCAAUUUCAUGUAAAAAUCCAGCUAUAUCUGGUGAUAUCUCGUGUU
+((((((((.((((((((((.(.((...(((((((..((.(((.......))).))..)).)))))...))).)))...)))))))...)).)))))) (-25.50)
+>pseudo_premiRNA_53
+GUCAGCCGGAUGUAGCCUUGGUCCCUAUGAGACCUCCCCUGGUGUCCAAUCAGUGCUAAGUCGAAUGGCUUCCCCCGACCUUCCUGGCAAUUCUGGCCGAC
+(((.((((((..(.(((..((((.((((..(((....((((((.....))))).)....)))..))))........)))).....))))..)))))).))) (-29.30)
+>pseudo_premiRNA_54
+AGUGCAUUGUCUCCAGGAAGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACACCUCGGACCAGCAGGGGCCGAGAAAAUCACCGUCUCAUGAGGCCGGGCUGUCAGGGUCAGGGAAAAAUAAAUAUCUAUCUGGUGAUAUCUCGGGUGCU
+...((((((((.(((((.(((((((((.(.(((.((((.(((((((((....(((((.((......)))))))....)).))).))......))))))...)))).)))))))............)).))))).))))......)))). (-46.20)
+>pseudo_premiRNA_55
+GAUAAACCAAAGUGUAUUGUCUGCAGGAGGCCCUGGGGCAUGAAUCUGUGCAGCGGGAACACCUCGGACCACCAGGGGCCGAGAAAAUCACCGACACAUGGGGCCGGUCACUCAGGGUCAGGGAAAAAUCAAUAUAUAUCUGGUGAUAUC
+((((.((((..((((((((.........(((((((((...((..((((((...(((((....(((((.((......)))))))....)).)))...))))))..))....)))))))))..........))))))))...))))..)))) (-48.20)
+>pseudo_premiRNA_56
+CCAAAGUGCAUUGUCUGUAGGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACACCUCGGACCACCAGGG
+((...(((....(((((.(((.(..((((..((((......))))..))))..).)))))))))))...)) (-23.70)
+>pseudo_premiRNA_57
+CCCUGGCGCAUGAAUCUGUGCAGCGGGAACACCUCGGACCACCAGAGGCCGAGAAAACCACCCUCUCAUUGGGCCGGACACUCAGGGUCGGGG
+(((((((.(.(((.((((.((((.(((.....(((((.((......))))))).......))).))......))))))...)))).))))))) (-33.30)
+>pseudo_premiRNA_58
+GUGCAUUGUCUGUAGGAGGCCCUGUCGCAUGAAUCUGUGCAGCGGGAACACCUCGGACGUCCAUGGGC
+((.(((((((((.(((.(..(((((.((((......)))).)))))..).)))))))))...))).)) (-26.10)
+>pseudo_premiRNA_59
+CAGGGUCAGUGAAAAAUCCAAUAUAUAUCUGCUGAUAUCUCGGGUGCUAUUAAGAUAGCGCAAUAAACGAAAUUGAAUUAUCUGCAGGAGGCCCUG
+(((((((....................(((((.((((..(((((((((((....)))))))...........))))..)))).))))).))))))) (-25.00)
+>pseudo_premiRNA_60
+CCCUGGCGCAUGAAUCUGUGCAGCGGGAACACCUCGGCCCACCAGGGACCGAGAAAACCACCGACACAUGGGGCCGGACACUCAGGGUCAGGG
+(((((((.(.(((.((((.((..(((......((((((((....))).))))).......))).........))))))...)))).))))))) (-36.50)
+>pseudo_premiRNA_61
+CCGAGAAUACCAUCGACACAUGGGGCCGGACUGUCAGGGUCAAGGAAAAAUCCAUAUAUAUAUGGUGAUAUCUCGG
+((((((.((((((......(((((.((.((((.....))))..)).....)))))......))))))...)))))) (-21.70)
+>pseudo_premiRNA_62
+UCAGGGUCAGGGGUAAAUCCAAUAUAUAUAUGGUGAUAUCUCGGGUGCUAUUACAGAAGCGCAAUAAAUCAUAGUACAUUGUCUGUAGGAGGCCCUGGCGCAUGA
+((((.(((((((.....(((.(((.((((((.(((((.......(((((........))))).....))))).)))...))).))).)))..))))))).).))) (-28.30)
+>pseudo_premiRNA_63
+CCCAUGAUCGACCGUAGAGCGCCGUGUCCGUCGUUCGGAGAGAUCCCGACGACGGGUACAAAGACGCCCGUACGGCAAAAUGGG
+(((((....(.((((((.((((.((((((((((((.(((....))).))))))))))))...).))).).))))))...))))) (-36.50)
+>pseudo_premiRNA_64
+AGCCCAGGCGCACGAAUCUGUUCAGCGGGAUCGACCUCGGACCACGAGGACCGAGAAAACCGUCGACACAUGGCGCCGGGCU
+(((((.(((((.((....(((((.((((..(((.(((((.....)))))..))).....)))).)).))))))))))))))) (-36.60)
+>pseudo_premiRNA_65
+CUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACGACCAGGGGCCGAAAAACCACAGUCUCAUGGGGCCGG
+(((((.(((((..(((((...(((......((((((....)).)))))))......)))))..)))))..))))) (-26.50)
+>pseudo_premiRNA_66
+GAUCGACCUCGGACCACCAGGGGCCGAGAAAAUCUCCAUCUCAUGGGGCCGGACUGUCAGGUC
+(((((((.((((.((.(((((((..((((...))))..)))).)))))))))...))).)))) (-22.40)
+>pseudo_premiRNA_67
+AGGUAUAAGGCAUAAUAGUUUGUAAGAAUACAUGUAAAUACUGUAUAUAUAUUUUACAAUAUUGUAUAGCGUUAUCACU
+.(((((((.(((((..(..(((((((((((((.((....))))))).....))))))))..)..))).)).)))).))) (-14.80)
+>pseudo_premiRNA_68
+AGGUAUAAGGCAUAAUAGUUUGUAAGAAUACAUGUAAAUACUGUAUAUAUAUUUUACAAUAUUGUAUAGCGUUAUCACU
+.(((((((.(((((..(..(((((((((((((.((....))))))).....))))))))..)..))).)).)))).))) (-14.80)
+>pseudo_premiRNA_69
+UGACCGCUUACAGACGUUUAGGUAUAGGCAAUUAAGCCUACCCUAAAGUCUGUAAGUCGGCG
+...((((((((((((.((((((..(((((......))))).))))))))))))))).))).. (-31.70)
+>pseudo_premiRNA_70
+GCCGAGAAAAUCACCGUCUCAUGGGGCCGGACUGUCAGGGUCAGAGAAAAAUUCAAUAUAUAUUGGUGAUAUCUCGGC
+(((((((..(((((((((((...((.((.((...)).)).)).))))................))))))).))))))) (-25.20)
+>pseudo_premiRNA_71
+AUAAUCAACUAACUGACUAAAAUAAUGUUUUAAUCGAGUUAUCAUCAUGGAAGACGCAUGGUCACACCUUGUGACCUUUCGCUUCCAGGAUAAAAACUCUAUUUAAACAAUAUUUUAGUCAAGUUACUUGUUCAUUGGUUAU
+((((((((.(((((((((((((((.(((((.(((.(((((...(((.((((((.((...(((((((...)))))))...)))))))).)))...))))).))).))))).)))))))))).)))))........)))))))) (-49.40)
+>pseudo_premiRNA_72
+GCCUUGGCGCAUGAAUCUGUGCAGCGGAAUCGACCUCGGACCACCAGGUGCCGAGAAACCACCGCCUCAUGGGGUCGGACUGUCAGGGU
+(((((((((..(((.((((((..((((.......((((((((....))).)))))......))))..)))))).)))...))))))))) (-36.10)
+>pseudo_premiRNA_73
+GCUGUAUCUUAUGGAACCCGAGAUAUCACCAGGUAUAUAUUGGAUUUUCCCUGACCCUGAGUUUCCGGCCCAAUGAGACGGU
+((((..((((((((...(((.((..(((...(((.......(((...)))...))).)))..)).))).)).)))))))))) (-16.80)
+>pseudo_premiRNA_74
+GCCGGAUGUAGCCUUGGUCCCUAUGAGAUCUGUCCUGGAGUCCCAUCACUGCUAAUUCAAAUGGCUACCCCCGAACUUCCUGGCAAUUCUGGCAGACGGAUCCAAGUUUUCCACUUUGGC
+((((((((.((.((((((((((.(.(((..((((..(((((.........((((.......)))).........)))))..))))..))).).))..))).))))).))..)).)))))) (-29.50)
+>pseudo_premiRNA_75
+GGUCGGGUGUAGCCAUUUGACUUAGCAUGAUGGGACUCCAGGGCGAGAUCUCAUAGGGACCAAGGCUACAUCCGGCU
+((((((((((((((......((((......((((((((......))).)))))))))......)))))))))))))) (-32.20)
+>pseudo_premiRNA_76
+UUGCCAGGAAGGUCGGGUGUAGCCAUUUGACUUAGCAUGAUGGGACUCCAGGGCGAGAUCUCAUAGGGACCAAGGCUACAUCCGGCUGACCGAUGGGAA
+.(.(((((..((((((((((((((......((((......((((((((......))).)))))))))......))))))))))))))..))..))).). (-39.20)
+>pseudo_premiRNA_77
+UCUGGUACUUUUGGUGGAAAAUGACAUUAGACUAUACAAACCAGGUUGCCAAAGAGGAAAACUUGGAUUCCGUCGCCAGAAUUGCCAGG
+.((((((.(((((((((.......................(((((((.((.....))..)))))))......))))))))).)))))). (-26.00)
+>pseudo_premiRNA_78
+ACCGAGAUAUCACUAGAUAUAUAUUGGAUUUUUCGCUGACCCUGAGUGUCCGACCCCAUGAGACGGUGGUUUCUCGGU
+(((((((.((((((.........((((((..((((.......)))).))))))...........)))))).))))))) (-21.60)
+>pseudo_premiRNA_79
+GGAGGCCCUGGCGCUGAAUCUGGGCAGCGGGAACUACCUCGGACCACCAGGGGCCGAGAAAACCACCGACUCACGGGGCCGGAACUCAGGGUCAGGGGAAAAUCC
+(((..(((((((.((((.(((((.((((((.......(((((.((......))))))).......))).)).....).)))))..)))).))))))).....))) (-44.60)
+>pseudo_premiRNA_80
+GCCGGAUGUAGCUUUGGCCCUUUGAGACCUCGUCCUGGAGUCCCAUCACUGCUAAGUCAAAUGGCUAUCCCCGGC
+(((((..(((((((((((....((.(((.((......))))).)).....))))).......))))))..))))) (-23.70)
+>pseudo_premiRNA_81
+GGUGGCCGUCCCCGUUGGAUCCCGCGUCGAUGAAGGGGUGUGGGUUGGCGGGGCGGGGGUGGCGCGUCGCAGCGCACGUCAAAUGCGGGGGCGGGGACUGGGCCGCC
+(((((((((((((((....((((((((...(((.....((((.((((.(((.(((.......))).))))))).))))))).))))))))))))))))..))))))) (-61.70)
+>pseudo_premiRNA_82
+GGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAAUCAGCGCUCAUGGGGCCGGACAGUCAGGGUC
+(((((((((...((..((((((.((((........(((((.((......)))))))........))))))))))..))....))))))))) (-37.90)
+>pseudo_premiRNA_83
+CGUGGACUUAGAAAAAUUUCGGGAAGUCCGAUUCGCAUGCUGGAAUUACCGCACGGGCUGGACACCUCGCUCCACG
+((((((.............((((..(((((.((((..(((.((.....))))))))).)))))..)))).)))))) (-22.10)
+>pseudo_premiRNA_84
+GCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCGGUUAAAAAGCUCGUAGUUGAUCUGU
+((((((((.(((((......((((.(((((((..........))))))).)))).....)).))).))))..)))) (-18.00)
+>pseudo_premiRNA_85
+UGUAGGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGUCGACCUCGGUCCACCAGGGGCCGAGAAAAUCACCGUCUCAUGGGGCCGGACUUUCAUGGUCAGGGAAAAUCCAACA
+(((.(((..(((((((.((((((((((.((((((((.....((((((((.....)))))))).....).))).))......))))))..)))))))))))))....))).))) (-47.40)
+>pseudo_premiRNA_86
+AUAACCGCCGCCGACUUUGGGCGAAAGCGUUGAAAGAACGCGUCGGUCGCCCCAUGGUGUGUGUUUGU
+((((.((((((((.....((((((..(((((.....))))).....))))))..))))).))).)))) (-25.70)
+>pseudo_premiRNA_87
+GGCCCCAUGAGACUGUGGUUUUUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGCGGCACAGAUUCAUGCGCAAGGGCC
+(((((((((((.(((((.(....(((((..(((....))).))))).......).))))).)))))).....))))) (-28.50)
+>pseudo_premiRNA_88
+CUUUAAUUUCUACGCGCGCGCUUUAUUUUUAAAUGCUUUUUGAAAGAAAAUAUUAAGCCUAAGAGUUUCUAAGUGAAGAAUUGGAG
+((((((((.((.(((.........(((((((...((((..((........))..)))).)))))))......))).)))))))))) (-11.40)
+>pseudo_premiRNA_89
+GACCCUGGCGUAUGAAUCUGUGCAGCGGGAACGACCCGGACCACCUGGGGCCGAGAAAACCACCGCCUCAUGGGGCCGUACACUUAGGGUC
+((((((((.(((((..((((((..((((...((.(((((.....)))))..)).........))))..))))))..))))).).))))))) (-35.30)
+>pseudo_premiRNA_90
+CACCAGGGGCCGAGAAAACCCCGUCUCAUGGGGCAGGACUCUCAGGGUCAGGGGAAAAUCAAAUAUAUAUCUGGUG
+(((((((......((...(((((.(((.(((((......)))))))).).))))....)).........))))))) (-20.90)
+>pseudo_premiRNA_91
+CUCAUGCGGCCGGACACUCAGGGUCAGGGAAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUGCAUUAGAG
+((.(((((.((((((((.((((.....(((....)))........)))))))...)).))).))))).)).. (-21.00)
+>pseudo_premiRNA_92
+GGAGGCCCGGGCGCAUGAAUCUGGCCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCCCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGAAUAAUCC
+(((..(((.(((.(.(((.(((((((((((((......(((((.((......))))))).....)))).)).....)))))))...)))).))).))).....))) (-42.30)
+>pseudo_premiRNA_93
+CUCAUGUGGCCGGACUGUCAGGGUCAGGGAAAAAUUCAAUAUAUAUCUGGUGAUAUCUCGGGUGCAUUAG
+((.(((((.(((((.(((((...(((((.................)))))))))))).))).))))).)) (-15.70)
+>pseudo_premiRNA_94
+CUCAUGGGUCCGGACACUCAGGUUCAGGGGAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUGCAUUAGAG
+((.(((.((((((((((.(((((.....(((...))).......))))))))...)).))))).))).)).. (-17.50)
+>pseudo_premiRNA_95
+CUCAUGUGGUCGGACUGUCAGAGUCAGGGAAAAAUUCAAUAUAUAUCUGGUGAUAUCUCGGGUGCAUUAG
+((.(((((.(((((.(((((...(((((.................)))))))))))).))).))))).)) (-13.20)
+>pseudo_premiRNA_96
+CUGCCCGACGGAAUCCAAGUUUGGCACUUUGGAAACCUGGAUUGUAUAGUCUAAAACAAUUUCGAACAAAAGUAUCCCGAACUUCCCAUGGGUCAGUCGGAUGUAG
+(((((((((.((.(((((((((((.(((((........(((((((..........)))))))......)))))...))))))).....)))))).)))))..)))) (-26.40)
+>pseudo_premiRNA_97
+CUUACUCGGUUGGGCGGAGCGCGUGCACCGAGGUCUUAUGACCCGGUUGUCACGGUGUUCUAGAGCCAGCGUGUAAG
+(((((.((.((((..(((((((((((((((.((((....))))))).)).))).)))))))....)))))).))))) (-34.90)
+>pseudo_premiRNA_98
+ACUCAGGGUCAGGGAAAAAUCCAAUGUAUAUCUGGUGAUACUCGGGUGCUAUUAGAGAUAGCGCAAUGAACCAAAGUGUAUUGUCUGCAGGAGGCCCUGGCGCAUGAGU
+((((((.(((((((.....(((...((((((.((((.....(((.((((((((...))))))))..)))))))..))))))........)))..))))))).).))))) (-35.30)
+>pseudo_premiRNA_99
+CUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUGUAUAUCUGGUGAUACUCGGGUGCUAUUAGAG
+((.((((.(((.(((((.((((..((..(((...)))..))....)))))))....)).))).)))).)).. (-21.70)
+>pseudo_premiRNA_100
+CGCGUAGCGUUCGUCCUCUUCGGCCGCCAUUCAACGCUCAGCUCAGAACUGGCACGGACUAGGGAAUCCGACUGUCUAAUUAAAACAAAGCAUUGCGAUGGCCCCCGCGGGUGUUGACGCAAUGUG
+(((((.(((((...(((...(((..(((((((((.(((............((((((((........))))..))))............))).))).))))))..))).)))....))))).))))) (-36.90)
+>pseudo_premiRNA_101
+AUUUCUGCCAGUGCUCGGAAUGUCAACGUGAAGAAAUUCAAAAAAGCGCGGGUAAACGGCGGGAGU
+(((((((((..((((((...(((.....((((....)))).....)))))))))...))))))))) (-18.80)
+>pseudo_premiRNA_102
+CCCUGGCCCAUGAAUCUGUGAGGCGGGAACAACUCGGACCACCAGGGUCCGAGAAAACCACCGUCUGAUGGGGCCGGACUUUCAGGGUCAGGG
+(((((((((.(((((((((.((((((......((((((((.....)))))))).......)))))).)))))........))))))))))))) (-48.00)
+>pseudo_premiRNA_103
+CCCUGGCCCAUGAAUCUGUGAGGCGGGAACAACUCGGACCACCAGGGUCCGAGAAAACCACCGUCUGAUGGGGCCGGACUUUCAGGGUCAGGG
+(((((((((.(((((((((.((((((......((((((((.....)))))))).......)))))).)))))........))))))))))))) (-48.00)
+>pseudo_premiRNA_104
+AGGAGCCGAGAAAACCACCGUCCCAUGUGGCCGGCACUCAGGGUCAGGGUAACAUCCAAUAUAUAUAUGGUGAUAUCUCGGGUGCU
+((.(.((((((....(((((((((...(((((.........)))))))).................))))))...)))))).).)) (-26.30)
+>pseudo_premiRNA_105
+UAUAAGGCCGAGAAGCGAUCUGGAUUUGGGUUAUUCGUGUACACUUCGAUCGUAGCCAUAGGCCGAGCAGCGAUCUGGAUUUGGGUUAUUCGAGUACACUUUGAUUUUAGCCAUAAGGCCGAGAAGCGUCUGGAUGUGCGUUAUG
+(((((.(((.(((.((..(((((..((((((((.((((((((...((((..((((((..(..((((.......)).))..)..))))))))))))))))...))...))))).)))..)).))).)).))).)....)).))))) (-37.60)
+>pseudo_premiRNA_106
+UCUUAGCCAUAAGGCCGAGAAGGGAUCUGGAUGUGUGUAUGCGAGUACCCUUUGAUCUUUGCCAUAAGGCCGAGA
+((((.(((.((.(((.((((((((..((.((((....))).).))..))))....)))).))).)).))).)))) (-22.70)
+>pseudo_premiRNA_107
+GAGUGUCCGGCCCCAUGAGACGGUCGUUUUCUCGGCCCCGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCCAGGGCCUC
+(((.(((((((..((((((...((.((.....(((((.(((....))).))))).....)).)).....)))))).))).))))))) (-31.50)
+>pseudo_premiRNA_108
+AUUUUUUUUCCCGCGCUCCCGACGUCACCUGAAAUGAUGCGUCAGAGGUGAAAGAAAAU
+((((((((((..((.(((..((((.((.(......).)))))).))))))))))))))) (-14.50)
+>pseudo_premiRNA_109
+CCUGGCGCAUGAGUCUGGCCAGCGGGACCGACCUCGGACCACCAGCGGCCGAGAAAAAACCGUCUCAUGGGGCCGGACACUCAGGGUCGGG
+((((((.(.(((((((((((...(((((....(((((.((......)))))))........)))))....))))))))..)))).)))))) (-41.00)
+>pseudo_premiRNA_110
+UCUGGUGAUAUCUCGGGUCUGUUAGAGACAGCGCAAUAAAUCAAAAUGCAUUGUCUGUAGGAGGCCCUGUCGCAUGA
+((..((((((....((((((.(((.((((((.(((...........))).)))))).))).))))))))))))..)) (-31.10)
+>pseudo_premiRNA_111
+CGCGAAGGUUACGGAGGGACGUGAAGCGCCCGAGCAAUGAAACGUCCGCAGAGGAAACGAGUAACCGCCGAACAUUGUUUCGCGACGUUUCCAUAAUGUAUUGUCGUUUCGCUCGCAUCCGCUUCUUUCCCCUAGUUUCCUCGACG
+(((((.((..((((.((((...((((((..(((((...((((((.(.(((..(((((((......(((.((((...)))).))).)))))))....)))...).)))))))))))....))))))..)))))).))..))))).)) (-48.80)
+>pseudo_premiRNA_112
+UAUCGCCAGAUAUAUGCUGGAUUUUACAUGACUUUGGGUGACGGAUACCGAAAAUCUGUAAUUUUCUCAUCCCCUGGUGGUG
+(((((((((....(((..(((..(((((.((.(((.((((.....)))).))).)))))))..))).)))...))))))))) (-24.40)
+>pseudo_premiRNA_113
+UAUAUAAAACUAUAUAAACAAUACAAAACUAUAUAAAACAUUAUAAAAUUGUAUAAAACUAUAUAAAACUAUAUA
+((((((....((((((....((((((...((((........))))...)))))).....))))))....)))))) ( -7.20)
+>pseudo_premiRNA_114
+ACCCAGAAAAUCACCGACACAUGGGGCCGGACUGUAAGGUCAGGGUAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGU
+(((((((..((((((((....(((((((.((((....))))..)))....)))).......)).)))))).))).)))) (-22.70)
+>pseudo_premiRNA_115
+AUCUGGAUUUGGGUUAUUCGAGUACACUUUGAUCUUAACAAUAAAGCCUAGAAGCGAUCUGGAU
+((((((((((((((((((.(((..((...))..)))...))))..))))).....))))))))) ( -9.90)
+>pseudo_premiRNA_116
+GUGUUUAUGCGAGUACACUGUGAUCUUAGCCAUAAGGCCGCGAAGCGUAAUGGAUUUGGGUUACGCGAGCACAUUUGAUCUUAGCCAUAUGGACGAGAAGCGUUCUGUAUUUGUGUUAUGC
+((((..(((((((((((.(((..((((..(((((.(((.((...(((((((........)))))))..)).............))).)))))..)))).)))...))))))))))).)))) (-34.80)
+>pseudo_premiRNA_117
+GCGCCGAGAAAAUUACAGAUAUUUGGAAUCGUCACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGGUGAUAUCUCGGGUGC
+(((((((((..((((((((((((((((..(((.(((...))).)))......)))))...)))))).))))).)))).))))) (-24.70)
+>pseudo_premiRNA_118
+GGCCCUGGCGUAUGAAUCUGUGCAGCGGGACGACCUCUGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGAGCCGAACACUCAGGGUC
+((((((((.((.((..((((((..((((..((.((((((.....)))))).)).........))))..))))))..)).)).).))))))) (-34.00)
+>pseudo_premiRNA_119
+GGCGAGGUGCGAUAGCGUCGAUUCGCUUUUCUGUACGGGGAGAAAUAGAACGAUGAGCUGACUUAUCGGGCUUCGUU
+.(((((((.((((((.((((.((((...((((((..........))))))...)))).)))))))))).))))))). (-27.10)
+>pseudo_premiRNA_120
+ACGAUUUCCGUGCGUCUUACGUCUCUCGACGAUGGGACGAUCCACGCGAAGAGUUGU
+(((((((((((((((((((((((....)))).)))))))...)))).)))..))))) (-20.10)
+>pseudo_premiRNA_121
+GGGGUAGCCAUUUGACUUAGCAGUGAUUGGACACCAGGGCGAGGUCUCAUAGGGACGAAGGCUACUCC
+(((((((((.((((.((((..((...(((..(....)..)))...))..))))..))))))))))))) (-22.40)
+>pseudo_premiRNA_122
+GAGUGUCCGGCCCAUGAGACGGUGGUUUUCUCGGACCCCGGUGGUCCGAGGUCAUUCCCGCUGCACAGAUGCAUGUGCCGGGCCUC
+(((.(((((((.((((...((((((...(((((((((.....)))))))))......))))))........)))).)))))))))) (-41.40)
+>pseudo_premiRNA_123
+UUGGCAACCUGGUUUGUAUAGUCUAAAGUCAUUUUCGACCAAAAGUAUCCGACCUUCCCAUCGGUGAGCCGGAUGUAGCCUUGGUCCCUAUGAGACCCCGCCCUGGUAUCCAA
+.(((..(((.((...((...(((.....((((....((((((...((((((..(((.((...)).))).)))))).....))))))...)))))))...)))).)))..))). (-25.90)
+>pseudo_premiRNA_124
+GCCGGAUGUAGCCUUGGUCCCUAUGAGACGUCGUUCAGGAGUCCCAUCACAGCUAUGUCAAAUGGC
+((((((((((((..(((.((((((((....))))..))).)..))).....))))))))...)))) (-17.80)
+>pseudo_premiRNA_125
+AGCCGGAUGUAGCCUUGGUCCCUGCGAGACCUCGUCCUGGAGACCCAUCACUGCUAAGUCAAACGGCU
+((((((((.((((...((((((.((((....))))...)).)))).......)))).)))...))))) (-21.20)
+>pseudo_premiRNA_126
+UGGUGAUAUCUCGGGUGCUAUUACAGAAGAGCAAUAAAUCAAAGUGCAUUGUCUGUAGGAGGCCCUGGUGCAUCA
+(((((.((((..((((.((.(((((((.(((((...........))).)).))))))).)))))).))))))))) (-22.30)
+>pseudo_premiRNA_127
+AUCUGGUGAUAUCUCGGGUGCUAUUACAGAAGAGCAAUAAUUCAAAGUGCAUUGUCUGUAGGAGGUCCUGGCGCAUGAAUCUGAGGAGCGGGAU
+((((.((.....((((((((((((((((((.(((((...........))).)).))))))).......))))))......)))))..)).)))) (-21.40)
+>pseudo_premiRNA_128
+CCGAGGGUUCACUUCAGAGUAUCUUCUUGGGAAAGCCAACCUCAAUACCACUUGUCAGGACACUCUUGG
+((((((((((.((.(((.((((....((((.....)))).....))))...)))..)))).)))))))) (-15.50)
+>pseudo_premiRNA_129
+GGGCUUAUUCUCUUUCCGAAUCUUGAUGGCUUCGUGGACAUGAAGCUAUUAUGAUCUUCCACUCCAAGAAUCCGGUUC
+(((((.(((((......(((((.((((((((((((....)))))))))))).)))..)).......)))))..))))) (-19.40)
+>pseudo_premiRNA_130
+CCGAGGGUUCACUUCAGAGUAUCUUCUUGGGAAAGCCAACCUCAAUACCACUUGUCAGGACACUCUCGG
+((((((((((.((.(((.((((....((((.....)))).....))))...)))..)))).)))))))) (-17.60)
+>pseudo_premiRNA_131
+GGGCUUAUUCUCUUUCCGAAUCUUGAUGGCUUCGUGGACAUGAAGCUAUUAUGAUCUUCCACUCCAAGAAUCCGGUUC
+(((((.(((((......(((((.((((((((((((....)))))))))))).)))..)).......)))))..))))) (-19.40)
+>pseudo_premiRNA_132
+CCGAGAUAUCACCAGUUAUAUAUUGGAUUUUUCCUGACCCUGAGGUCCGGCCCCAUGAGACGGUGGUUUUCUCGG
+((((((.((((((.(((.(((...((......((.((((....)))).))))..))).)))))))))..)))))) (-24.10)
+>pseudo_premiRNA_133
+UCCUAUAUAUACCUGGUGAUAUCUUGGGUGCUAUUAGAGAUAGCGCAAUAAAUCAAAGGCAUUGUCUGUAGGA
+(((((((.((((((..((((.......((((((((...)))))))).....)))).)))...))).))))))) (-19.60)
+>pseudo_premiRNA_134
+CGUAGCUCUGUCAAAUCCCCGCCGUCGUUCACCUCUUCGGAUCGAACGUUUUUUUACCGAAGGGCGCAAGAGCGUUUCUGAGUCGGGUUAAGAGAAGGAUGCUACG
+(((((((((.((.....(((((((.(((((.(((((((((................)))))))).)...)))))....)).).))))......)).))).)))))) (-30.40)
+>pseudo_premiRNA_135
+GUAGCUCUGUCAAAUCCCCGCCGUCGUUCACCUCUUCGGAUCGAACGUUUUUUUACCGAAGGGCGCAAGAACGUGUCUGAGUCGGGUUAAGAGAAGGAUGCUAC
+((((((((.((.....(((((((.(((((.(((((((((................)))))))).)...)))))....)).).))))......)).))).))))) (-28.00)
+>pseudo_premiRNA_136
+GCCGUCGUUCACCUCUUCGGAUCGAACGUUUUUUUACCUAAGGGCGCAAGAACGUCUCUGAGUCGGGUUAAGAGAAGGAUGC
+..((((.(((((((.((((((..((.(((((((...((....))...)))))))))))))))..)))).....))).)))). (-21.70)
+>pseudo_premiRNA_137
+GUAGCUCUGUCAAAUCCCCGCCGUCGUUCACCUCUUCGGAUCGAACGUUUUUUUACCGAAGGGCGCAAGAACGUCUCUGAGUCGGGUUAAGAGAAGGAUGCUAC
+((((((((.((.....(((((((.(((((.(((((((((................)))))))).)...))))).)...).).))))......)).))).))))) (-28.50)
+>pseudo_premiRNA_138
+CCGAGAAAUCCACAGUCUCAUGGGGCCGAGUACUCAGGGUCAGGCAAAAAUCCAAUAUAUAUUGGUGAUAUCUCGG
+((((((.(((..((((....(((((((((.(......).)).))).....))))......))))..))).)))))) (-19.20)
+>pseudo_premiRNA_139
+GGAGGCCCUGGCGCAUGAAUCUGGGCAGCGGGAACGACCUCGGACCACCAGGGCCCGAAAAACCACCGUCUCAUAGGGCCGGACACUCAGGGUCAGGGAAAAAUCC
+(((..(((((((.(.(((.(((((.((((((........((((.((.....)).)))).......))).)).....).)))))...)))).))))))).....))) (-36.80)
+>pseudo_premiRNA_140
+GUGCAUUGUCUGUAGGAGGCCCUGACGCAUGAAUCUGUGCAGCGGGAUCGACCUCGGACACCAC
+(((...((((((.(((.((.((((..((((......))))..)))).))..))))))))).))) (-22.90)
+>pseudo_premiRNA_141
+GAUCUGGAUUUGGGUUAUGCUAGUACGCGUUAUAUUAGCCGUAAGUCCCGGGAGGCGAUCUGGAUC
+(((((((((((((((((((((((((.......)))))).)))))..))))......)))))))))) (-19.30)
+>pseudo_premiRNA_142
+CGUCGGUGCAGAUCUUGGUGGUAGUAGAAAUACUCCAGCGAGGCCCUGGAGGACUGACG
+(((((((.(((.(((((.(((.((((....))))))).)))))..))...).))))))) (-22.40)
+>pseudo_premiRNA_143
+UCGACAUGGGUACGCCUAGCAUGGUUCGCGCUUUCUCGAUAUGUCCAGCAUGUUAACGACGCGGUCUUCGGACUUCGUGCGUUAUGUCCGUGCUUACACGAUGGAGAGCGCUCGAGCAUACGUGCUUCAAACCUGACAGUCGA
+(((((.(((((......(((((((((((.((.(((((.((.(((..((((((.((((((((.((((....)))).))).)))))....)))))).)))..)).))))).)).)))))...))))))....)))))...))))) (-51.90)
+>pseudo_premiRNA_144
+GAGUGGAGCGAAAGAUAAUAUAAAAAGGAGCGAAAGAUACUACAUAUAUAUAUAUAAGUGUACGAGUUCAAUUUCUGCACACACUC
+((((((.((((((..............((((.....(((((..((((....)))).)))))....))))..)))).)).).))))) (-13.50)
+>pseudo_premiRNA_145
+GGCCCUGGCGCAUGAAUCUGUGCAGCGGGAUCGAAUCGGAACACGAGGGACCGAGAAAACCAUCGACACAUGGGGCCGGACUGUCAGGGUC
+((((((((((..((..((((((...(((.......((((..(.....)..))))........)))...))))))..))...)))))))))) (-28.30)
+>pseudo_premiRNA_146
+UGGACUGUAUAGUUUAAAGUCCAUUUCGACCAAAAGUAUCCCGAAAAUCCCCUGGGUCAGCCGGAUGUGCCUUGGUUCCUAUGAGACCUCUCGCUGUUGUCCA
+(((((...(((((.....((((((...((((((...(((((.(...((((...))))...).)))))....))))))...))).))).....))))).))))) (-26.70)
+>pseudo_premiRNA_147
+GUUCUGCGCCUACCAUGGUUGUAACGGGUAACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGC
+((.((((((((.((.(((.(((....((((.(.(....(((((.(((............))).)))))...).).))))))).))).)).)))).)))))).. (-38.00)
+>pseudo_premiRNA_148
+UAUAUAAAACUUAUAAAACUGUAUAAAACUAUAUAAAUCUGUAUAAAACUAUAUAAAACUAUAUAAAAGUAUAUAAAUCUUAUAAAACUAUAUA
+((((((....((((((...((((((....((((((....((((((....))))))....))))))....))))))....))))))...)))))) ( -9.50)
+>pseudo_premiRNA_149
+GCUCGUUUUAAAGCCGUGCGUCUGACACCCAACUCUGCGCGCCAAUUUCGCGGCAAGAGAUAAUAUGGGACGAAUGACCGGCAAAGAGC
+((((.(((....((((..(((.((...((((.((((((.(((.......))))).))))......)))).)).)))..))))))))))) (-24.10)
+>pseudo_premiRNA_150
+CUGAGUGUCCGGCCCCAUGAGACUGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCUUGCACAGAUUCAUGCGCCAGGGCCUGCUGCAG
+(((((((((((((..((((((.(((((.......(((((..(((....))).)))))........))))).)))))).))).))))..))).))) (-34.80)
+>pseudo_premiRNA_151
+GCGACCGAGAAAACCAUCGACACAUGGAGCCGGACGUCAGGGUCGGGGAAAAAUAAAAUAUAUAUCUGUCGAUACCUCGGGUGC
+((..(((((......(((((((.(((...((.(((......))).))...............))).)))))))..)))))..)) (-22.80)
+>pseudo_premiRNA_152
+GGUGGUCUAAUAAUCCUUGAAGGUUUUAUGAACGUUAACCUAAUAUCACUAACAACGAUUAUCCAUUCCUAGACUAACC
+(((((((((((((((.(((..(((..(((.............)))..)))..))).)))))).......)))))).))) (-13.60)
+>pseudo_premiRNA_153
+GUAGGAGACAUGAGAGGUGUAGCAUAAGUGGGAGAUGGUAACAUCGCCGGUGAAAUACCACUACUUUCAUCUUUCUUUAC
+..((((((.(((((((((((..(((...(((..((((....)))).))))))..))))).....)))))).))))))... (-20.60)
+>pseudo_premiRNA_154
+UUAUAUCUGGUGAUAUCUCGGGUGCUAUUACAGAUAGCGCGAUAAAUCAGAGUGA
+.....((((((..((((....((((((((...)))))))))))).)))))).... (-15.60)
+>pseudo_premiRNA_155
+GUCCGGCCCAUGAAACAGUGGUUUUCUCGGUCCCUCGUGGUCCGAGGUCGAUCCCGCUGCACAGAUUCAUGCGCCAGGC
+(((.(((.((((((.((((((...((((((.((.....)).))))))......))))))......)))))).))).))) (-30.30)
+>pseudo_premiRNA_156
+UUAAAAAAGUUGGUGUCGACCGUGGGACUUAGAAAAAUUUCGGGAAGUCCGGUCGCCUGCUGGAAUUACCGCACGGGCUGGACACCUCGCUCCGACGAAUCGGUUUUUUCCAUUUUUUUUAA
+.((((((((.(((..((((.(((.(((.............((((..((((((((.(.(((.((.....))))).)))))))))..)))).))).)))..))))......))).)))))))). (-36.20)
+>pseudo_premiRNA_157
+UCCAAGUUUUCACUUUGGCAACCUGGUUUGUAUAGUCUAAAGUCAAUUUCGACCAAAAGUAUCCCGACCUCCCAUCGGUAGCCGGAUGUAGCCUUGGA
+((((((....((.((((((.(((.((((.(.(((.(.....(((......)))....).))).).)))).......))).))))))))....)))))) (-21.40)
+>pseudo_premiRNA_158
+GGAUGCCCUGGCUCUAAAUCUGUGCAGCGGGAUCGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGUCGGAACUCAGGGUCAGGGAAAAAUCC
+((((.((((((((((...((((((..((((.......(((((.((......))))))).......))))..))))))..........))))))))))....)))) (-36.90)
+>pseudo_premiRNA_159
+GGCUCUGGCGCUGAAUCUGUGCAGCGGGAUCGUCCUCGGACCGCCAGGGGCCGAGAAAAUCACCGUCUCAUGGGGUCGGAACUCAGGGUC
+((((((((..((((.((((((..(((((((..((.((((.((......))))))))..))).))))..)))))).))))..).))))))) (-38.40)
+>pseudo_premiRNA_160
+GUCACCCAAUGUCAUGUAAAAAUCCAGCAUAUAUCUGGUGAUAUUCGGGUUAUAUUACAGAUAGGGCGAU
+(((.(((..((((.(((((.(((((.....(((((....)))))..)))))...)))))))))))).))) (-18.40)
+>pseudo_premiRNA_161
+GGAGACCGCGCGAGAUCCGCUUCGGUCGUCCAGUCCCCGAAAAUUCUUCUCGGACGGGCGUUAAAGUUAACGGAGCGCGCGAUCGUC
+((.((.((((((...(((((((.((.(((((.((((..(((.....)))..))))))))))).)))....)))).)))))).)).)) (-31.50)
+>pseudo_premiRNA_162
+ACUGUCUCUCUUUCGUCGUGGAAACCCCGCGUCGGAGAGAAAACGCGCGAAGGCUGUGACUGUAACAUAUAUAUAUAUAUAUACACAGUAUACAAUGCCUGUGGUUUUGCGCGUGUCAGCUCUUCGGUAUACGCGAUCGGCCAGAGUUACGGAGGGACGGU
+(((((((((((....((.(((...((.((((((((((((...(((((((((((((((((((((...((((((....))))))..))))).))))..))))......)))))))).....)))))))....)))))...))))))).....))))))))))) (-60.80)
+>pseudo_premiRNA_163
+CGCGCGGAGAGUAAAACGCGCGAAGGCUGUGACUGUAACAUAUAUAUAUACAGUAUACAAUGCCUGUGGUUUUGCGCGUGUCAGCUCUUCGGUAUACGCG
+((((((((((((...((((((((((((((((((((((...........)))))).))))..))))......))))))))....)))))))).....)))) (-38.40)
+>pseudo_premiRNA_164
+CCAUUUUGCCGUAGGGCGUCUUAGUACCCGUCGUCGGGAUCUCUCCGAACGACGGACACGGCGCUCUAACGGUCGAUCAUGG
+((((.(((((((((((((((...((..(((((((((((.....)))).)))))))..)))))))))).)))).)))..)))) (-39.40)
+>pseudo_premiRNA_165
+AAAAUUUUUCUCCUCUUUCGUUCGUUUCUCCGUUUUUUUUCGCUCAGUUGAAAAGCAAUACGUCGCGGAACUUUGAAAAAUAACGAGAUAAAAAAAAUUUUUGUACAUUUUUUCAUCGUUAUUCGUACACGACUUAGCGUUGGAAAAUUUUUAAACCGAAUUUUGAAAAAUUUU
+((((((((((......((((...((((....(((((((..((((.(((((...........((.(((((((..(((((((..((((((..........))))))....)))))))..))..))))))).))))).))))..)))))))....))))))))....)))))))))) (-31.10)
+>pseudo_premiRNA_166
+GAGUGUCCGGCCCAUGAGACGGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCCAGGCCUC
+(((.(((.(((.((((((.((((((...((((((((......)).))))))......))))))......)))))).))).)))))) (-32.60)
+>pseudo_premiRNA_167
+GGAAGGUCGGGGGUAGCCAUUUGACUUAGUAGUGAUGGGACUCCAGGACGAGGUCUCAUAGGUUCCAGGCUACAUCCGGCCGACC
+((..(((((((.((((((....((((((.......(((((((.(.....).)))))))))))))...)))))).)))))))..)) (-34.60)
+>pseudo_premiRNA_168
+GAGUGUCCGGCCCAUGAGACUGUGGUUUUUUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGUUGCACAGAUUCAUGCGCCAGGCCUC
+(((.(((.(((.((((((.(((((.......(((((..(((....))).))))).........))))).)))))).))).)))))) (-33.40)
+>pseudo_premiRNA_169
+UGACCUGUAGGAGGCCUGGCGCAUGAAUCUGUGCAGCGGGAACGUCCUCGGACCUCCAGGGGCCGAGACAACGACCGUCUCAUGGGCCGGACACUCAGGGUCA
+((((((....((((.(((((.(((((.........((((...(((.(((((.(((....))))))))...))).)))).))))).))))).).))).)))))) (-41.10)
+>pseudo_premiRNA_170
+CUGUGAGUUGGUUUCAAAACCAUUUUGCUGUGGAAAGGUUUCCGUGAGUUGUACUCCAAAACCAUUUUGCAGUGAAAAUGGUUUCCGUGAGUUAGACUCCAAAACAUUUUGCAGUGAAAAUGGUUUCCGUGAGUAAUGCUAACACCAG
+(((.(.(((((((((((((((((((((((((((((..((((..(.(((((..(((((.((((((((((......))))))))))..).))))..)))))).)))).))))))))).))))))))))...))))....)))))).)))) (-48.30)
+>pseudo_premiRNA_171
+CCUGGCGCAUGUAUCUCUGCAACGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACAGUUCAUGGGGCCGGAUACUCAGGGUCAGG
+((((((.(..((((((..((..((.((((...(((((.((......))))))).........)))).))..)).))))))...).)))))) (-32.60)
+>pseudo_premiRNA_172
+GGCCCAUGAGGCGGUGGUUUUCUCGGUCCCUGGUGUUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCC
+(((.(((((((((((((...((((((...........))))))......))))))).....)))))).))) (-26.50)
+>pseudo_premiRNA_173
+UGAUGGGGCUGGACACUCAGGUGAGGGAAAUAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUGCUGUUA
+((((((.(((.(((((.((((((..(((....)))......))))))))).....)).))).)))))) (-18.00)
+>pseudo_premiRNA_174
+UCUCGGGUGCUAUUACAGAUAGCGCAAUAAAUCAAAGUGCAUUGUCUGUAGAGGCACUGGCGA
+((.(.((((((.((((((((((.(((...........))).)))))))))).)))))).).)) (-25.70)
+>pseudo_premiRNA_175
+UCUCGGGUGCUAUUACAGAUAGCGCAAUAAAUCAAAGUGCAUUGUCUGUAGAGGCACUGGCGA
+((.(.((((((.((((((((((.(((...........))).)))))))))).)))))).).)) (-25.70)
+>pseudo_premiRNA_176
+GGUCGGGUGUAGCCAUUUGACUUAGCAGUGAUGGGACUCCAGGCGAGAUCUCUCAGGGACCAAGGCUACAUCCGGCU
+((((((((((((((..(((......(..(((.(((((((.....))).)))))))..)..))))))))))))))))) (-30.90)
+>pseudo_premiRNA_177
+UCGUUCGUUUCUCCAUUUUUUUUUCGCUCCGAUGAAAAGCAAUACGCCGCUGGAACUUUGAAAUCGGCGGCUCGAGCGAAACUUGGAGGAACGAACGA
+(((((((((((((((......((((((((.((.............(((((((............)))))))))))))))))..))))))))))))))) (-43.10)
+>pseudo_premiRNA_178
+CGGUGGGGGGCUGCGUUUUGGUGGUGUGGGCCCGGGCGUUGUAGGGAUGGCCCGGGUUGCUGUACGCAGCCCCUUUCCG
+(((.((((((((((((..((((......(((((((((............))))))))))))).)))))))))))).))) (-46.70)
+>pseudo_premiRNA_179
+GGAACGACCUCGGACCACCAGGGGCCGAGAAGACCACCGUCUCAUGGGGACGGCACUCAGGGUCUGGGGAAAAUCC
+(((....(((((((((....(((((((......((.((((...)))))).)))).)))..)))))))))....))) (-28.70)
+>pseudo_premiRNA_180
+CCGAGAAAACCACCGUCUCAUGGGUCCGGACACUCAGGGUCAGUGAGAAUCCAAUAUAUAUCUGGUGAUAUCUCGG
+((((((....(((((((((((.(((((.((...)).))))).))))))..............)))))...)))))) (-22.10)
+>pseudo_premiRNA_181
+UUGGUCCCUAUGAUACCUCGUCCUGGACUCCCAUCACAGCUAAGUCAAAUGGUAGCCCCGACCUUCCUGGCAAUUCUGCCCGACGGAAUCCAAGUUUUCCACUUUGGCAACCUGGUUUGUAAGUCUAAAGCCAUUUUCGACCAA
+.(((((...(((.......((..((((((..((...(((....(((((((((.(((...((..((((.((((....))))....))))))...)))..))).))))))...)))...))..))))))..)))))....))))). (-31.70)
+>pseudo_premiRNA_182
+CAGGAGGCCCUACCGCAUGAAUCUGUGCAGCGGGAUCGACCUCGGACCACCAAGGGUCGAGAAACCACCGAAACAUGGGGCCGGGCACUCAGG
+...(((((((..((.((((..((.(((........(((((((.((....))..))))))).....))).))..)))).))..)))).)))... (-35.40)
+>pseudo_premiRNA_183
+GCCGACUUUGUGCGAAAGCGUGAAACGAACGCGUCGGUCGCCCCAUGGUGUGUGUUUGUCGUGUCUUCUUUUCCUCUUCUGCACUUCUCUCACUGUCGAGC
+((((((...(((((.(((.(.((((.(((((((.(((.(((((...)).)))...))).)))))..)).))))).))).)))))..........)))).)) (-25.90)
+>pseudo_premiRNA_184
+GGAAUAUAAUGAUAUAAAUAUAUAACCGCCGCCGACUGUGUGCGAAAGCGUGAAACGAACGCGUCGGUCGCCCCAUGGUGUGUGUUUGUCGUGUCUUCUUUUCC
+((((......((((((((((((((.((((.((((((.((((.((...........)).)))))))))).)).....)))))))))))...))))).....)))) (-27.50)
+>pseudo_premiRNA_185
+GGAAUAUAAUGAUAUAAAUAUAUAACCGCCGCCGACUUUGUGCGAAAGCGUGAAACGAACUCGUCGGUCGCCCCAUGGUGUGUGUUUGUCGUGUCUUCUUUUCC
+((((......((((((((((((((.((((.((((((((((((((....)))...)))))...)))))).)).....)))))))))))...))))).....)))) (-25.60)
+>pseudo_premiRNA_186
+GAUGGGGCUGGACACUCAGGGUGAGGGAAAUAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUCCUAUU
+(((((((((.(((((.(((((((..(((....)))..)))...))))))).....)).))))))))) (-20.10)
+>pseudo_premiRNA_187
+CUAGGGUGCUAUUAGAGAUAGCGCAUUAAAUCACAUGCAUUGUCUGUAGGAGGCCCUGG
+(((((((.((.(((.((((((.((((........)))).)))))).))).))))))))) (-23.00)
+>pseudo_premiRNA_188
+GGUCGGCUGUAGCCAUUUGAUUUACUGUGAUGGGACUCCAGGACGAGGUCUCAUAGGUUCCAAGGCUACAUAUGGCUGACC
+((((((((((((((.((.((....((((((.((..(((......))).))))))))..)).))))))))....)))))))) (-30.30)
+>pseudo_premiRNA_189
+CUCUGGGCAGAUGGUAAUAAGGCUCUCUGAUAGAUUUUGACAUUUUGGCAGCGUUUAAAUUGUCAGUGAAUACGUGCAAAGUACCGAAUCUCUGCUUCGAG
+(((.((((((((((((.....((((.(((((((.(((.(((...........))).)))))))))).))......))....)))))....))))))).))) (-23.90)
+>pseudo_premiRNA_190
+GAUGGGAGGGUCGGGAUACUUUUGGACGAAAUUGACUUUAGACUAUACAAUCCAGUUUCCAAAGUGCAAAACUUGGAUUCCGUC
+(((((((...(((((....(((((.(((((((((..................)))))))....)).)))))))))).))))))) (-16.50)
+>pseudo_premiRNA_191
+GAAUUGCCAGGAAGGUCGGGGGAUGCCAUUUGACUUAGCAGUAUUGGACACCAGGGAGAGGUCUCAUAGGGACGAAGGCUACAUCCGGCUGACCAAUGGGAAGUUC
+(((((.(((((..(((((((....(((.((((.(((.....(((.((((..(.....)..)))).)))))).)))))))....)))))))..))..)))..))))) (-29.30)
+>pseudo_premiRNA_192
+AAAAUAUUUUCGCCGACUUACAGACUUUAGGGUAGGCUUAAUUGCCUAUACCUAAACGUCUGUAAGCGUCAAUGCUAUUUU
+.............((.(((((((((((((((((((((......)))))).)))))).)))))))))))............. (-31.00)
+>pseudo_premiRNA_193
+ACCCGCUCACGAAACUCUCUCUCGUCGUGGAAUCCCCGCGUCGGAGAGUAAAACGCGAAUUCAUACUUGAAAACUUACGUCUCUCGACGAUGGGACGAUCCACGCGAAGAGUUGUUUACGUGCACGCGUAUGGU
+((((((.((((((((.((((.(((.((((((.((((..(((((((((((((....(((........))).....)))).)))).)))))..))))...)))))))))))))..)))).))))...)))...))) (-51.70)
+>pseudo_premiRNA_194
+CUCGGACCACCAGGGGCCGAGAAACCCACCGUCUCAUUGGGCCGGACACUCAGGGUCAGGAAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUGCUAUUACAGAUAGCGCAAUAAACCAAAGUGAAUAUCUGGAGGAGGCCCUGGCGCAUGAAUCUGUGCAGCUUGAACGACCUCGGACCACCAGGGGCCGAG
+(((((.((.((.(((((((((.........(((...((((((.(.(((.((((.((((((.....((((((((.(((.((((..........((((((((...)))))))).....))))..))).)))).))))......)))))).).)))...))).).))))))..)))))))).)).)).))))))))) (-64.70)
+>pseudo_premiRNA_195
+GAGGCCCGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAUGGGCCGGACACUC
+((((.(((((.(((((.........((((.......(((((.((......))))))).......)))).))))).))))).).))) (-34.30)
+>pseudo_premiRNA_196
+UCGGGUGCUCUUACAGAUAGCGCACUAAAACAAAGUGCUUAUCUGCAGGGGGCCCCGG
+.((((.((((((.(((((((.(((((.......))))))))))))..)))))))))). (-28.80)
+>pseudo_premiRNA_197
+GCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAUUACAGAUAUUCGGAAUCCGUCGCCCAAGGUCAUGU
+((((((.(((..((.(((((..(((.(((((.((......))))))).............)))...))))).))...))))))))) (-25.70)
+>pseudo_premiRNA_198
+GUCCUGGCGCAUGAAUCUGUGCAGCGGGAUCGACCUCGGAUCACCAGAGGCCGAGAAAACCACAGUCUCAUGGGCCGGAC
+((((.(((.(((((..(((((........(((.((((((....)).)))).)))......)))))..))))).))))))) (-36.30)
+>pseudo_premiRNA_199
+AGGGGCCGAGAAAACCACAGUCUCAUGGGCCGGACACUCAGGGUCAGUGAAAAAUCCGAUGUAUAUCUGGUGAUAUCUCGGUUCCU
+(((((((((((..((((......(((.((.....((((.......))))......)).)))......))))....))))))))))) (-28.40)
+>pseudo_premiRNA_200
+GAGGCCUGGCGCAUGAAUCUGUGCAGCGGCCACGACCUCGGACCACCAGGGGCCGAGAAAACCACAGUCUCAUGGGCCGGACACUC
+((((.(((((.(((((..(((((...(((((....(((.((....)))))))))).......)))))..))))).))))).).))) (-38.30)
+>pseudo_premiRNA_201
+GGCCGAGAAAACCACAGUCUCAUGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUAUAGAUCUGGUGAUAUCUCGGCU
+((((((((..((((..((((..((((((.(((.(....)))).))......))))....)))).))))....)))))))) (-24.40)
+>pseudo_premiRNA_202
+CUAUAUAAAACUAUGUAAAACUAUAUAAAACUAUGUAAAACUAUAUAAAACUAUAUGAAACUAUAUAAACUAUAUAAAACUAUAUAAAACUGUAUAAAACAAUAUAAAACUAUAUAAAACUAUAUAAAACUAUACAAAUUAUAUAAAACUAUAUAAAACUAUAUAAAACUAACAAAACUAUAUAAAACUAUGUAAAACGACAUAAACUAUAUAAAACUAUAUAAAACUCUAUAG
+.((((((....((((((....((((((....))))))....))))))....))))))....((((((...((((((....(((((((...((((((.....(((((..............))))).....))))))..)))))))....))))))....)))))).............((((((....(((((......)))))...))))))...(((((........))))) (-21.80)
+>pseudo_premiRNA_203
+GAGUGUCCGGCCCAUGAGACUGUGGUUUUUUCGGACCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAGGCGCCAGGCCUC
+(((.(((.(((((.((((.(((((....(((((((((.....)))))))))............))))).)))))).))).)))))) (-34.10)
+>pseudo_premiRNA_204
+GGGGAGCGUGUUGAAGGCGUUGUCGAUGUCGAUCGACACCGCCAGCACCACGCCCCCC
+((((.(((((.((..((((.(((((((....))))))).))))..)).))))))))). (-37.20)
+>pseudo_premiRNA_205
+GGAUCGUUCUCGGACCACGAGGGAACGAGAAAACCACCGUCUCAUGGGGCCGGACCCUCAGGGUCGGGAAAAAUCC
+((((..((((((.(((..(((((..((.(....((.((((...)))))))))..)))))..)))))))))..)))) (-30.70)
+>pseudo_premiRNA_206
+UCCAAGUGCAUGUCUGCGGGAGGCCCUCGCGCAUGAAUCUGUGCUGCGGCAACGACCUCGGACCACCAGGG
+.((..(((...(((((.((..(((((..(((((......))))).).)))..)..)).))))))))..)). (-24.10)
+>pseudo_premiRNA_207
+GUCAGCCGGAUGUAGCCUUGGUCCCUGUGAGAUCUCGUCCUGGAGUCCCAUCACUGCAAGUCAAAUGGCUACCCCCGACCUUCCUGGC
+(((((.(((..((((((((((.....((((...(((......))).....))))......))))..))))))..)))......))))) (-23.50)
+>pseudo_premiRNA_208
+CGGGUGUCCGAGGGACCCGCUUCCGAGGAGGAUGGUGACAGUGGGUCGUCAAUUCGGGCACCGG
+..((((((((((.(((((((((((.....))).......)))))))).)....))))))))).. (-32.00)
+>pseudo_premiRNA_209
+GGCCCUGACGCAUGAACCUGUGCAGCGGGAACGACCUCGGGCCACCGGGGCUGAGAAAACGACCGUCUCAUGGGGCCGGACACUCAGGGUC
+((((((((....((..((((((..((((.......(((((.((....)).))))).......))))..))))))..)).....)))))))) (-38.40)
+>pseudo_premiRNA_210
+CAGCCGCGGUAAUUCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCGGUUAAAAAGCUCGUAGUUG
+((((.(((((..((.((((.(((((((..........))))))).)))).))..)).))).)))) (-15.80)
+>pseudo_premiRNA_211
+GUCUCAUGGGGCCGGUCACUCAGGGUCAGUGAAAAAUCCAAUAUAAUCUGCUGAUAGCUCGGGUGCUAUUAGAGAUAGCGCAAUAGACCAAAGUGAAUUAUCUGCAGGAGGC
+(((((.((.((....(((((...((((.(((..............((((.((((((((......))))))))))))..)))....))))..))))).....)).)).))))) (-31.30)
+>pseudo_premiRNA_212
+GCAUGUAUCUGGGCAGCGGGAACGUCCUCUGACCACCAGGGGCAGAGAAAACCACCGACACAUGUCCCGGACACCCAAGGUCAUGU
+(((((.(((((((...(((((..((((((((.((......))))))).........))).....)))))....))).))))))))) (-29.10)
+>pseudo_premiRNA_213
+ACCAAAGUGAAUUAUCUGCAGGAGGCCCGGCGCAUGUAUCUGUGCAGCGGGAACGACCUCGGAUCACCAGGGU
+(((...((((....((((.(((.(.((((..((((......))))..))))..)..)))))))))))...))) (-24.60)
+>pseudo_premiRNA_214
+CGAUCAGAGUGUACUCGCGUAACACAUUUCAGAUCGCUUCUCGGCCUUAUGGCUAAGAUCAAAGUGUACUCGCAUAACACACAUCCAGAUCG
+(((((.((((((....(((....((((((..((((.......((((....))))..)))).))))))...))).....)))).))..))))) (-22.80)
+>pseudo_premiRNA_215
+UUCCGUCGGGCAGAAUUGCCAGGAAAUCGGGGGUAGCCAUUUGACUUAGCAGUGAUGUGACUCCAGGACGAUGUCUCAUAGGGACGAAGGCUACUCCGGCUGACCGAUGGGA
+(((((((((.(((..............(.(((((((((.((((.((((.......((.(((((......)).))).))))))..))))))))))))).)))).))))))))) (-37.90)
+>pseudo_premiRNA_216
+CGUCAGCCGGAUGUAGCCUUGGUCCCUAUGAGACCUCUCCCUGGUGUCCAAUCACUGCUAAGACAAAUGGCUCCCCCGACCAUCCUGGCAAUUCUGGCCGACG
+((((.((((((..(.(((.(((((.....(((.(((((...(((((......)))))...))).....)))))....)))))....))))..)))))).)))) (-31.80)
+>pseudo_premiRNA_217
+UGGAACCUAUGAGACCUCGUCUGGAGUCCCACCACUGCUAAGUCAAAUGGCUACCCCCUACCUUCCUGGCAAUUCUGGCGGACGGAAUCCAGUUUUCCA
+(((((....((.((..(((((((.....(((....(((((.(......((......))......).)))))....))))))))))..))))...))))) (-20.50)
+>pseudo_premiRNA_218
+UGCAUUGUCUGUAGGAGGCACUGGCGAAUGAAUCUGUGGCGCAGGAACGACCUCGGACCACCAGGCACCAGAAAACCACCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUAUAUAUAUGGUGAUAUUCGGGUGCUAGUACAGAUAGCGCA
+(((.(((((((((...((((((..((((((.(((((((.....(((....((((.((((.((.(((.(((....((....))....))).)))))........)))).))))....)))......)))).)))..))))))))))))..))))))))).))) (-49.90)
+>pseudo_premiRNA_219
+UGCAUUGUCUGUAGGAGGCACUGGCGAAUGAAUCUGUGGCGCAGGAACGACCUCGGACCACCAGGCACCAGAAAACCACCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUAUAUAUAUGGUGAUAUUCGGGUGCUAUUACAGAUAGCGCA
+(((.((((((((((..((((((..((((((.(((((((.....(((....((((.((((.((.(((.(((....((....))....))).)))))........)))).))))....)))......)))).)))..)))))))))))).)))))))))).))) (-51.20)
+>pseudo_premiRNA_220
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGUCCUCGGACCUCCAGGGGCCGAGACAACCACCGCUCAUGGGGCCGGACACUCAGGGUCAGGGGAAGAUCC
+(((..(((((((.(.(((.((((.(((((((....(((.((((.(((....)))))))))).....)))))......))))))...)))).))))))).....))) (-42.90)
+>pseudo_premiRNA_221
+UAUCUGGUGAUAUCGCGGCUGCUAUUAGAGAUAGCGCGAUAAAUCAAAGUGAAUUAUCUGCAGGCGGCCUGGCGCAUGGUGGUCCGAUGUCGUUCCUGCUGCACAGAUUCAUGCCCCAGGGCCUCCCGCAGACAAAGCCUUUGAUUUAUCGCGCUAUCUCUAAUAGCACCCGAGAUAUCACCAGAUA
+((((((((((((((.(((.((((((((((((((((((((((((((((((.(..((.(((((.((.(((((((.((((((..(((.(.(((.((....)).)))).))))))))).))).)))).)).))))).))..))))))))))))))))))))))))))))))).))).)))))))))))))) (-115.50)
+>pseudo_premiRNA_222
+AUCCAAGUUUUCCUCUUUGGCAACCUGGUUUGUAUAGUCUAAAGUCAUUUUCGACCAAAAGUAUCCAGACUUCCCAUCGGUGAGCCGGAU
+((((..((((.((....(((......((((((.(((.(.....(((......)))....).))).))))))..)))..)).)))).)))) (-15.50)
+>pseudo_premiRNA_223
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGUCCUCGGACCUCCAGGGGCCGAGAAAACCACAGUCUCAUGGGGCCGGACACUCAGGGUCAGGGUAAAUCC
+(((.((((((((.(.(((.((((.((...(((((((.(((((.(((....))))))))...))....))))).....))))))...)))).))))))))...))) (-40.30)
+>pseudo_premiRNA_224
+CGCCCCAGUCAAACUCCCCGCCUGGCAGUGUCCUCGAAUCGAUCACGCGGGAGUAUUGUCGGCG
+((((.((((...((((((.((.(((..(..((...))..)..))).))))))))))))..)))) (-19.50)
+>pseudo_premiRNA_225
+GGAAGGUCGGGGGUAGCCAUUUGACUUAGUAGUGAUGGCACUCCAGACGAGGUCUCAUAGGUUCCAAGGCUACAUCCGGCCGACC
+((..(((((((.((((((....(((((....((((.(((.(((.....)))))))))))))))....)))))).)))))))..)) (-35.30)
+>pseudo_premiRNA_226
+CCCUGGCGAAUGAAUCUGUGCAGCGGGAAAGACCUCGGACCACCAGAGGCCGAGAAAACUACCGUCUAUGAGGCUGGACACUCAGUGUCAGGG
+((((((((..(((...(((.((((.....(((((((((.((......))))))).........)))).....)))).))).))).)))))))) (-36.60)
+>pseudo_premiRNA_227
+AUAUCACGGGUGCUAUUACAGAAAGCGCAAUUAAUCAAAGUGCAUUGUCUGUAGAGGCCCUGGCAUAU
+((((..((((.(((.(((((((..((((...........))))....))))))).)))))))..)))) (-22.00)
+>pseudo_premiRNA_228
+GCACUCAGGGUCAGGGAAAAAUCAAUAUGUAUCUGGUGAUAUCUCUGGUGCUAUUACACAUAGCGCAAUAAAUCAAAGUGCAUUGUCUGUAGAGGCCCUGGCCCAUGAAUCUGUGC
+((((((((((((((((......((..(((((.((..((((.......(((((((.....))))))).....)))).)))))))....))......))))))))).)))....)))) (-37.20)
+>pseudo_premiRNA_229
+AUGGGACCGGACACUCAGGGUCAGUGGAAAAUCAAUAUAGAUCUGGUGAUAUCUCGGGUCCUAU
+((((((((.((((((..(((((.(((.........))).))))))))).....)).)))))))) (-19.00)
+>pseudo_premiRNA_230
+CGGCCACUCAGGGUCAGGGGAAAAUCAAUAUGUAUAUGGUGAUAUCUCGGGUGCUAUUACAGAUAGCGCAAUAAAUCAAAGUGCAUUGUCUGUAGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCG
+(((((.((...((((.((((....((....((((((.(((..(((((((((.(((.((((((((((.(((...........))).)))))))))).)))))))).).))).)))))))))....))....)))).))))...)).))))) (-54.00)
+>pseudo_premiRNA_231
+GUGCAUUGUCUGCAGGAGGUCCUGGCGCAGAAUCUGUGCAGCGGGAACGACCUCGGACCAC
+.......(((((.(((..((((((((((((...))))))..)))).))..))))))))... (-23.90)
+>pseudo_premiRNA_232
+GGCCCUGGCGCAGAAUCUGUGCAGCGGGAUCGAGCUCGGACCACCAGGGGCCGAGAAAAUCACCGUCUCAUGGGGCCGGACGUCAGGGUC
+(((((((((((....((((((..(((((((....(((((.((......)))))))...))).))))..))))))....).)))))))))) (-42.20)
+>pseudo_premiRNA_233
+GACCUUCCUGGCAAUUCAGUCCGACGGAUCCAAGUUUUGCACUUUGGAAACCUGGAUUGUAUAGUCUAAGGUC
+((((((...(((.((.(((((((..((.((((((........))))))..))))))))).)).))).)))))) (-22.90)
+>pseudo_premiRNA_234
+GUGGGAGUGCCGGACGGCGGCGUGCGAUACGACGUCGUCAUAGCCGUCGCAGCCGCCGUUACAGCACCCCAC
+(((((.((((.((((((((((.(((((((((....))).......))))))))))))))).).))))))))) (-41.90)
+>pseudo_premiRNA_235
+CCCGCGAGUCCAAACCCAAGACCGACCGAGCCGAAGCCCGGCGGGCGAACCGGUCCCCGCGGUACCAGUUUUAAGGUCUACUGGUGGG
+(((((.(((.........(((((....((((.(..((((((.((((......))))))).)))..).))))...)))))))).))))) (-35.20)
+>pseudo_premiRNA_236
+GGAGGCCCUGCCGCAUGAAUCUGGCCACGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCAUCGUCUCAUGGGGCCGGACACUCAGGGUAGGGAAAACUCC
+((((.(((((((.(.(((.(((((((..((((.(((.(((((.((......))))))).......)))))))....)))))))...)))))))))))....)))) (-43.90)
+>pseudo_premiRNA_237
+GGAAGGUCGGGGGAAGCCAUUUGUCUUAGAAGGAUUGGACACCAGGGAGAGGUAUCAUAGGGACCAAGGCUACAUCCGGCUGACC
+((..(((((((.(.((((.((.(((((.....(((.....(((.......))))))...))))).)))))).).)))))))..)) (-23.50)
+>pseudo_premiRNA_238
+UUUUGUAAUUUUUUUUAAUGUUAAAAACGUUAAUAAACUUCAUGUUUACGCUGGAUUAAACAUUGAAAUAAUUUUAAAA
+.((((.((((..((((((((((.((..(((...(((((.....))))).)).)..)).)))))))))).)))).)))). (-10.90)
+>pseudo_premiRNA_239
+AAUAAAUUUUUGUAAUUUUUUUUAAUGUUAAAAACGUUAAUAAACUUCAUGUUUACUCUGGAUUAAACAUUGAAAUAAUUUUAAAACGCUUAUU
+.......(((((.((((..((((((((((.((..((....(((((.....)))))...))..)).)))))))))).)))).)))))........ (-11.40)
+>pseudo_premiRNA_240
+CGUGGGACUUAGAAAAUUUCGGGACGUCCGAUUCGCCUGCUGGAAUUACCGCACGGGCUGGACACCUCGCUCCGACG
+(((.(((............((((..(((((....(((((.(((.....)))..))))))))))..)))).))).))) (-23.20)
+>pseudo_premiRNA_241
+UUAUCGGGUCUUCGUUGGAAUACCGUCGCUGGCAUUGUAAACUCCAGAUGACCUUGUGAUUCCUUCGUCGGGCACUGGUAA
+.((((((((((.((..(((((((.((((((((...........)))).))))...)).)))))..))..)))).)))))). (-25.80)
+>pseudo_premiRNA_242
+UAUGCGAGUACUCUUUGAUCUUAGCCAUACUGUCGAGCAGCGACUGGAUUUAGGUUAUUCGUGUA
+((((((((((.(((..(((((.((.(...((((...)))).).))))))).))).)))))))))) (-15.40)
+>pseudo_premiRNA_243
+GGUCAGCCGGAUGUAGCCUUGGUCCCUGUGAUAUCUCGUCCUGGGUCCCAUCACUGCUAAGUCAAAUGGCUUCCCCCGACC
+((((((((((((.((((..(((.(((.(.(((.....)))).)))..))).....)))).)))...)))))......)))) (-22.20)
+>pseudo_premiRNA_244
+UCGGUCAGCCAGAUGUAGCCUUGGUCCCUAUGAGACCUCGUCCUGGCUCCCAUCACAGCUAAGUCAAAUGGCUACCCCCGA
+..(((.((((((((.((((..((((......(((.((.......)))))..))))..)))).)))...))))))))..... (-21.40)
+>pseudo_premiRNA_245
+UCGCAUGAAUCUGUGCAGCCGGAUCCACUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGA
+((.(.(((.((((.(...((((..((((((((.((......)))))))...............)))..))))...).)))).)))).)) (-27.40)
+>pseudo_premiRNA_246
+CCUCGUUCUAUUUUGUUGGUUUUCGGAACCCCGAGGUAAUGAUUAAUAGGGACAGAUGGGG
+(((((((...((((((((((((((((....))))).....)))))))))))...))))))) (-16.30)
+>pseudo_premiRNA_247
+GAGGUCUCAUAGGGGCCAAGGCUACAUCCGGCUGACCGAUGGGAAGGUCGGGAUACUUUGGUCGAAAUUGACUUU
+((((((.......((((((((.((..(((((((..((....))..))))))).))))))))))......)))))) (-27.90)
+>pseudo_premiRNA_248
+CGGGGGUAGCCAUUUGACUUAGCAGUGAUGGGACUCCAGGACGAGAUCACAUAGGGCCAAGGCUACAUCCG
+((((.((((((..(((.((((...(((((....(((......)))))))).))))..))))))))).)))) (-21.80)
+>pseudo_premiRNA_249
+CUGGCGUAUGAAUCUGUGCAGCGGCAACGACCUCGGACAACUGGGGCCGAGAAAACCACCGACACAUGGCGCCGG
+((((((((((..((.(((.........((.((((((....)))))).)).......))).))..))).))))))) (-23.40)
+>pseudo_premiRNA_250
+AAUAAAUUUUUGUAAUUUUUUUUAAUGUUAAAAACGUUAAUAAACUUCAUGUUUACGCUGGAUUAAACAUUGAAAUAAUUUUAAAACGCUUAUU
+.......(((((.((((..((((((((((.((..(((...(((((.....))))).)).)..)).)))))))))).)))).)))))........ (-11.50)
+>pseudo_premiRNA_251
+CCCUGGCGCAUGAGUCUGUGCAGCGGGAUCGACUCGGACCACCAAGGGCCGAGAAAAUCACUGUCUCAUGGGGCCGGACUGUUAGGGUCAGGG
+(((((((.(...((((((.((((((((((...(((((.((......)))))))...))).))).))......))))))))....).))))))) (-37.40)
+>pseudo_premiRNA_252
+UCGGCCAGAAUUGCCAGGAAGGUCGGGGGUAGCCAUUUGACUAGCAGUGAUAGGACUCCAGGACGAGAUGUCAUAGGAACCAAGGCUAUAUCCGGCUGAUCGAUGGGAAGCCUGGAUACUUUUGGUCGA
+((((((((((.(((((((..(((((((.((((((..(((.......((((((...(((......))).))))))......))))))))).))))))).............))))).)).)))))))))) (-44.30)
+>pseudo_premiRNA_253
+GGAAGGUCGGGGGUAGCCAUUUGACUAGCAGUGAUAGGACUCCAGGACGAUGUCUCAUAGGGACGAAGGCUACAUCCGACUGACC
+((..(((((((.((((((.((((.((....((((...(((((......)).)))))))..)).)))))))))).)))))))..)) (-30.10)
+>pseudo_premiRNA_254
+GGUCGGGGGUAGCCAUUUGACUAGCAGUGAUGGGACUCCAGGACGAUGUCUCAUAGGGACGAAGGCUACAUCCGGCU
+(((((((.((((((.((((.((.......(((((((((......)).)))))))..)).)))))))))).))))))) (-29.70)
+>pseudo_premiRNA_255
+GUUUCCCUCAGGAUGCUGGCACUCGCUUGUUCCUCCGUGAACUUGUGCGAGUUUCAUCUGGUAAAGCGAAUGAUUAGAGGCCUGGGGCCGAAC
+((((.(((((((...((((((.((((((...((...((((((((....))).)))))..))..)))))).)).))))...)))))))..)))) (-30.80)
+>pseudo_premiRNA_256
+GGGCCCUGGCCAUGAAUCGGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGCCGACACUCAGGGUCAGGGGAAAACCC
+(((((((((((.(((.(((((.((((((.......(((((.((......))))))).......))).))....).)))))...))).)))))))).....))) (-42.80)
+>pseudo_premiRNA_257
+UGGGAUCUCCGUGACAUUCUGGCUUUGAUGGGCACAGGACAACUUGUGUCCCUCCCCACGGGAACCUACCGGAACCCA
+((((...((((.....((((.(....((.(((((((((....))))))))).))....).)))).....)))).)))) (-27.70)
+>pseudo_premiRNA_258
+CCAAGUGCUUUGUCUGCGGGAGGCCCUGGCGCAUGAAUGUGUGCAGCGGCAACGACCUCGGACAACCAGG
+.........(((((((.((..(((((((.(((((....)))))))).)))..)..)).)))))))..... (-25.60)
+>pseudo_premiRNA_259
+UAUCUCGGGUGCUAUUACAGAUAGCGCAAUAAACAAAGUGCAUUGUCUGUAGGAGGCCCUGGCGGAUG
+(((((((((.(((.((((((((((.(((..........))).))))))))))..)))))))..))))) (-24.50)
+>pseudo_premiRNA_260
+UCGCGGGUGCUAUUACAGACAGCGCAAUAAAUCAAAGUGCAUUGUUUGUAGGAGGCACUGGGA
+...(.((((((.((((((((((.(((...........))).))))))))))..)))))).).. (-23.80)
+>pseudo_premiRNA_261
+GUCAGCCGGAUGUAGCAUUGGUCGCUAUUAGAUCUCGUCUGGAGUCCCAUCACUGCUAUGUCAAAUGAC
+((((....(((((((((.((((.(((.((((((...)))))))))...)))).)))))))))...)))) (-21.90)
+>pseudo_premiRNA_262
+GACCCUGGCGCAUGAACCUGUGCAGCGGGAAGACCUUGGACCACCAGGGGCCGAGAAAACGACCGUCUCAUGGGGCCAGACGCUCAGGGUC
+((((((((((..((..((((((..((((......(((((.((......))))))).......))))..))))))..))..))).))))))) (-42.50)
+>pseudo_premiRNA_263
+GGAACGACCUCGGACCACCAGUGGCCCAGAAACCACCGUCUCAUGGGGCUGGACACUCAGGGUCAGGGGAAAAUCC
+(((....((((.((((...((((..((((...((.((((...)))))))))).))))...)))).))))....))) (-27.70)
+>pseudo_premiRNA_264
+CGGGGGAAGCCAUUUGACUUAGCAGUGAUUGCACACCAGGGAGAGGUCUCAUAGGGACCAAGGCUACAUCGGCUGACCGAUGGGAAGGUCGGGAUACUUUUGGUCGAUAUUGACUUUAGACUAUACAAUCCAGGUUUCAAAGUGCAAAACUUGGAUUCCGUCG
+(((.((((.(((...........(((..(((((((((..(((((((((..(((..((((((((.((..((((((..((....))..))))))..)).))))))))..))).))))))...........))).)))......)))))).)))))).)))).))) (-48.70)
+>pseudo_premiRNA_265
+CGACGGCCAGCCGCGCGUCGCGUCGGCGUCCGAGCCGUCGCGCAUCCGCAGGCUCCCUCG
+(((.((..(((((((.((((((.((((......)))).)))).)).))).)))))).))) (-30.40)
+>pseudo_premiRNA_266
+GGCCCUGGCGCAUGUAUCUGUGCAGCGGGAUCGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCCAUGGAGUCGGACACUCAGGGUC
+((((((((.(..((..((((((..((((.......(((((.((......))))))).......)))).))))))..))..).).))))))) (-34.90)
+>pseudo_premiRNA_267
+GGCCCUGGCGCAUGAAUCUGUGCAUCGGGCACUACCUCGGACCAACAGGGGCCGAGAAAACCACCGUCCAUGGAGUCGGACGCUCAGGGUC
+((((((((((..(((.((((((...(((.......(((((.((......))))))).......)))..)))))).)))..))).))))))) (-38.90)
+>pseudo_premiRNA_268
+CGAGGGUAGCCAUUUGACUUAGCAGUGAUGGGACUCCAGGACGAUGUCUCAUAGGGACGAAGGCUACAUCG
+(((..((((((.((((.((((.......((((((((......)).))))))))))..)))))))))).))) (-21.10)
+>pseudo_premiRNA_269
+ACGUGAGCUGGGUUUAGACGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGACUAGUCGUUGCGAUAGUAAUCCUGCUCAGU
+...(((((.(((((.....((((((((((((((((((........))))))..)).))).)))))))...))))).))))).. (-25.80)
+>pseudo_premiRNA_270
+GUGGUUCGCGCGCGUCGUCUCUGAGAUACGCGGUCGACAGAGUUCCGAAACACGUGAUGUGCCAC
+((((((((((.(..(((.(((((.(((.....)))..)))))...)))..).)))))...))))) (-22.40)
+>pseudo_premiRNA_271
+CGGAUCCGUCCUGGGGGAACCCCAUGCUGUCGCAUGGGCGUUGAAGUCCCCCAGGACGAGACCG
+(((.(((((((((((((((((((((((....))))))).)).....)))))))))))).))))) (-43.90)
+>pseudo_premiRNA_272
+GUGCAUUGUCUGCAGGGGCCCUGGCGCAUGAGUCUGUGCAGCGGGAACGACUUCGGACCACCAGGGGCCGAGAAAACCACAGUCUCUUGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUGUAU
+((((((((..........(((((((.(.((((((((.((..(((((..((((((((.((......)))))).........))))))))).)))))))..)))).))))))).......)))))))) (-44.10)
+>pseudo_premiRNA_273
+UCUCGUCGUGGAAUCCCCGCGUCGGAGAGUAAAACGCGAAUUCAUACUAUGAAAACUUACGUCUCUCGAGAUGGGACGAUCCACACGAAGA
+..((((.(((((.((((((..(((((((((((.....(..(((((...)))))..))))).)))).)))..))))..)))))))))))... (-27.30)
+>pseudo_premiRNA_274
+CCAAUGCGUCUUUACGUCUCUCGCGAUGGGACGAUCCACGCGAAGAGUUGUUACGUGCACGCGUAUGG
+(((((((((...(((((((((((((.(((......))))))).)))).....))))).)))))).))) (-26.20)
+>pseudo_premiRNA_275
+CAAUGCGUCUUUACGUCUCUCGCGAUGGGACGAUCCACGCGAAGAGUUGUUACGUGCACGCGUAUG
+..((((((...(((((((((((((.(((......))))))).)))).....))))).))))))... (-24.20)
+>pseudo_premiRNA_276
+CUCUCGUCGUGGAAUCCCCGCGUCGGAGAGUAAAACGCGAAUUCAUACUAUGAAAACUUACGUCUCUCGCGAUGGGACGAUCCACGCGAAGAG
+((((((.((((((.((.((.((((((((((....(((.((.(((((...)))))...)).)))))))).)))))))..)))))))))).)))) (-33.40)
+>pseudo_premiRNA_277
+GUGGAAUCCCCGCGUCGGAGAGUAAAACGCGAAUUCAUAGUAUGGAAACUUACGUCUCUCGAGAUGGGACGAUCCAC
+(((((.((((((..(((((((((((.....(..(((((...)))))..))))).)))).)))..))))..))))))) (-21.00)
+>pseudo_premiRNA_278
+GGAACGACCUCCGACCUCCAGGGGCCGAGAAAACCACCGUCUCAUGGGGCCGGACACCAGGGUCAGGGGAAAAUCC
+(((....((((.(((((...((.((((.(....((.((((...)))))))))).).)).))))).))))....))) (-23.10)
+>pseudo_premiRNA_279
+GAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGAACACCAGGGGCCGCGAAAACCACAGUCCAUGGGGCCGGACACUC
+(((...(((((.((((...(((((..((((......((((((....)).))))))))......)))))..))))..)))))...))) (-29.40)
+>pseudo_premiRNA_280
+CACUACUUUCAUCGUUUCUUUACUUACUCGGUUGGGCGGAGCGCGUGCACCGAGGUCGUAUGACCCGUUGUCACGGUGUUCUAGAGCCAAGCGUGUAAGAGUGGUG
+(((((((...............(((((.((.((((..((((((((((((.((.((((....)))))).)).))).)))))))....)))).)).)))))))))))) (-40.20)
+>pseudo_premiRNA_281
+GGCGGCUGAUCGCCGACAAUACCCCGCGUGAUCCGAUUCGAGGACACUGCCAGGCGGGGAGUUUGACUGGGGCGGUACAUCUGUC
+(((((.((((((((..(((..(((((((((.(((.......))))))......))))))...))).....)))))).)).))))) (-32.10)
+>pseudo_premiRNA_282
+ACCGCCAUGAAUGGGAACAACAUAGAAAUAUAUAUAUAUAUGAGGGCGUUGUAGCGACGAUGCUCAUUUAGAUAUAAGUUUCUUCUUCCCUUCCGCUGU
+...((...(((.(((((......((((((.(((((.((.(((((.((((((...))))).).))))).)).))))).))))))..)))))))).))... (-26.70)
+>pseudo_premiRNA_283
+CCUUUAGUCGAAAAUGAGUCCAGACAUGGAAUUCAAAUUUCCAAAGUGCAAAAGUUGGAUUCGGUCGGCCAGAAGG
+(((((.(((((...(((((((((((.(((((.......)))))..)).......))))))))).)))))..))))) (-21.40)
+>pseudo_premiRNA_284
+CACUGUUGCGUAGCUCUGUCAAAUCCCCGCCGUCGUUCACCUCUUCGGAUCGAACGUUUUUUUUACCGAAGGGCCAAAGAACGUCUCUGAGUCGGGUUAAGAGAAGGAUGCUACGUACGAGCG
+..((..(((((((((((.((.....(((((((.(((((..((((((((.................)))))))).....))))).)...).).))))......)).))).))))))))..)).. (-35.40)
+>pseudo_premiRNA_285
+AAGGAGACAUGAGAGGUGUAGCAUAAGUGGGAGAUGGUAACAUCGCCGGUGAAAUACCAUACUUUCAUCGUUCCUU
+((((((.((((((((((((..(((...(((..((((....)))).))))))..)))))....)))))).))))))) (-21.70)
+>pseudo_premiRNA_286
+CUUACUCGGUUGGGCGGAGCGCGUGCACCGAGGUCUUAUGACCCGGUUGUACGGUGUUCUAGAGCCAAGCGUGUAAG
+(((((.((.((((..(((((((((((((((.((((....))))))).))))).)))))))....)))).)).))))) (-39.70)
+>pseudo_premiRNA_287
+CCGAGAAAAUUACAGAUAUUCGGAAUCCGUCACCCAAGGUCAUGUAAAAAUCCAGCAAAUAUCUGGUGAAUCUCGG
+((((((......((((((((.(((...(((.(((...))).)))......)))....)))))))).....)))))) (-18.00)
+>pseudo_premiRNA_288
+CCUGGCGCAUGAAUCUGUGCAGCUCGGACGACCUCGGACCAACAGGGGCCGAGAAAACCACCGUCCAUGGGGCCGGACACUCAGGGUCAGG
+((((((.(.(((...(((.(.(((((((((..(((((.((......)))))))........)))))...)))).).))).)))).)))))) (-35.70)
+>pseudo_premiRNA_289
+CCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCCAUGGGGCCGGACUGUCAUGGUCAGGG
+(((((((.(((((.((((.((..(((((.((..(((((.((......)))))))........))))).))..))))))...)))))))))))) (-36.90)
+>pseudo_premiRNA_290
+CCCUGGCGCAUGAAUCUGCCCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCCAUGGGGCCGGACACUCAGCGUCAGGG
+(((((((((.(((.((((((((((((.......(((((.((......))))))).......))))...))))..))))...)))))))))))) (-42.70)
+>pseudo_premiRNA_291
+GGCCCUGGUGCAUGAAUCUGGGAAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCCAUGGGGCCGGACACUCAGGGUC
+(((((((((((..(..((..((..((((.......(((((.((......))))))).......))))))..))..)..).))).))))))) (-34.50)
+>pseudo_premiRNA_292
+GACCCUGAGUGUCCGGCCCCAUGAGGCGGUCGUUUUCUCGGCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGGUUCAUGCGCCAGGGUC
+(((((((.((((..((.((..((.(((((......((((((.((....)).))))))......))))).))..)).))..))))))))))) (-41.30)
+>pseudo_premiRNA_293
+GACCCUGAGUGUCCGGCCCCAUGAGGCGGUCGUUUUCUCGGCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAGGUUCAUGCGCCAGGGUC
+(((((((.((((..((.((..((.(((((......((((((.((....)).))))))......))))).))..)).))..))))))))))) (-41.30)
+>pseudo_premiRNA_294
+CGGGUAGGUCUCUGAAUCGAAGCAACUCUUGUAAAACAUUCUUCUGAUAUUAGAAACAGUUGCUUCGACAAAGGGAUCACCUG
+(((((.(((((((...(((((((((((.((.(((.....((....))..))).))..)))))))))))...)))))))))))) (-31.10)
+>pseudo_premiRNA_295
+UUAAUUAGCAAAGUAUAGGUUAGGUCUGGAGCAAGUUUGAAUUUGAACUGUUUCUUUGCAGAAUCAUUAUUAUUUUAAUAAUUAA
+.((((((..((((((..((((..((..((((((.((((......))))))))))...))..)))).....))))))..)))))). (-14.40)
+>pseudo_premiRNA_296
+UUAAGUUGGGUGUGGAUUAGAAUAAGUUAGGUCUAAAAUAAAGAGGAGGGAAUUAGGUCUAGGUCAUGCUCAAAUUAG
+.(((.((((((((((.(((((...((((...(((..........)))...))))...))))).)))))))))).))). (-16.30)
+>pseudo_premiRNA_297
+CCAAAUCCUGAUCGCUUCUCGUCCUUAUGGCUACGAUCAAAGUGACUCGCAUAACCCAGAUCCAGAUCGCUGCUCGGCCGUAUGGGUAUAGCGAUCAUAUUAUGG
+(((.....((((((((.....(((.((((((..(((....(((((.((................)))))))..))))))))).)))...)))))))).....))) (-29.70)
+>pseudo_premiRNA_298
+CGUGGGACUUAGAAAAAUUUCGGGAAGUCCGAUUCGCCUGCUGGAAUUACCGCACGUGCUGGACACUCGCUCCGACG
+(((.(((.............((((..(((((...(((.(((.((.....))))).))).))))).)))).))).))) (-20.40)
+>pseudo_premiRNA_299
+GAGUAAAACGCGCGAAGGCUGUGACUGUAACAUAUAUAUAUAUAAUAUAUAUACACAGUAUACAAUGCCUGUGGUUUUUGCGCGUGUCGGCUC
+((((...(((((((((((((((((((((...((((((((.....))))))))..))))).))))..)))).......))))))))....)))) (-31.60)
+>pseudo_premiRNA_300
+UUCGGUAUACGCGAUCGGCCGAGUUACGGAAGGACGGUGAAGCGCACGAGAAAUUGAAACGGCCGCACGAUUGGAACCGAG
+.(((((.((..((..((((((..(((.....(..((......))..).......)))..))))))..))..))..))))). (-21.10)
+>pseudo_premiRNA_301
+GAGUAAAACGCGCGAAGGCUGUGACUGUAACAUAUAUAUAUAUAAUAUAUAUACACAGUAUACAAUGCCUGUGGUUUUUGCGCGUGUCGGCUC
+((((...(((((((((((((((((((((...((((((((.....))))))))..))))).))))..)))).......))))))))....)))) (-31.60)
+>pseudo_premiRNA_302
+UUCGGUAUACGCGAUCGGCCGAGUUACGGAGGGACGGUGAAGCGCACGAGAAAUUGAAACGGCCGCACGAUUGGAACCGAG
+.(((((.((..((..((((((..(((.....(..((......))..).......)))..))))))..))..))..))))). (-21.10)
+>pseudo_premiRNA_303
+CCCUGGCGCAUAAAUGCGGCCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUUCAUGGGGCCGGACACUCAGGGUCAGGG
+(((((((.(.....(.((((((((((.......(((((.((......))))))).......))))).....))))).)......).))))))) (-38.40)
+>pseudo_premiRNA_304
+AAUUCACUUUGGUAUAUUGCGCUGUAUCUAAUAGCACCCGAGAUAUCACCAGAUUGUAUU
+....((.((((((((((((.(((((.....))))).)....))))).)))))).)).... (-11.70)
+>pseudo_premiRNA_305
+GACGUAACUUAUGGUAUCUCGAAGGCCCCCGGCUUCUGUCGGUGGGUUUUUACUACCAACGUC
+(((((......(((((....(((((((((((((....))))).))))))))..)))))))))) (-26.20)
+>pseudo_premiRNA_306
+GAGUAACUCCAAGUUAGUGGGCCAGAAGUUACUUUUUAAAAGGUAACUUCCAACGUUUCCACUAAUUCAACUAUUC
+(((((......(((((((((((..(((((((((((....)))))))))))....))..)))))))))....))))) (-20.70)
+>pseudo_premiRNA_307
+UGUAAGGAAGGGGAACAGAGAGAUUUAGUGGGAAAGAGAGAAAAAAAAAGUUAAGUAAUGUUAACUUAGGCUAAUUUGUUAGAGAUCGCUACA
+((((..((.....((((((.....(((((..................(((((((......)))))))..))))))))))).....))..)))) (-10.30)
+>pseudo_premiRNA_308
+UCGGGUGCUAUUACAGAUAGCGCAAUAAAUAAUGUGCAUUGUCUGUAGGAGGCCCUGG
+.((((.(((.((((((((((((((........)))))..)))))))))..))))))). (-24.70)
+>pseudo_premiRNA_309
+GUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGCAGCACAGACUCAUGCGCCAGGGCCUCCUAAGACAAUGCACUUUGGUUUAUUGCGCUAUCUCUAAUAGCACCCGAGAUAUCACCAGAGAUAUAUUGGAUUACCCCUGACCCUGAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGCCCCUGGAGGUCCGACGUCGACCC
+..((((..(((((((((.((.((.((((((....(((((.........((((((.(((.(((((((.(((..(((((..(((((((.(((((.(((((.....))))).)....))))..)))))))...)))))..)))...........))).)))))))..)))))).))).))...)))))))))).)).)).)))).)..)))). (-67.70)
+>pseudo_premiRNA_310
+GGCCCUGGGGCAUGAAUCUGUGCAGCGGGAACGACCUCGGAUCACCAGGGUCCGAAAAACCACCGUCUCAUGGGGCCGGACACUCAGGGUC
+(((((((((...((..((((((..((((........(((((((.....))))))).......))))..))))))..))....))))))))) (-36.10)
+>pseudo_premiRNA_311
+GGCCCUGGCGCAUGAAUCUGGGAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCACGGGGCC
+(((((((...........(((((.(((.......(((((.((......))))))).......))))))))))))))) (-30.70)
+>pseudo_premiRNA_312
+CCCUGGCGCAAGAGUCUGUGCAGCGGGAACGGUAUCGGACCACCAGGGGCCGAGAAAACCACAGUCUCAGGGGCCGGACACUCAGGGUCAGGG
+(((((((.(.((.(((((.((..(((((..(((.((((.((......))))))....)))....)))).)..))))))).))..).))))))) (-35.00)
+>pseudo_premiRNA_313
+UCCGCUUCGGUCGUCCAGUCCCCGAAAAUUCUUCUCGGACGGGCGUUAAAGUUAACCGGAGCGCGA
+((((((((((((((((.((((..(((.....)))..))))))))).........))))))))).)) (-27.50)
+>pseudo_premiRNA_314
+GGCCCUGGCGCAUGUAUCUGUGCAGCGGGAUCACCUCGGACCACCAGGGGCCGAGAAAAUCACCGUCUCAUGGGGUCGGACUCUCAGGGUC
+((((((((.(..((..((((((..(((((((...(((((.((......)))))))...))).))))..))))))..))..)..)))))))) (-36.30)
+>pseudo_premiRNA_315
+GGCCGAGGAGCGAUCUGGAUGUGAGUUGUGCGUGUAGACUUUUAUCUUAUCAUAAGUCAGAGAAACGAUUCAGAUAUUUUGUAUGCGUGUACACUUUCAUCUUAGUCAUAAGGCC
+((((.......(((..(((((.((((.(((((((((.((...(((((.(((...............)))..)))))....)).))))))))))))).)))))..)))....)))) (-29.30)
+>pseudo_premiRNA_316
+CAGGGCCUCUUGCGGAUAAUUCACUUUGGUUUAUUGCGCUAUCUCUAAUAGCGCCCGAAUAUCACCAGAUAUAUAUUGGAUUUUUCCCUG
+(((((.......(.((((......((((((.(((((((((((.....)))))))...))))..))))))....)))).)......))))) (-22.50)
+>pseudo_premiRNA_317
+GAGUGUCCGGCCCCAUGAGUCUGCGGUUUUCUGGCCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACACAUUCAUGCGCCAGGGCCUC
+(((.(((((((..(((((((.((((((....(((((..(((....))).))))).....))))))...))))))).))).))))))) (-33.80)
+>pseudo_premiRNA_318
+GCCGAAGAGUAAACGGAAGGCUUACCAUACGAAAGAAAACGGUAUUAUACGCCUGUGGUAUGUGCGUCUCGGC
+(((((.(((((.((.(.((((.((..((((...........))))..)).)))).).))...))).))))))) (-18.80)
+>pseudo_premiRNA_319
+GACCCUGAGCGUCCGGCCCCAUGAGACGGUCUUUUCUCGGCCCCUGGUGGUCCGAGGACGUUCCCGCUGCACAGGUUCAUGCGCCAGGGUC
+(((((((.((((..((.((..((((.(((....(((((((((......)).))))))).....))))).))..)).))..))))))))))) (-38.40)
+>pseudo_premiRNA_320
+GAGUGCCCGGCCCCAUGUGUCGUGGUUUUCUCAGCCCCUGGUGGUCCGAGGUUGAUCCCUCUGCACAGAUUCAUGCGCCAGGGCCUC
+(((.(((((((..((((.((((((......((((((..(((....))).))))))........))).))).)))).))).))))))) (-33.10)
+>pseudo_premiRNA_321
+UGCCCUGACCCUGAGUGUCCGGCUCCAUGAGACGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGAUCCCGCUGCACAGAUUCAUGCGCCAGGGCCUCCUAAGACAAUGCA
+(((..((.....(((.(((((((..((((((..(((((....((((((..(((....))).))))))....))))).....)))))).))).)))))))......))..))) (-33.30)
+>pseudo_premiRNA_322
+GAGUGCCCGGCCCCAUGUGUCGUGGUUUUCUCAGCCCCUGGUGGUCCGAGGUUGAUCCCUCUGCACAGAUUCAUGCGCCAGGGCCUC
+(((.(((((((..((((.((((((......((((((..(((....))).))))))........))).))).)))).))).))))))) (-33.10)
+>pseudo_premiRNA_323
+GCCAGGGCCUCCUAAGACAAUGCAGUUUGAUUUAUUGCGCUAUCUCUAAUAACACCCGAGAUAUCGCCAGAUAUAUAUUGGAUUUCCCCUGAGC
+(((((((........((.(((.((((...((((...(((.((((((...........)))))).))).))))....)))).)))))))))).)) (-22.00)
+>pseudo_premiRNA_324
+GAGGCUCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGUCCACCAGGGGCCGAGGAAACACCGUCUCAUGGGGCCGGACACUC
+(((..((((((.......((((((..((((......(((((((((.....))))))))).....))))..))))))))))))..))) (-38.90)
+>pseudo_premiRNA_325
+CUUGGGUGUCCGGCGCCAUGUGUCGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGACGUUCCCGCUGCCCAGAUUCAUGCGCCAGGGCCUCCUAAG
+((((((.(((((((((.(((.(((((((..(((((((((......)).))))))).....))))......))).)))))))).))))..)))))) (-40.40)
+>pseudo_premiRNA_326
+GUGUGUUACGCGAGUGCACUUUUUCUUAGCCAUAAGGCCGACAAGAGAUCUGUAUUUGGGUUCUUCGAGCACAC
+(((((((((.((((((((...((((((.(((....)))....))))))..)))))))).))......))))))) (-22.70)
+>pseudo_premiRNA_327
+UCUUAGCCAUAUGCAGAGAAGCGAUCUGGAAGCGGGUUAUUCCAGUACACUUUGAUCUUAGCCAUAAGGCCGAGA
+((((.(((.((((((((((((.(..((((((........))))))..).))))..)))..).)))).))).)))) (-21.20)
+>pseudo_premiRNA_328
+CAUAAUGCGGAGAAGCGAUCUGGAUGUUGUUAUGCGAGUACACUCUGUUCUUAGCAUAAAGGCCGAGAAGCGAUCUGCACGUGUG
+((((.((((((...((..(((.(..(((.(((((((((.(((...))).))).)))))).)))).))).))..))))))..)))) (-23.80)
+>pseudo_premiRNA_329
+GCCGAGAAAAUUAGUGAUAUUCGGAAUCCGUCACCCAAGGUCAUGUAAAAAUGCAGCAUAUAUCUGGGAUAUCUCGGGUGCUAUUACAGAUUGCGCAAUAAAUCAAAGUGCAUUGUCUGCAGGAAGCCCUGGCGCAGAUUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGACAAAACUACAGUCUCAUGC
+...((((....((((.....((((..(((.....((.(((((..((.....(((.(((((.(((((.(.....(((((.(((.((.((((((((((...........)))))..))))).))..))))))))).)))))..))))).)))...))))))).)).......))).))))....))))...)))).... (-55.80)
+>pseudo_premiRNA_330
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGUCCUCGGACCUCCAGGGGCCGAGACAACGACCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGUAAAUCC
+(((.((((((((.(.(((.((((.((...(((((((((((((.(((....)))))))).....)).)))))).....))))))...)))).))))))))...))) (-43.90)
+>pseudo_premiRNA_331
+GGAGGCCCUGGCGCAUGAAUCUGGGCAGCGGGAACGACCUCGGACCGCCAGGGGCGAGAAAACCACCGACUCACGGGGCCGGACACUCAGGGUCAGGGGAAAAUCC
+(((..(((((((.(.(((.(((((.((((((.......((((..((....))..)))).......))).)).....).)))))...)))).))))))).....))) (-39.50)
+>pseudo_premiRNA_332
+ACUGGUAAAGGGUGGCGAUGAUUCGUUCUAUAAUAGAAAUACCCGUCGUAGCGUUUGGCCUAGU
+((((((.(((.((.((((((.....(((((...))))).....)))))).)).))).))).))) (-18.00)
+>pseudo_premiRNA_333
+GGAACGACCUUGGACCACCAGGGGCCGAGACAACACCGUCUCAUGGGGCCGGACACUGAGGGUCAGGGUAAAAUCC
+(((...((((((.(((..(((((((((((((......)))))....))))...).)))..)))))))))....))) (-29.90)
+>pseudo_premiRNA_334
+CCUGGCGCAUGAAACUGUUAACGGGAACGACCUCUGACCACCAGGGGCCGAGAAAACCGCAGUCUCAUGGGGCAGG
+((((.(.(((((.((((....(((...((.((((((.....)))))).))......))))))).))))).).)))) (-31.90)
+>pseudo_premiRNA_335
+CGAUCGGUACGAUUCGUGCAACGUUUCGCGCGAUGCGACGCGAAAACAUGCGCGCAACAAUAGAUCGUCUGAUCG
+(((((((.((((((((((((...(((((((((...)).)))))))...))))))........))))))))))))) (-32.80)
+>pseudo_premiRNA_336
+GAAGAACGCGAGGGUCGACUGCACGCGAUGGAUUCAGUAUCGGGUAGGAUACAAAAUAUUCCCCGUCGCUUCCACGCGUGCGAGUCUUCUGCGUCUUUC
+(((((.(((.((((..(((((((((((.((((...(((..((((..(((((.....)))))))))..)))))))))))))).)))))))))))))))). (-41.80)
+>pseudo_premiRNA_337
+CGAUCGGUACGAUUCGUGCAACGUUUCGCGCGAUGCGACGCGAAAACAUGCGCGCAACAAUAGAUCGUCUGAUCG
+(((((((.((((((((((((...(((((((((...)).)))))))...))))))........))))))))))))) (-32.80)
+>pseudo_premiRNA_338
+GAAGAACGCGAGGGUCGACUGCACGCGAUGGAUUCAGUAUCGGGUAGGAUACAAAAUAUUCCCCGUCGGUUCCACGCGUGCGAGUCUUCUGCGUCUUUC
+(((((.(((.((((..(((((((((((.((((.((.....((((..(((((.....)))))))))..)).))))))))))).)))))))))))))))). (-39.50)
+>pseudo_premiRNA_339
+GUCGAGGAUGGGGCUAGGCCAAUGGCUGCGAAUUGUGUAAAAUUGCCGAGUAGUUAUUCUUUAGCUUCAUUCUCUGAU
+((((((((((((((((((..(((((((((...(((.(((....))))))))))))))).))))))))))))))).))) (-29.20)
+>pseudo_premiRNA_340
+GGCCCCAUGAGACGGUAGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGCUGCACAAUUCAUGCGCC
+(((..((((((...(((((.....(((((..(((....))).))))).....)))))....)))))).))) (-23.00)
+>pseudo_premiRNA_341
+UGCAUUGUCCGCAGAGGCCCUGGCGCAUGAAUCUGGGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCCAUGUGGCCGGACACACAGGGUAAGGGGAAAAUGCA
+((((((.(((.(....((((((.....((..(((((.((((((.......(((((.((......))))))).......)))).....)).)))))..))))))))..).))).)))))) (-45.00)
+>pseudo_premiRNA_342
+GAACCUAUUCCUCAUAAUAUCUGUCUUAUACAGGAGCAAGAAAAGGGUUGGACUGCACACACACACCACUUGAGACUUGAUGUUGGGUAGAAUAGGUUC
+((((((((((..(.(((((((.((((((....((..........((......))...........))...))))))..))))))).)..)))))))))) (-27.00)
+>pseudo_premiRNA_343
+GGUCAUUGUUCGACGGGUUGGUAUGGCCAUUUUCCUGGCUACAGCCUCGCGCAGCGAGUUCC
+((...(((((((.(((((((...((((((......))))))))))).)))).)))))...)) (-22.10)
+>pseudo_premiRNA_344
+GGCCAACUCCCUGACCACCGCAUCAUCCGCCGUCAAAGACGGAAGGCAUGAGCGAUGGUCAGGACGUCGGCC
+((((.((..((((((((.(((.((((((.(((((...)))))..)).))))))).))))))))..)).)))) (-41.00)
+>pseudo_premiRNA_345
+CAGCAAGCGGAAGCAGUCCACAUCCCCCCUACUGGGUGGGAGGUAGACUACCUCCGCGCUG
+((((..(((((.(.((((.((.(((((((....))).)))).)).)))).).))))))))) (-32.00)
+>pseudo_premiRNA_346
+CCGAGAUAUCACCAGAUAUAUGCUGGAUUUUUACAUGACCCUGAGAGUCCGGCCCCUGUGUCGGUGGUUUUCUCGG
+((((((.((((((.((((((.((((((((((((........))))))))))))...))))))))))))..)))))) (-36.40)
+>pseudo_premiRNA_347
+AAUUUUUCAACCUUAAAAACGUUAAUAAACUGCACUCUUAUGCACGGAUUAAGCAUUGAAAAAUU
+((((((((((.(((((...(((..((((.........))))..)))..)))))..)))))))))) (-10.30)
+>pseudo_premiRNA_348
+GGUCAGCCGGAUGUAUCCUUGGUCCCUAUGAGACUCGCCCUGGAGUCCAAUCACUGCUAAGUCAAAUGGCUACCCCCGACC
+(((.(((((..((....((((((.....((.(((((......)))))))......)))))).))..))))))))....... (-21.70)
+>pseudo_premiRNA_349
+AUCGAACUUGACACUUGGUUGAAGAUACAAACAGAUAGGCAGACACAAACUGUUCUUUUGGAUUGAACUGCUGUUUGGCUGGAGACAUAGACAAAAGGGUUGAU
+(((((.(((....((..(((..((...(((((((.(((...((..((((.......))))..))...)))))))))).))...)))..))....)))..))))) (-19.10)
+>pseudo_premiRNA_350
+CGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGCAAGCAGAAUUCGCCAAGCGUCG
+((((((((..(((((...((((((((..((......))..))))).))))))))..))....)))))) (-14.90)
+>pseudo_premiRNA_351
+UGAGCUGGGUUUAGACCGUCGGAGACAGGUCAGUUUUACCCUACUGAUGACUAGUCGUUGCGAUAGUAAUCCUGCUCA
+(((((.(((((...((.((((..(((((((((((........))))))..)).)))....)))).))))))).))))) (-25.30)
+>pseudo_premiRNA_352
+UUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGCAAGCAGAAUUCGCCAAGCGUCGGAUUGUUCACCCGCCAACAG
+.((((((((...((((.((....((((((((..(((((...((((((((..((......))..))))).))))))))..))....)))))))).))))...))))).))). (-29.80)
+>pseudo_premiRNA_353
+GGAGGCCCUGGCCAUGUAUCUGUGCAGCGGGAACAAUCUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAUGGGGCCGACACUCAGGGCCAGGGAAAAAUCC
+(((..((((((((.((..((((((..((((......((((((.((......))))))))......))))..)))))).........)).)))))))).....))) (-42.10)
+>pseudo_premiRNA_354
+GGAGGCCCUGGCCAUGCAUCUGUGCAGCGGGAACGAUCUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAUGGGGCCGACACUCAGGGUCAGGGGAAAAUCC
+(((..((((((((..((.((((((..((((......((((((.((......))))))))......))))..))))))))..........)))))))).....))) (-40.20)
+>pseudo_premiRNA_355
+GGAGGCCCUGGCCAUGUAUCUGUGCAGCGGGAACAAUCUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAUGGGGCCGACACUCAGGGUCAGGGAAAAAUCC
+(((..((((((((.((..((((((..((((......((((((.((......))))))))......))))..)))))).........)).)))))))).....))) (-39.40)
+>pseudo_premiRNA_356
+GUCUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUACUAUAGAGAU
+(((((((((.(((.(((((.((((......(((...)))........))))))).....)).))).)))).))))) (-20.50)
+>pseudo_premiRNA_357
+CCGAGAAAAUUACUGAUAUUCGGAAUCCGUCACCCAAGGUCAUGUAAAAUCCAGCAUAUAUCUGGUGAUAUCUCGG
+((((((..(((((((((((..(((...(((.(((...))).))).....))).....))))).)))))).)))))) (-18.60)
+>pseudo_premiRNA_358
+UCUCCUCUAACUUUGUUUUUUUUGCCUUUGAGCGAUUUUUAUGAAAUUCGAUUGAAUUUUCAUACAAUUCACGUUCACACGACCUCAGAGUAGGCGAGA
+((((.((((.(((((....((.((....((((((..((.((((((((((....))).))))))).))....)))))))).))...))))))))).)))) (-20.10)
+>pseudo_premiRNA_359
+UUGUCUGCAGGAAGCCCUGACGCAUGAAUCUGUGCAGCGGGACGACCUCGGAACACCAGGGGCCGCGAAAACCACAGUCUCAUGGGGCCGAGAACUCAGGGUCAGGCAA
+.((((((......((((((((.(((((..(((((..((((.....(((.((....)))))..))))......)))))..))))).).........))))))))))))). (-39.70)
+>pseudo_premiRNA_360
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGACCACCAGGGUCCGAGAAAACCACAGUCUCAUGGGGUCGGACACUCAGGGUCAGGGGAAAUCC
+(((..(((((((.(.(((.(((((.(...(((((...((((((((.....)))))))).........)))))...).).))))...)))).)))))))....))) (-42.00)
+>pseudo_premiRNA_361
+CCUCGGACCACCAGGGGCCGAGAAAACCACCAUCUCAUGGGGCCGGACACUCAGGGUCUGGGG
+.(((((.((......)))))))....((.((((...))))))((((((.(....))))))).. (-23.70)
+>pseudo_premiRNA_362
+CCAAAGUGAAUUGUCUGCAGGAUGCCUUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGACCACUAGGG
+((..((((....(((((.(((.(((((..(((((......)))))...))).)).))))))))))))..)) (-23.20)
+>pseudo_premiRNA_363
+GGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGUCGGACUGUCAGGGUC
+((((((((((..(((.((((((..((((......(((((.((......))))))).......))))..)))))).)))...)))))))))) (-39.00)
+>pseudo_premiRNA_364
+GUCUCAUGGGGCCGGACACUCAGGGUCUGGGGAAAAUCCAUUGUAUAUCUGGUGAUAUGUCGGGAGCUAUACAGAUAGCGCAAUAAAUCAAAGUUCAUUGUCUGGAGGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGC
+(((((((((((((((.(.(((..(((((((((....(((.(((((((..(.(((...(((((((.(((...(((((((.(.(((........)))).))))))).....))))))))))))).)...))))))).)))....)))))))))....)))))))...........)))))))))))) (-65.20)
+>pseudo_premiRNA_365
+CUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCCAAUAUAUAUCUGGUGAUAUCUCUGGUGCUAUAGAG
+(((((((.(((((((((.((((......(((...)))........))))))).....)))))).)))).))) (-21.90)
+>pseudo_premiRNA_366
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGACAACCAGGGGCCGAGAAAACCACCGUCUCAUGGUGCCGGACACUCAGGGUCGGGGAAAAUCC
+(((..(((((((.(.(((.((((.(((.(((((((..(((((.(........))))))........))))))..).)))))))...)))).)))))))....))) (-39.30)
+>pseudo_premiRNA_367
+UCUGGCGCAUGAAUCUGUGCAGCGGGACGACCUCGGUCCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGCUGGACACUCAGGGUGAGG
+.((.((.(.(((...(((.((((((((((..((((((((.....))))))))........)))))).....)))).))).)))).)).)). (-35.70)
+>pseudo_premiRNA_368
+GCCGGACACUCAGGGUCAGGGCAAAAUCCAAUAUAUAUCUGGAGAUAUCUCGGGUGCUAUAGAGAUAGCGCAAUAAACCAAAGUGAAUUAUCUGCAGGAGGCCCUGGCGCAUGAAUCUGUGC
+((((((...((((.((((((((...............((((.(((((..(((.(((((((....)))))))............)))..))))).))))..)))))))).).))).)))).)) (-38.80)
+>pseudo_premiRNA_369
+GGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGUCCACAGGGGCCGAGAAAACCACCGUCUCAUGGGGCCGGACACUCAGGGUCAGGGGAAAAUCC
+(((..(((((((.(.(((.((((.(((((((.......((((((((....)))))))).......))).))......))))))...)))).))))))).....))) (-41.90)
+>pseudo_premiRNA_370
+CGGGUCAGCCGGAUGUACCCUUGGUCCCUAUGAGACCUCGUCCUGAGUCCCAUCACAGCUAAGUCGAAUGGCUCCCCCG
+((((..(((((........((((((....(((.(((.((.....))))).)))....)))))).....)))))..)))) (-21.90)
+>pseudo_premiRNA_371
+GACCUUCCGGCAAUUCUGGCCAACGGAAUCCAAGUUUUCCACUUUGGCAGCCUGGUUUGUAUAGUCUGAAGUC
+...((((.(((.((...(((((..((...(((((........)))))...)))))))...)).))).)))).. (-16.50)
+>pseudo_premiRNA_372
+GAGGCUCCGGCGCAUGAAUCUAUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGCUGAUGGGGCCGGACACUC
+(((..((((((.......(((((.((((((.......(((((.((......))))))).......)))))))))))))))))..))) (-38.50)
+>pseudo_premiRNA_373
+GAGGCUCCGGCGCAUGAAUCUAUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGCUCAUGGGGCCGGACACUC
+(((..((((((.......((((((.(((((.......(((((.((......))))))).......)))))))))))))))))..))) (-38.50)
+>pseudo_premiRNA_374
+ACCAAAGUGAAUUAUCUGCAGGAGGCCCUGGCGCAUGAAUCUUGCAGCGGGAACUACCUCGGAUCACCAGGGU
+(((...((((....((((.(((((..((((..(((.......)))..))))..)).)))))))))))...))) (-25.10)
+>pseudo_premiRNA_375
+CUGGCCGAAACUGCGUGUACCUGUGUUGAGUGUCCAGUGUGACCGUGUGUAGUGUGCGUGUCCCGUGCGCAACACGUGUCCGGGCGGAUCACGCGUGCACAGUCGUGCGUUAG
+(((((((..(((..((((((.((((.....(((((...(.((((((((...(((((((.....))))))).))))).)))))))))...)))).)))))))))..)).))))) (-39.00)
+>pseudo_premiRNA_376
+GCUAAGAUCAAAGUGUACUCGCCUCACACAUGUCCAGGUUGCUUCUCGGUCGUAUGGCUACGAUCAAAUGUACUCUCUUUACACAGAACCAGAUCACUUCUCGGCCUUUUGGGUAAGAUCAAAGUGUACUCGUAUAACCAAAUCCAGAUCGCUUCGCGGCCUUAUGGCUAAUAUCAGAGUGUACUCGUAUAACCCAAAUCCAGAUCCUUCGC
+((.((((((..(((((((((........((((...(((((((....(((((...(((.(((((......((((.(((((..(.((((((((((.....))).))..))))))..)))).....).)))))))))...)))......)))))....)))))))))))..........))))))))).................))).))).)) (-40.40)
+>pseudo_premiRNA_377
+CCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACAGAUUCCCUCUGUCCCUAUCUACUUUCUAGCGAAACCACUGCCAAGGGAACGGGCUUGG
+((((..(((.(((..(((...(((((...(((..((((((((..(((((.....)))))....)))))..)))..)))....)))))...)))..)))))))))) (-28.00)
+>pseudo_premiRNA_378
+CUGCUUUGGGUACCUCAGGACCCGUCUUGAAACACGGACCAAGGAGUCUAACAUGUGCGCGAGUCAUUGGGAUUUUGUAAACUAAAGGCGG
+(((((((.(((....(((((((((.((((...(((((((......)))).....)))..)))).)...))).)))))...))).))))))) (-21.30)
+>pseudo_premiRNA_379
+GAGGUCUCAUAGGGACGAAGGCUCAUCCGGCUGACCGAUGGGAAGGUCGGGAUACUUUUGUUCGAAAUUGACUUU
+((((((......(((((((((....(((((((..((....))..)))))))...)))))))))......)))))) (-27.50)
+>pseudo_premiRNA_380
+CUGGCAAAUGAAGCGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAUAACCACUGUCUCAUGGGGCCGG
+(((((..((((.(...((((.((.......(((((.((......)))))))....)).)))))))))...))))) (-24.80)
+>pseudo_premiRNA_381
+ACGGGUGAUAUCUCGGGUGCCAUUACAGAUAGCGCAAUAAAUCAAAGGCAUUGUCUGUAGGAAGCACUGGCGCAUGAAUCUGU
+((((((..((((.(.(((((..((((((((((.((............)).))))))))))...))))).).).))).)))))) (-26.50)
+>pseudo_premiRNA_382
+AUCCAGCGUAUAUCUGGUGAAUCUCGUGUGCUAUUACAGAUAGCGCAAUAAAUGAAAGUGCAUUGUCUGUAGGAGACCCUGGCGCAUGAUCAGUGCAGCGGGAU
+((((.(((((...((((......((((((((((((((((((((.(((...........))).)))))))))).......))))))))))))))))).)).)))) (-32.40)
+>pseudo_premiRNA_383
+CGGCGAGCGAACAGAAUUAGCCCAGCACUGAAUCCCGCGGUUCCGCCGUAGGGAAAUGUAGUGUUCAGGAGGGUCCAUUUAUCCGUGACGUCG
+(((((.(((....((((..(((((((((((..(((((((((...))))).))))....))))))).....))))..))))...)))..))))) (-32.30)
+>pseudo_premiRNA_384
+GAAUUAGCCCAGCACUGACUCCCGCGGUUCCGCCGUAGGGAAAUGUAGUGUUCAGGAGGGUCCAUUU
+......(((((((((((..(((((((((...))))).))))....))))))).....))))...... (-22.90)
+>pseudo_premiRNA_385
+ACGACCUCGGACCACCAGGGGCCGGAAAAUUACAGCUUUUCGGUAUCCGUCGCCCAAGGUCAUGUAAAAAUCCGGCAUAUAUCUGGUGAUAUCCGGGUGGU
+((.(((.((((.(((((((.((((((...((((((((((..(((.......))).)))))..)))))...)))))).....)))))))...))))))).)) (-38.70)
+>pseudo_premiRNA_386
+GGCAAUUCGGCCGACGGAAUCCAAGUUUUCCACUUUGGCAACCUGGUUUCUAUAGUCUAAAGUCAAUUUCGACCAAAGUAUUCCGAACUUCACAUCGGUCAGCCGGAUGUAGCC
+(((.(((((((.(((.((....((((((...((((((((((..((((((..........))))))..)).).))))))).....))))))....)).))).)))))))...))) (-28.80)
+>pseudo_premiRNA_387
+GCGCCCGUGCUGAGCGGCCGGCGCCGCGGUCGUCGCGGCCGCCCGUUUGGUUACUAUAGAGCGC
+((((.((((((((((((.((((..((((.....)))))))).)))))))).)))....).)))) (-28.90)
+>pseudo_premiRNA_388
+CUUAGAGUCGUGUUGCUUGAGAGUGCAGCCCUAAGUGGGUGGUAAACUCCAUCUAAGGUAAAUAUGACCACGAG
+......(((((((((((((((..(((.((((.....)))).)))..)))......)))).))))))))...... (-19.90)
+>pseudo_premiRNA_389
+GGAGGCCCUGGCGCUGAAUCUGUGCAGCGGGAACGACCUCGUACCACCAGGUGCCCAGGAAUCCACCGUCUCAUGGGGCCGGAACGCAGGGUCAGGGAAAAAUCC
+(((..(((((((.(((..((((((..((((......(((.(((((....)))))..)))......))))..)))))).........))).))))))).....))) (-38.30)
+>pseudo_premiRNA_390
+CCGCAUCUUGCGUGUACCGUAACGGAAUUGGGAGGACCGGCCGUGAAGCUCGUUUUAAAGCCGUGCGUCUGACACCCAACUCUUGCGCGCAAUUUCGCGG
+(((((..(((((((((.......(((.(((((.((((((((..((((......))))..))))...))))....))))).))))))))))))..).)))) (-33.70)
+>pseudo_premiRNA_391
+CUCAUGGUGCCGGACACUCAGGGUCAGGAAAAAUCCAGCAUAUAUCUGGUGAUAUCUCGGGCGCUAUGAG
+(((((((((((.(((((.((((....(((....)))........))))))).....)).))))))))))) (-25.80)
+>pseudo_premiRNA_392
+GUGGUUCGCGUGUGUAGGCUCUAUACGAAAUUGCGAUUCAAGAGAGUAGGAAAAGACGCGAUGAACCAC
+(((((((((((((.(..(((((....(((.......)))...)))))......).))))).)))))))) (-21.20)
+>pseudo_premiRNA_393
+GUGGUUCGCGUGUGUAGGCUCUAUACGAAAUUGCGAUUCAAGAGAGUAGGAAAAGACGCGAUGAACCAC
+(((((((((((((.(..(((((....(((.......)))...)))))......).))))).)))))))) (-21.20)
+>pseudo_premiRNA_394
+GAUGAGGUGUUUUUUUAUUUUAUACACGAUCAAUACGAGGAGAGAGAGAAAAAGUACACACCCAUC
+((((.(((((((((((.((((...(.((.......)).)...)))).))))))....))))))))) (-11.50)
+>pseudo_premiRNA_395
+CACCAGGGGCCGAGAAAAUUACAGAUGUUCGGUAUCCGUCACCCAAUUUCUGUAAAAAUCCAGCAUAUAUCUGGUG
+(((((((.((.(.((...(((((((.(((.(((.......))).))).)))))))...))).)).....))))))) (-19.90)
+>pseudo_premiRNA_396
+GACUAACACGGGAAACCUCACCAGGCCCGGACACCGGAAGGAUUGACAGAUUGAUAGCUCUUUCUUGAUUCGGGGGUGGUGGGGCAUGGCCGUUCUUAGUU
+((((((.((((....((((((((..((((((((..((((((((((.((...)).))).))))))))).))))))..)))))))).....))))..)))))) (-37.30)
+>pseudo_premiRNA_397
+UUACUGCAGGAGGUCCUGCCGCAUGAAUCUGUGCCGCGGGAACGACCUCGGACCACCAGGGGUCGAGAGAACACCGACGCAUGGGGCCGGACACUCAGGGUAA
+.((((....(((((((.(((.((((..((.(((.........(((((((((....)).)))))))......))).))..)))).))).)))).)))..)))). (-41.90)
+>pseudo_premiRNA_398
+AUCACCAGAUAUAUGCCGGAUUUUUACAUGACAUUUGGUAACGGAUAACGAAAAUCUGUAUUUUCUCGGCCCCUGGUGGU
+((((((((......((((((....((((.((..((((...........))))..))))))...)).))))..)))))))) (-20.90)
+>pseudo_premiRNA_399
+CUGACCCUGAGUGUCCGGCCCGUGAGUCGGUGGUUUUCUCGGCACCUGGCGGUCCGAGGUCGUUCCCGCUGCCCAGAUUCAUGCGCCGGGCCUCCUACAG
+........(((.(((((((.((((((((((((((..((((((.(((....)))))))))........))))))..)))))))).))))))))))...... (-45.00)
+>pseudo_premiRNA_400
+GACGUCGGAACACCAGGGGCCAAAAAAAUUACAGAUUUUCGGUAUCCUUCACCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGGUGAUAUCUCGGGUUC
+(((.(((((.(((((((...........(((((((((((.(((.......))))))))).)))))..............)))))))...)).)))))). (-20.50)
+>pseudo_premiRNA_401
+UCGGGGCUAUUACAUAUAGCGCAAUAAAUCAAAGUUCAUUGUCUGUAGGGGGCCCUGA
+((((((((....(.(((((.(((((.(((....))).)))))))))))..)))))))) (-18.80)
+>pseudo_premiRNA_402
+GUGGUUCGCGUGUGUAGGCUCUAUACGAAAUUGCGAUUCAAGAGAGUAGAAAAGACGCGAUGAACCAC
+(((((((((((((.(..(((((....(((.......)))...))))).....).))))).)))))))) (-22.00)
+>pseudo_premiRNA_403
+GGAGGCCCUGGCCCAUGAAGCUGUGCAGCGGGAUAGACCUCGGACCACCAGGGGCCGAGAAAAUCACCUCUCAAGGGGCCGGACUGUCAGGGUCAGGGAAAAAUCC
+(((..(((((((((.((((((((.((((.(((((....(((((.((......)))))))...))).)).))......))))).)).)))))))))))).....))) (-41.50)
+>pseudo_premiRNA_404
+UGGCUCAUUAAAUCAGUUAUGGUUCCUUAGAUGUACCCACAUUUACUUGGAUAACUGUGGUAAUUCUAGAGCUA
+((((((((((...((((((....(((.(((((((....)))))))...)))))))))...))))....)))))) (-18.40)
+>pseudo_premiRNA_405
+GCCGGAUGUAGCCUUGGUCCCUAUGAGACUCUCCCUGGUGUCCAAUCAAUGCUAAGUCGAAUGGCUUCCCCCGACCUUCCUGGCAAUUCUGGC
+((((((..(.(((..((((.((((..((((.....((((.....))))......))))..))))........)))).....))))..)))))) (-23.40)
+>pseudo_premiRNA_406
+AGUGGCCGAGAAAAUUACAGAUAUUCGGAAUCCGUCACCAAGGUCAGCGGAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGGGUGCU
+((((.((((((..(((((((((((..(((.(((((.((....))..)))))...))).....)))))).))))).)))))).)))) (-29.80)
+>pseudo_premiRNA_407
+GUGCAUUGUCCGUAGGAGGCCCUGGCGCAUAAUCUGUGCAGCGGGAGCGACCUCGGACCAC
+.......(((((.(((..((((((..(((((...)))))..)))).))..))))))))... (-27.20)
+>pseudo_premiRNA_408
+CUGGCGCAUGAAUCUGGGCAGCGGGAACGACCUAGGACCACCAGGGGCCGAGAAAACCACCGACUCACGGGCCGG
+(((((.(.(((.(((((....(((......(((.((....)))))..)))......)))..)).))).).))))) (-21.90)
+>pseudo_premiRNA_409
+CUUUUGGUCGAAAUUGACCUAGACUAUACAAUCCAGGUUUCCAAAGUGGAAAACUUGGAUUCCGUCGGGCAGAAUUGACAUGAAG
+((((..(((((..(((.(((.(((.....((((((((((((((...))).)))))))))))..)))))))))..)))))..)))) (-27.10)
+>pseudo_premiRNA_410
+CGGGAUUAGCUUUUUUCGAACUCAGUUUAUUAUUUUAGUUGCAAGGGGCAAUCGCACCCUAAACCAUGAGAAAAUCAUUUAGUUAAUCCGCG
+(((((((((((.........((((((((...............((((((....)).))))))))..))))..........))))))))).)) (-20.60)
+>pseudo_premiRNA_411
+UCUCGGGUGCUAUUACAGAUAGCGCGAUAAAUCAAAGUGCAUUGUCUGUAGAGGCACUGGCGA
+((.(.((((((.(((((((((((((...........))))..))))))))).)))))).).)) (-26.10)
+>pseudo_premiRNA_412
+AGCUUUAUAUAGUUUUAUAUAUUUUUAUAUAGUUUUAAUAGUUUUACAAAGUUUUAUAUAGUUUUAUAUAGUUUUAUACAGUU
+.(((.((((.....(((((((...((((((((.....................))))))))...)))))))...)))).))). ( -8.40)
+>pseudo_premiRNA_413
+AAAUAGCGUGUCUGUGUGAUUUGUGAACUUUGAAACAAACUGUGAAGAUGAGUCAAAAUUUUACGAUUCACAACUGAAAAAGUGUUU
+(((((.....((.((((((.(((((((.(((((..((..((....)).))..)))))..))))))).)))).)).)).....))))) (-15.80)
+>pseudo_premiRNA_414
+GCCGGAUGUAGCCUUGGUCGCUAUUAGACCUCGUCCUGGAGUCCCAUCCUGCUAAGUCAAAUGGCUACCCCCGACCUUCCUGGCAUUUCCGGC
+((((((.((.(((..((((((((((.(((...((...(((......))).))...))).)))))).......)))).....))))).)))))) (-31.10)
+>pseudo_premiRNA_415
+CCGAGAAAACUACCGUCUCAUGGGGCCGGACUGUCAGAGUCAGGGAAAAAUCCAAUAUACAUCGGUGGUAUCUCGG
+((((((..(((((((.......(((((.((((.....)))).))......))).........))))))).)))))) (-24.50)
+>pseudo_premiRNA_416
+ACUGCUAAGUCAAAUGGCUCCCCCGACCUUCCUGGCAAUUCUGCCCGACGGAAUCCAAGUUUGGCACAUUGGAAACCUGGAUUGUAUAUCUAAAGUCAAUUUCGACCAACAGU
+((((....(((((((((((......((..(((.((((((..((((.(((.........))).)))).))))....)).)))..))........)))).)))).)))...)))) (-22.30)
+>pseudo_premiRNA_417
+AGCCGGAUGUAGCCUUGGUCCCUAUGAGACCUCUCCCUGGUGUCCAAUCACUGCUAAGUCAAAUGGCU
+((((((((.((((.((((.(((...(((....)))...)).).)))).....)))).)))...))))) (-18.30)
+>pseudo_premiRNA_418
+AGCCGGAUUUAGCCUUGGUCCCUAGAGAUCUCGUCCUGGAGUCCCAUCACUGCUAAGUCAAAUGGCU
+(((((((((((((..(((..(((((.(((...))))))).)..))).....))))))))...))))) (-20.60)
+>pseudo_premiRNA_419
+CGGACCUUCCUGACAAUUCUGACGACGGAAUCCUGGUUUUCCACUUUGGAAACCUGGAUUGUAUAGUCUAAAGGCAAUUUCG
+((((....(((.........(((...(.(((((.(((((((......))))))).))))).)...)))...)))....)))) (-19.20)
+>pseudo_premiRNA_420
+GGCCCGUUGAGACUGUCGUUUUCUCGGCCCUGGUGGUCCGAGGUCGUUCCCGUUGCACAGAUUCAUGCGCC
+(((.(((.(((.((((((......(((((.(((....))).))))).......)).)))).)))))).))) (-21.10)
+>pseudo_premiRNA_421
+GAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCCUUGCCAGAUUCAUGCGCCAGGGCCUC
+(((.(((((((..((((((.((((((...((((((((......)).)))))).....))....))).).)))))).))).))))))) (-31.30)
+>pseudo_premiRNA_422
+CGUCCGCCAGAAUGGCCAGGAAGGCAAGGGGUAGUCAUUUGAGUUAGCGUGAUAGGACUCCAGGUCGAGGUCUCCUUGGGACGAAGGCUAAAUCCGGCUGACG
+((((.(((.((.(((((.......(((((((...(((((((((((..........)))).))))).))...))))))).......)))))..)).))).)))) (-33.80)
+>pseudo_premiRNA_423
+GAGAAAAUUACAGAUAUUCGGAAUCCGUCACCUAAUGUCAUGUAAAAAUCCAGCAUAUAUCUGUGACAUCUC
+((((...((((((((((..(((...(((.((.....)).)))......))).....))))))))))..)))) (-12.50)
+>pseudo_premiRNA_424
+UCCAGCAUAUAUCUGUGACAUCUCGGGUGCUCUUACAGAUAGCGCACUAAACCAAAGUGCCUUGUCUGUAGGAGGCCCUAGCGAUGAAUCUGUGCAGUUGGA
+((((((.((((...((..((((.(((((.(((((((((((((.(((((.......))))).)))))))))))))))))..).)))).)).))))..)))))) (-39.60)
+>pseudo_premiRNA_425
+UUAUCGGGUCUUCGUUGGAAUACCGUCGCUGGCAUUGUAAACCCCAGAUGACCUUGUGAUUCCUUCGUCGGGCACUGGUAA
+.((((((((((.((..(((((((.((((((((...........)))).))))...)).)))))..))..)))).)))))). (-26.00)
+>pseudo_premiRNA_426
+CAGAUAUGCGGUAUCCGUCACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGGUGAUAUCUCGGGUGUAUUACAGAUAGCGCAAUAAACCAAAGUGCUUUGUCUG
+((((((((((.((((.(((((((.((((((.........((((.......))))))))..)).)))))....)).)))).))))................)))))) (-25.40)
+>pseudo_premiRNA_427
+GUCAGCCGGAUGUAGCCUUGGUCCCUAUGAGCCCUCUCCCUGGAGUCCAAUCACUGCUAGUCAAAUGGCUUCCCCCGACCUUCCUGGCAAUUCUGGCCGAC
+(((.((((((..(.(((..((((.....(((((......(((((((......))).))))......))))).....)))).....))))..)))))).))) (-32.80)
+>pseudo_premiRNA_428
+ACCUCUCGGAUCGAACGUUUUUUUACCGAAGGGCGCAAAGAACGUUUCUGAGUCGGGU
+((((((((((...((((((((((..((....))...))))))))))))))))..)))) (-19.10)
+>pseudo_premiRNA_429
+GGAGGCCCUGGCGCUGAAUCUGUACAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGGCCGGAACUCAGGGUCAGGGUAAAAUCC
+....((((((((.((((.((((..((((((.......(((((.((......))))))).......))))....))....))))..)))).))))))))....... (-39.60)
+>pseudo_premiRNA_430
+GGGUCAGGGUAAAAUCCAAUAUAUACUGGUGAUAUCUCGGGUGCUAUUAGAGAUAGCGCAAUAAAUCAAAGUGCAUUGUCUGUAGGAGGACCUGCGCAUGAAUCUGUACAACGGGAACGACCUCGGACCU
+(((((.((((....(((......(((.(((..((((.(((((.((.(((.((((((.(((...........))).)))))).))).)).))))).).))).))).))).....)))...))))..))))) (-38.00)
+>pseudo_premiRNA_431
+AAGUCAUUUCGACCAAAAGUAUCCCGAACUUCUCAUGGGUCAGCCGGAUGUAGCCUUCGUCCCUAUGAGACAUCGUCUGGAGUCACAUCACUGCUAAGUCAAAUGGCUU
+(((((((((.(((....(((((((.((...(((((((((...(..((......))..)...))))))))).....)).)))..........))))..)))))))))))) (-27.20)
+>pseudo_premiRNA_432
+GAUAAGAAAUUAAGGUAACAUAUAAUUAGGGUUUAAGGCUUGGCUUGAUCCGGAUUACGCAUUAGACUUAUC
+((((((...((((.((......(((((.(((((.(((......)))))))).))))).)).)))).)))))) (-10.30)
+>pseudo_premiRNA_433
+CUGACCCUGAGUGUCCGACCCCAUGAGACGGUGGUUUUCUCGGCCCCUGGUGGUCCGAGGUCGUUCCCGUGAACAG
+..((((.......((.(((((((.(....(((.(......).)))).))).)))).))))))((((....)))).. (-19.80)
+>pseudo_premiRNA_434
+GAGAAUCAUAGUUGGAAACAAAUAGUCAAACAAACAAAUAGAGAACAUCGACAUAUUUCGAGUCACUACACUGAUUUUC
+((((((((((((.((....((((((((......................))).)))))....))))))...)))))))) (-10.40)
+>pseudo_premiRNA_435
+CCUGGCCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACCGCAGUCUCACGGGGCCGACACUCAGGGUCAGG
+(((((((.(((.((((((..((((.......(((((.((......)))))))....)))).....))))))........))).))))))) (-31.50)
+>pseudo_premiRNA_436
+GCGUGAGGUGCGAUAGCGUUGAUUCGUUGUCUGUACGGGGAGAAAUAGAACGAUGAGUUGACUUAUCGGGUCUUCGU
+(((.(((((.((((((.(((((((((((((((((..........)))).))))))))))))))))))).)))))))) (-26.90)
+>pseudo_premiRNA_437
+GCAUAUAUCUGGGAUAUCUCGGGUGCUAUUACAGGUAGCGCAAUAAAUCAAAAUGCAUUGCCUGUAGAAGGCCCUGGCGCCGAAUAUGUGC
+((((((((.(((......(((((.(((.((((((((((.(((...........))).))))))))))..))))))))..))).)))))))) (-33.80)
+>pseudo_premiRNA_438
+CCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCGCCAGGGGCCGAGAUAACCACCGUUCAUGGGGCCGGACACUCAGGGUCAGGG
+(((((((.(.(((.((((.((..((.(((((..(((((.((......)))))))........))))).))..))))))...)))).))))))) (-37.60)
+>pseudo_premiRNA_439
+CUGUAGGAGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACCAGGGGCCGAGAAAACUACCGUCUCAGGGGCCGGACUGUCAGGGUCAG
+........(((((((((......(((.((..((((.......(((((.((......))))))).......))))..)).)))......)))))))))... (-34.70)
+>pseudo_premiRNA_440
+GGUCUUCGGACUGGUGCGCGGCAAUGUUGUUGCAUUGCCGAUGUUGCCGGGAAGAUAACC
+(((..((...(((((((((((((((((....))))))))).)).))))))...))..))) (-27.60)
+>pseudo_premiRNA_441
+GUGAGGUCUUCGGACUGGUGCGCGGCAAUGUUGUUGCAUUGCCGAUGUUGCCGGGAAGAUGACCAAAC
+....((((.((...(((((((((((((((((....))))))))).)).))))))...)).)))).... (-31.90)
+>pseudo_premiRNA_442
+GGUCUUCGGACUGGUGCGCGGCAAUGUUGUUGCAUUGCCGAUGUUGCCGGGACGAUGACC
+((((.(((..(((((((((((((((((....))))))))).)).))))))..))).)))) (-35.40)
+>pseudo_premiRNA_443
+GGCCGAGAAAAUCACCUCUCAUGGGGUCGGACACUCAGUGUCGGGGAAAAAUCCCAUAUACGUCUGGUGAUAUCUCGGGU
+..((((((..((((((...(((((((((.(((((...))))).)......)))))))....)...)))))).)))))).. (-29.20)
+>pseudo_premiRNA_444
+UUCCCAUCGGUCUGCCGGAUGUAGCCUUGGUCCCUAUGUGAUCUCGUCCUGGAGUCCCAUACUGCUAAGUCAAAUGGCUACCCCCGACCUUCCUGGCAAUUCUGGCCGACGGAA
+...((.(((((((((((((.(((((((((((...((((.((.(((......))))).))))..))))).......)))))).........))).)))).....)))))).)).. (-34.00)
+>pseudo_premiRNA_445
+CGGAUGUAGCCUUGGUCCCUAUGAGAUCUCGUCCUGGAGUCCCAUACUGCUAAGUCAAAUGGCUACCCCCG
+(((..(((((((((((...((((.((.(((......))))).))))..))))).......))))))..))) (-20.80)
+>pseudo_premiRNA_446
+GAGAAAAUUACAUAUAUUCGGAAUCCGUUACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGGUACAUCUC
+((((..((((.((((((.((((...(((.(((...))).)))......))).).)))))).))))...)))) ( -9.00)
+>pseudo_premiRNA_447
+GACCCUGGCGCAUGAACCUGUGCAGCGGGAACGACCUUGGCCACCAGGGGCCGAGAAAACGACCGUCUCAUGGGGCCAGACGCUCAGGGUC
+((((((((((..((..((((((..((((.......(((((((......))))))).......))))..))))))..))..))).))))))) (-46.80)
+>pseudo_premiRNA_448
+CCGAGAAAACCACCGUCUUAUGGGGCAGGACACUCAGGGUCAGUGAAAAAUCCAAUAUAAUCUGGUGAUAUCUCGG
+((((((....(((((..((((((((.....((((.......)))).....)))..)))))..)))))...)))))) (-18.40)
+>pseudo_premiRNA_449
+CCGAGAUAUCACCAGAUAUAUAUUGGAUUUUCCCCUGACCCUGAGUGUCCGGAUCCAUGAGACGGUGGUUUCUCGG
+((((((.((((((.......(..(((((.....((.((((....).))).)))))))..)...)))))).)))))) (-23.00)
+>pseudo_premiRNA_450
+CUGGUGGUCCGAGGUCGUUCCCGCUGCACAGAUUCAUUCGCCUGGGCCUCCUACAGACAUGCACUUUGGUUUAUUGCGCUAUCUGUAAUAGCACCCGAGAUAUCACCAG
+(((((((((((.(((.......((((.((((((.....(((.((((((.....((....))......))))))..)))..))))))..))))))))).)))..)))))) (-28.50)
+>pseudo_premiRNA_451
+UUAGAUCAAAACCAAUCGGUGGCGGGCGUUUACGUUCGUCCACGUUUGCUUGGGUGACUCUGA
+((((((((...((((.((((((((((((....)))))).))))...)).)))).))).))))) (-19.90)
+>pseudo_premiRNA_452
+UGAUUAAUAGGACAGAUGGGGGCAUUCGUAUUGCGACGUUAGAGGUGAAAUUCUUGGAUCGUCGCAAGACGGACAGAACGAAAGCAUGUGCCAAAAAUGUUUUCAUUAAUCA
+((((((((((((((....((.((((((((.((((((((...((((......))))....)))))))).))))).............))).)).....)))))).)))))))) (-34.70)
+>pseudo_premiRNA_453
+GGCCGAGAAAAUCACCGUCUCAUGGGACCGGAUUGUCAGGUCAGGUAAAAAUCCAAUAUAUAUCCGGUGAUAUCUCGGGU
+..((((((..(((((((.....(((((((.((((....)))).))).....)))).........))))))).)))))).. (-24.30)
+>pseudo_premiRNA_454
+CCGAGAAAAUCACCGUCUCAUGGGGCCGGACUGUCAGGGUCGGGGAAAAAUCCAUUAUAAUCUGGUGAUAUCUCGG
+((((((..(((((((....(((((.((.((((.....)))).))......))))).......))))))).)))))) (-24.60)
+>pseudo_premiRNA_455
+GCCGACUUACAGACUUUAGGGUAGGCUUAAUUGCCUAUACCUAAACGUCUGUAAGCGGU
+((((.(((((((((((((((((((((......)))))).)))))).))))))))))))) (-35.30)
+>pseudo_premiRNA_456
+UCGAAGUGCCUUGUCUGCGGAGGCCCUGUCGCAUGAAUCUGUGCAGCGGCAACGACCUCGGACCAAGAGGGGCCGA
+(((..((.(((((((((.((..((((((.((((......))))))).))).....)).)))))...)))).))))) (-27.60)
+>pseudo_premiRNA_457
+ACGGGGAGAAAUAGAACGAUGAGUUGACUUAUCGGGUCUUCGUUGGAAUUACCGUCGCUGGCAUGUAAACUCCAGAUGACCUUGUGAUUCCUUCGUCGGGCACUGGUAAAGGGUGUCGAUGAUUCGUUCUAUAUAGAAAUACCCGU
+(((((.....(((((((((...(((((((((((((((((.((..((((((((.((((((((..(....)..)))).))))...))))))))..))..)))).))))))).....))))))...))))))))).........))))) (-54.20)
+>pseudo_premiRNA_458
+GGCCCUGGCGCAUGAUUCUAUGAAGCGGGAUCGACCUCGAACCACCAGGGCCGAGACAAUCACCGUCUCAUGGGGCCGGACUGUCAGGGUC
+((((((((((..((.((((((((.(((((((....((((..((....))..))))...))).)))).)))))))).))...)))))))))) (-41.00)
+>pseudo_premiRNA_459
+GGAUGCGUGGUGGUGCGCAGUGGAGGUGCGCCGGUGGUCCUCCCGCGCAGGUGGGCGGCGCAGGUGUACUCCCGCGCAGGCUCGAUCC
+((((.((.(((..(((((.(.((((.((((((.(((..((.(((((....))))).))))).)))))))))))))))).))))))))) (-45.00)
+>pseudo_premiRNA_460
+UCCAAUAUAUAUCUGGCGAUAUCUCGGGUGCUAUUAGAGAUAGCGAAUAAAUCAAUGUGAAUUAUCUGCAGGGGA
+...........((((..((((..(((.((((((((...))))))..........)).)))..))))..))))... (-13.50)
+>pseudo_premiRNA_461
+AAAAUUUUUUUUAUGUUAAAAACGUUAAUAAACAUCAUGUUUACGCAUGGAUUAAACAUUGAAAUAAUUUU
+((((((.((((.(((((.((..(((...((((((...))))))...)))..)).))))).)))).)))))) (-10.00)
+>pseudo_premiRNA_462
+AAAAUUUUUUUUAUGUUAAAAACGUUAAUAAACAUCAUGUUUACGCAUGGAUUAAACAUUGAAAUAAUUUU
+((((((.((((.(((((.((..(((...((((((...))))))...)))..)).))))).)))).)))))) (-10.00)
+>pseudo_premiRNA_463
+CCCUGGCGCAUGAAUCUGUGCAGCGGGACGAUCUCGGACCACCAGGGGCCGAGAAAACCACCGUCUCAUGGGACAGGACACUCAGGGUCAGGG
+(((((((.(.(((.(((((.(...((((((.((((((.((......)))))))).......))))))...).)))))....)))).))))))) (-38.80)
+>pseudo_premiRNA_464
+CUGUGAAUUUCACGGACAGUGUACGUUCUAGUUGUUGCAAAACGAUCGGAAUCGUUUGUAUGGCUCGCGUGAGUGUUCGCGGCGUCGUGCGUCGUUCAAUUACGACCGCCCGCGGAUACCGCUCCACUGCGAAUGGAUCUGAUCGACAACUUUUUCGGCUGUUCGUGAGAUGAACGG
+((((..((((((((((((((...((....((((((.......((((((((.((((((((((((...(((...((((((((((....(((.(((((......))))))))))))))))))))).))).))))))))).))))))))))))))....))))))))))))))))..)))) (-80.20)
+>pseudo_premiRNA_465
+CUGACCCUGAGUGUCCGACCCCAUGAGACGGUGGUUUUCUCGGCCCUGGUGGUCCGAGGUCGAUCGCUCUGCACAG
+(((.....(((((..(((((((((.((..(((.(......).))))).)))).....)))))..)))))....))) (-26.50)
+>pseudo_premiRNA_466
+GAGGUGAAAGAAAAUAUUAAGAAGUCGAGAGAGAGAACUACACACGUUUUAUUCAUAUUUUGUAUACCUU
+((((((..(.((((((((((((.((....((......))....)).)))))...))))))).).)))))) ( -8.40)
+>pseudo_premiRNA_467
+GAUCGGUACGAUUCGUGCAACGUUUCGCGCGAUGCGACGCGAAAACAUGCGCGCACAAUAGAUGCGUCUGAUC
+((((((.((((((((((((...(((((((((...)).)))))))...)))))).......))).))))))))) (-26.70)
+>pseudo_premiRNA_468
+GGAAGAACGCGAGGGUCGACUGCACGCGAUGGAUUCAGUAUCGGGUAGGAUCAAAAUAUACCCCCGUCGUUUCCACGCGUGCGAGUCUUCUGCGUCUUUC
+((((((.(((.((((..(((((((((((.((((..(.(....(((((...........)))))....))..))))))))))).))))))))))))))))) (-40.20)
+>pseudo_premiRNA_469
+CGAUCGGUACGAUUCGUGCAACGUUUCGCGCGAUGCGACGCGAAAACAUGCGCGCACAAUAGAUGCGUCUGAUCG
+(((((((.((((((((((((...(((((((((...)).)))))))...)))))).......))).)))))))))) (-29.10)
+>pseudo_premiRNA_470
+GAAGAACGCGAGGGUCGACUGCACGCGAUGGAUUCAGUAUCGGGUAGGAUCAAAAUAUAGCCCCGUCGUUUCCACGCGUGCGAGUCUUCUGCGUCUUUC
+(((((.(((.((((..(((((((((((.((((..(.(.((.((((..............)))).))))..))))))))))).)))))))))))))))). (-36.30)
+>pseudo_premiRNA_471
+AUUUCACGGACAGUGUACGUUCUAGUUGUUGCAAAACGAUCGGAAUCGUUUGUAUGGACUCGCGUGGUGUUCGCGGCGUCGUGCGUCGUUCAAUUACGACCGCCCGCGGAUACCGCUCCACUGCGAUAUGGAUCUAGCGACAACCUUUUCGGCUGUUCGUGAGAU
+((((((((((((((...((.....((((((((.....((((.(.(((((.....((((.....(((((((((((((....(((.(((((......)))))))))))))))))))))))))..))))).).))))..)))))))).....)))))))))))))))) (-72.70)
+>pseudo_premiRNA_472
+CCGAGAAAACCACAGUCUCAUGGGGCCGGACACUCAGGGUCAGGGUAAAAUCCAUAUAUAUCUGGUGAUAUCUCGG
+((((((..((((.......((((((((.(((.(....))))..)))....))))).......))))....)))))) (-20.80)
+>pseudo_premiRNA_473
+CCGAGAAAAUCACCGUCUCAUGGUGCCGACUGUCAGGGUCAGGGAAAAAUCCAAUAUAUAUCUGGUGAUAUCUCGG
+((((((..(((((((((((.(((..((........)).))))))).................))))))).)))))) (-21.00)
+>pseudo_premiRNA_474
+AGCGGCCGAGAAAAUCACCGUCUCAGGGGGCCGGACUGUCAGGUCAGGGAAAAAUCCAAUAUAUAUAUGGUGAUAUCUCGGGUGCU
+((((.((((((..((((((((......(((((.((((....)))).))......))).........)))))))).)))))).)))) (-30.70)
+>pseudo_premiRNA_475
+GCCGGACACUCAGGGUCAGGGGAAAAUGCAAUAUAUAUCUGGUGAUAUCUCGGGUGCUAUUAGAGAUAGGCAAUAAACCAAAGUGAAUUAUGUGUAGGAGGCCCUGGCGCAUGAAUCUGUGC
+((((((...((((.(((((((.....((((.((((..((((((..((((((...........))))))........))))....))..)))))))).....))))))).).))).)))).)) (-34.00)
+>pseudo_premiRNA_476
+UCUCGGGUGCUAUUAGAGGUAGCGCAUAAAUCAAAGUGCAUUGUCUGUAGGAGGCACUGGCGA
+((.(.((((((.(((.((((((.((((........)))).)))))).)))..)))))).).)) (-20.50)
+>pseudo_premiRNA_477
+GAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGCCCUGGUGUUCCGAGGUCGUUCCCGCUGCACAGAUUCAUGCGCCAGGGCCUC
+(((.(((((((..((((((.((((((......(((((.(((....))).)))))...))))))......)))))).))).))))))) (-33.10)
+>pseudo_premiRNA_478
+UGGAUUAACGAUUAUCAAACCCUCCGCUUUCGCUUCCACAGUUUGAUAAUUGUUAAUCCA
+((((((((((((((((((((.....((....)).......)))))))))))))))))))) (-24.60)
+>pseudo_premiRNA_479
+AAAUGGCUUCCCCCGACCUUCCUGGCAAUUUGGCCGACGGAAUCCAAGUUUUCCACUUUGGCAACCUGCUUUGUAUAGUCUAAAGUCAUUU
+(((((((((.....(((......((((.....(((((.((((........))))...)))))....)))).......)))..))))))))) (-21.40)
+>pseudo_premiRNA_480
+AGGACCCGAGAUAUCACCAGAUUUAUAUUGGAUUUUCCCUGACCCUGAGUGUCCGACCCCAUGUGUCGAUGGUUUUCUCGGCCCCU
+(((..((((((....((((....((((((((((.(((.........))).)))))).....))))....))))..))))))..))) (-22.10)
+>pseudo_premiRNA_481
+UGGCCCUGGCGCAUGAAUCUCUGCAGCGGGAACGACCUCGGACCACCAGGCCCGAGAAAACCACCGUCUCGUGGGGUCGGACACUCAGGGUCA
+(((((((((.(..(((..(((((((((((.......(((((.((....)).))))).......))).)).)))))))))..).).)))))))) (-36.00)
+>pseudo_premiRNA_482
+CCAAAGUCAUUGUCUGUAGGAGGCCCUGGCGAAUGAAUCUGGUCAGCGGGAACGACCUAGGACCACCAGGGGCCGAAAAACCACAGACUCACGGGG
+...........((((((.((.((((((((..........(((((...((......))...)))))))).)))))......))))))))........ (-29.50)
+>pseudo_premiRNA_483
+CGCUCACGAAACUCUCUCUCGUCGUGGAAUCCCCGCGUCUGAGAGUAAAACCGAAUUCAUAGUAUGGAAACUUACGUCUCUCGACGAUGGGACGAUCCACGCGAAGAGUUGUUACGUGCAGCG
+((((((((.(((.((((.(((.((((((.((((..((((.(((((..........(((((...))))).........)))))))))..))))...)))))))))))))..))).)))).)))) (-49.70)
+>pseudo_premiRNA_484
+UUCGUCGGGCACUCGUAAGGGUGGCGAUGAUGCGUUCUAUAAUAGAAAUACCCGUCGUAGCGUUUCUUCCGAGUCAACCCGCUCACGAA
+.((((((((.(((((.(((((..((.((((((.((((((...))))...)).)))))).))..))))).)))))...))))...)))). (-28.20)
+>pseudo_premiRNA_485
+CUGAUCGAGGCCCGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCACAAGGGGCCGAGUAAACCACCGUUUCAUGGGUCGGACACUCAGCGUCAG
+(((((.((((.(((((.((((((........((((.......(((((.((......))))))).......)))))))))).))))).).)))...))))) (-38.70)
+>pseudo_premiRNA_486
+AAUUUCCAAAGGGUCUUAAACUCAGUCCCGAAGACCGUUACCCAGGUCAGACGGGACCCAAGCCUGGCGGAAAUU
+(((((((...(((.(((.......((((((..((((........))))...))))))..))))))...))))))) (-24.90)
+>pseudo_premiRNA_487
+CCCUGGCACUUGAAUCUUGCUGCGGGGACGACCUCGGACCACCAGGAGCCGAGAAAACCACCGACUCAUGGGGCCGGACACACUGGUCAGGG
+(((((((...((..(((.(((.(((((.((..(((((.((....))..)))))........)).))).)).))).)))..))...))))))) (-29.80)
+>pseudo_premiRNA_488
+GCGGUGGUUCGCGUGUGUAGGCUCUAUACGAAAUUGCGAUUCAAGAGAGUAGGAAAAGACGCGAUGAACCAGAUUUCCGU
+((((((((((((((((.(..(((((....(((.......)))...)))))......).))))).))))))).....)))) (-22.20)
+>pseudo_premiRNA_489
+GAUAAAUGUGUGAUCGAAUAACCCAAAUAAAGAUGCUUCUCGGCCUUAUGGCUAAGAUCAAAGUGUACUCGCCUCACACAUGUC
+.....((((((((.(((...............((((((((.((((....)))).)))....)))))..)))..))))))))... (-18.90)
+>pseudo_premiRNA_490
+ACGAAACUCUCUCUCGUCGUGGAAUCCCCGGUCGGAGAGUAAAACGCGAAUUCAUACUAUGAAAACUUACGUCUCUCGACGAUGGGACGAUCCACGCGAGAGUUGUUUCGU
+(((((((...((((((.((((((.((((..((((((((((((.....(..(((((...)))))..))))).)))).))))...))))...))))))))))))..))))))) (-45.40)
+>pseudo_premiRNA_491
+CGAUAGCGUCGAUUCGCUUUUCUGUACGGGGAGAAAUAGAACGUGAGUUGACUUAUCG
+((((((.((((((((((..((((((..........)))))).)))))))))))))))) (-20.50)
+>pseudo_premiRNA_492
+AGAAGUGAUCUGGAUGUGUGUUAUGCGAGUACGCUCUUAUCUUAGCAUACGGCCGAGAAGCGAUCU
+(((.((..(((((.(((((((((...(((......)))....))))))))).)).))).))..))) (-15.20)
+>pseudo_premiRNA_493
+AUGUUAGCCAUAAGGGCGAGAAGUGAUCUGGAUGUGUGUUAUGCGAGUACGCUCUUAUCUUAGCAU
+(((((((..(((((((((....((((((.......).))))).......))))))))).))))))) (-13.60)
+>pseudo_premiRNA_494
+CCCAUUUUGCCGUACGGGCGUCUUUGUACCCGUCGUCGGGAUCUCUCCGAACGACGGACACGGCGCUCUACGGUCGAUCAUGGG
+(((((.((((((((.(((((((..(((..(((((((((((.....)))).)))))))))).)))))))))))).)))..))))) (-43.50)
+>pseudo_premiRNA_495
+GCCGAGAUAUCACCAGUAAAUGCUGGAUUUUUCCGCGAUCCUGACAGUCCGGCCCCAUGAGACGGUGAUUUUCUCGGC
+(((((((.((((((.((..((((((((((..((.(.....).)).))))))))...))...))))))))..))))))) (-27.70)
+>pseudo_premiRNA_496
+CUGGUGUCCGAGGUCGAUCCCGCUGCACAGAUUUAUGCGCCAGGGCCUCCUGCAGUCAAUGCCCUUUGGUUUAUGCGCUAUCUCUAAUAGCACCCGAGAUAUUACCAG
+((((((((((.(((.......((((...(((..((.((((..(((((....(((.....))).....)))))..))))))..)))..))))))))).)))...))))) (-29.10)
+>pseudo_premiRNA_497
+GAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUAGCCUGCUAAAUAGACGUAACGUAUGGUAUCUGAAGGCCCCCGGCUUCUGUCGGUGGGUUUUUACUACCAACGUACAAACAAAUCUUCUUAGAGGGACAGGGGCUUCUAGCCGCACGAGAUUGAGCAAUAACAGGUC
+(((((((.((.((((((.((.........(((.((((..(((.((((..(((.((.((((.(((((..((((((((((((((....))))).))))))))).)))))))))....))...)))..)))).)))..)))).))).........)).)))))).))...))))))) (-53.50)
+>pseudo_premiRNA_498
+CGGGGGUAGCCAUUUGACUUAGCGUGAUGGGACUCCAGGACGACGUCUCAUAGGUUCCAAGGCUACAUCCUG
+(((((((((((....((((((......((((((((......)).))))))))))))....)))))).))))) (-24.70)
+>pseudo_premiRNA_499
+CCCUGGCGCAUGAAUCUGUGCAACGGGAACGACCUCGGACCACCAGGGGCCGAAAAAUCCACAGUUCAUGGGGCCGGACACUCAGGGUCAGGG
+(((((((.(.(((.((((.((..((.((((....((((.((......))))))..........)))).))..))))))...)))).))))))) (-33.60)
+>pseudo_premiRNA_500
+UUGGACACCAGGGAGAAGUCUCAUAGGGACUAAGGCUACAUCCGGCUGACCGACGGGAUGGUGGGAUACUUUUGGUCGAAAUUGACUUUAGACUAUACAAUCCGGGUUUCCAAAGUGGAAAACUUGGAUUCGUCGGCCAGAAUUGCCAGGAAGGUCGGGGGAAGCCAUUUGACUUAGCAGUGGUUGGACACCAGGGAGUGUCUCAUAGGGACCAA
+.(((.(.((...(((((.((((...(((((((..((((((...((((..(((((....((((((.....((((((((((...................((((((((((((((...))).)))))))))))..)))))))))))))))).....)))))....))))...))...))))..))))).....)).)))).).))))...))).))). (-65.60)
+>pseudo_premiRNA_501
+GGCCCUGGCGCAUGAAUCUGUGCAGCGGGAUGACCUCGGACCACCAGGGGCCGAGAAAACCACCGACACAUGGGGCCGGAUUGUCAGGGUC
+((((((((((..((..((((((...(((......(((((.((......))))))).......)))...))))))..))...)))))))))) (-35.40)
+>pseudo_premiRNA_502
+ACCAAAGUGCAUUGUCUGCAGGAGGCCCUGGCGCAUGAAUCUGUGCAGCGGGAUGACCUCGGAUCACCAGGU
+(((...(((....(((((.(((..(.((((..((((......))))..)))).)..)))))))))))..))) (-20.80)
+>pseudo_premiRNA_503
+UCAGUGGAGAGCUAGAUACUAUGAGGCUGAGAACUUGAUCAUGACUUUGGAUGGAAGGAUGAGCAGAAGACUCAUGAGGUCUUGACACUGA
+((((((((((.((......(((((((((.(...(((..((((........)))))))..).)))......)))))))).))))..)))))) (-20.40)
+>pseudo_premiRNA_504
+CCAAAGUGCAUUGUCUGCAGGAAGCCCUGGCGCAUGAAUCUGUGCAGCGGGAACGACCUCGGACCGCAGGGG
+((....(((...(((((.(((..(.((((..((((......))))..))))..)..)))))))).)))..)) (-23.30)
+>pseudo_premiRNA_505
+CUGACCCUGAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGCCCCUGAUGGUCCGAGGUGUUCCCGCUGUCCACAUUUAUGCGCCAGGGCCUCCUACAG
+........(((.(((((((..(((((((((((((...((((((((......)).)))))).....)))))))).....))))).))).)))))))...... (-37.80)
+>pseudo_premiRNA_506
+AAAUUUUUGUCAAUUUUCUCAACGUUAAAAACUGCGAUAAACUGCGUUUUUAUGCGUAGAUUAACAUUGAAAAAAUUU
+((((((((.(((((((..((.(((((((((((.(((......)))))))))).)))).))..)).))))))))))))) (-16.60)
+>pseudo_premiRNA_507
+GGAGGCCCUGGCCAUGAAUCUGUGUAGCGGGACCGACCUCGGACCACCAGGGGCCGAGAAGACCACCGUCUCAUGGGGACGACACUCAGGGUCAGGGGAAAAUCC
+(((..((((((((.(((.((((((..((((.......(((((.((......))))))).......))))..))))))........))).)))))))).....))) (-38.80)
+>pseudo_premiRNA_508
+GAGAAAAUCACCGUCUCAUGGGGCCGGACUGUCAGGGUCAGGGAAAAAUCCAAUAUAUGUCUGGUGAAUCUC
+((((...((((((...(((((((((.((((.....)))).))......)))....))))..)))))).)))) (-16.50)
+>pseudo_premiRNA_509
+CAGGGCCUCCUACAGACAAUGCACUUUGAUUUAUUGCGCUAUGUGUAAUAGCACCAGAGAAUCACCAGAUACAUAUUCGAUUUUUCCCUG
+(((((.........((..(((..((.((((((.(((.(((((.....)))))..))).))))))..))...)))..)).......))))) (-16.40)
+>pseudo_premiRNA_510
+GGAUCGUACUCGGACCACGAGGGAACGAGAAACCAUCGACACAUGGGGCCGGACACUCAGGGUCGGGGAAAAAUCC
+((((..(.(((.((((..(((.(..((.(...((((......))))..)))..).)))..)))).))).)..)))) (-22.30)
+>pseudo_premiRNA_511
+GAUGAAAAGUUUACUCUUGACCGUCGGGACUUAGAAAAAUUUCGAGUACCUCGGAUCGCCUGCUGGAAUUACCGACGGCCUGGAUAGCCCGCAUC
+((((....(((...(((.(.(((((((...((((......((((((...)))))).......)))).....))))))).).))).)))...)))) (-24.00)
+>pseudo_premiRNA_512
+GGUCUCAUAGGUUCCAAGGCUACAUCCGGCUGACCGAUGGGAAGGUGGGAUACUUUUGGUCGAAAUUGACCUUAGACU
+(((((...(((((....(((((.((((.(((..((....))..))).)))).....)))))......))))).))))) (-23.50)
+>pseudo_premiRNA_513
+GGAAGGUCGGGGGUAUUCAUUUGACUUAGCAGUGAUGGGACUCCAGGACGAGUCUCAUAGGGACGAAGGAUACAUCCGGCUGACC
+((..(((((((.((((((.((((.((((.......((((((((......))))))))))))..)))))))))).)))))))..)) (-31.70)
+>pseudo_premiRNA_514
+GGUCAGGGGAAAAUCCAGUAUAUAUCGGUGAUAUCUCGGGUGCUAUUAGAGAUAGCGCAAUAAACCAAAGUGAAUUAUCUGCAGGAGGCCCUGGCC
+((((((((.....(((.(((.((((((.(..........((((((((...))))))))..........).)))..))).))).)))..)))))))) (-30.00)
+>pseudo_premiRNA_515
+UCAGAAGCGAGUUUUCCUCAGAACCUCAAUAAAGAGCUUCUGAUGGACUACUGCUUCUGA
+((((((((.(((..(((((((((.(((......))).)))))).)))..))))))))))) (-29.10)
+>pseudo_premiRNA_516
+AGUCAAUUUCGACCAAAGUAUCCCGACCUUCCCAUCGCUCAGUCGGAUGUAGCCUUCGUCCCUAUGAGACGUUGUCCUGGAGUCCCACACUGCUAAGUCAAAUGACU
+(((((.(((.(((...((((....(((((...((.((((((...(((((.......)))))...)))).)).))....)).)))......))))..))))))))))) (-23.90)
+>pseudo_premiRNA_517
+UAUAUAUAUAUAUACAUAUAUGUAUAUAUAUAAUAUAUAUAUAUAUAUAUAUGUAUAUAUAUCUAUG
+((((.(((((((((((((((((((((((((((...))))))))))))))))))))))))))).)))) (-28.20)
+>pseudo_premiRNA_518
+GUGUGUUAUGAGAGUACAGUUUGAUGUUAGCCAUAAGGCGAUAAGCGACCUGGAUGUGUGUUAUGCGGGUACACUUUGAUCUUAGCCAUAUGGUCAGGAAGCGAUCUGUUGUUAUAUGC
+((((((.((((.((....((((..((...((((((.(((((((((.((((((.(((.....))).))))).).)))..)))...))).))))))))..))))...)).)))).)))))) (-31.60)
+>pseudo_premiRNA_519
+CUGCCCUGAGUGUCCGGCCCCAUGAGACGGUGAUUUACUCGGCCCCUGGUGGUCCGAGGUCGACCCCGCUGCCAGAUUCAUGCGCCAGGGCCUCCUACAG
+..((((((.((((..((((....(((...........))))))).(((((((..((.((....)).)))))))))......))))))))))......... (-32.20)
+>pseudo_premiRNA_520
+UAUAUAAAACUAAUAAAACUAUAUAAAACUAUAUAAAACUAUAUAAAACUAUAUAAAACUGUAUAAAACAUAUAGAACAAUAUGAAACUAUAUAAAAAUAUAUAAAACUAUAUAAAACUAUUGAAACUAUGUA
+((((((....(((((....((((((....((((((....((((((....(((((....((((((.....))))))....)))))....))))))....))))))....))))))....)))))....)))))) (-12.70)
+>pseudo_premiRNA_521
+CUUUUGGUCGAAAUUGACUUUAGACUAUACAGUCCAGUUUCCAGAGUGGAAAACUUGGAUUCCGUCGGCCAGAAG
+(((((((((((...................(((((((((((((...))))))..)))))))...))))))))))) (-22.40)
+>pseudo_premiRNA_522
+CUUUUUCCAUGCAUUGUUAUCGAAGGGCUUAGACAAGUUGAAUUUGUAAACAUUGUAGGGAUGAAG
+((((.(((.((((.((((..((((.(((((....)))))...))))..)))).)))).))).)))) (-15.70)
+>pseudo_premiRNA_523
+GAGAAGCGAUCUGGAUGGGUGUUAUCGAGUUCCCUAUGAUCUUACCCAUAAGGCCGAGACGCGAUC
+.....(((.((((((((((((..((((((....)).))))..)))))))....)).)))))).... (-17.70)
+>pseudo_premiRNA_524
+CCCUGACCCUGAGUGUCCGGCCCCAUGAGACGGUGGUUUUCUCGGCCCCUAGGGGUCCAGGUCGUUCAUGCUGCACACAUUCAUGCGCCAGGG
+(((((.((.(((((((...((..((((((.(((......(((.(((((....))))).))))))))))))..))..))))))).).).))))) (-33.60)
+>pseudo_premiRNA_525
+UCGGCCAGAAGGGACCGGAGGACCAGGGGUAGCUAACUGACUUAGCAGCGAUGGACUCCAGGGACGAGGUCUCAUCGGGCCGA
+((((((.((.((((((...(..((.(((((......(((......)))......))))).))..)..)))))).)).)))))) (-37.70)
+>pseudo_premiRNA_526
+GUUGGGCGGAGCCGUGCACCGAGGUCUUAUGACCCGGUUGUCACGGUGUUCUAGAGCCAAGC
+(((.(((((((((((((((((.((((....))))))).)).))))))..)))...))).))) (-27.80)
+>pseudo_premiRNA_527
+UAUAAUAUAUACAUAUAAAUUUAGGUGUCCUAAGAGAGAAAUACAUAAACUAAGAGGUAUAUAUUAUA
+((((((((((((.......((((.((((.((.....))..)))).)))).......)))))))))))) (-11.10)
+>pseudo_premiRNA_528
+UGCAGGAGGCCCUGGCGCAUGCAUCUGUGCAGCAGCAACGGCGUCGGAACACAGGGGCCAAAAAACUUACAGAUUUUCGGUAUGCGUCACCCAUGGUCAUGUAAAAAUCCAGCA
+(((.(((((((.(((((((((((((((((.((.......(((.((........)).)))......))))))))).....)))))))))).....)))).........))).))) (-34.30)
+>pseudo_premiRNA_529
+GAGAAAAUUACAGAUGUUCGGAAUCCGUCACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGUGAUAUCUC
+((((..(((((((((((..(((...(((.(((...))).)))......))).....))))))))))).)))) (-16.70)
+>pseudo_premiRNA_530
+GCGGCCGAGAAAAUUGCAGAUAUUUGGAAUCCGUCAUCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGUGAUAUCUCGGGUGC
+(((.((((((..((((((((((((((((......(((........)))......)))))...))))))))))).)))))).))) (-29.00)
+>pseudo_premiRNA_531
+GAGAAAAUUACAGAUAUUUGGAAUCCGUCACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGUGAUAUCUC
+((((..((((((((((((((((...(((.(((...))).)))......)))))...))))))))))).)))) (-19.20)
+>pseudo_premiRNA_532
+GGCCGAGAAAAUUACUGAUAUUCGGAAUCCGUCACCCAAGGUCAUGUAAAAAUCCAGCAUAUAUCUGUGAUAUCUCGGGU
+..((((((..(((((.(((((..(((...(((.(((...))).)))......))).....))))).))))).)))))).. (-19.20)
+>pseudo_premiRNA_533
+GUAAUACCCGUCGUAGCGUUUCGACCGAUUCACCCGCCACGAAAGUCUCUCUCGACGUGGAAACCCCGCGCCGAAGAGUAAACGCGAAGGCUUACCAUCGAAAGAAACCGGUAUUAU
+((((((((.......(.(((((...((((......(((.((.....((((.(((.(((((.....))))).)))))))......))..))).....))))...)))))))))))))) (-31.50)
+>pseudo_premiRNA_534
+GCGCAUGAAUCUGUGAAGCACGAACGACUCGGCCCUCCAGGGGCCGAGAAACUUACAGAUUUUCUGUGUGC
+((((((((((((((((...........(((((((((...)))))))))....))))))))))...)))))) (-30.80)

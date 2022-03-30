@@ -1,0 +1,108 @@
+{% extends "layout.html" %}
+{% block content %}
+<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+<div id="content">
+					<div class="post">
+<div class="post post-alt">
+						<h2 class="title">Results</h2>
+						{{ clf }}
+						<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+     
+      						<div id="content">
+<p>
+	<div id="mir"></div>
+
+
+
+<!--<div class="alert alert-success" role="alert" style="word-wrap: break-word;">-->
+<!--<b>Summary :</b>-->
+<!--<br>Length of the Sequence: {{ Len }}-->
+<!--<br>The MFE score is: <b>{{ mfe }}</b>-->
+<!--<br>GC%: {{ GC }} -->
+<!--<br>Sequence and Secondary Structure:<br><pre>{{ rna }}<br>{{ str }}</pre>-->
+<!--</div>-->
+<!--<div class="alert alert-warning" role="alert"> -->
+<!--<h3 style="color: #ab0606;">{{ display }}</h3><br>-->
+<!--Probability score: <b>{{ prob }}</b>-->
+</div>
+
+
+
+   <!-- <table class="tg">
+	<thead>
+	  <tr>
+   <th class="tg-0lax"><input type="radio" id="3utr" name="dirx" value="3utr">
+  <label for="3utr">3' UTR</label></th>
+   <th class="tg-0lax"><input type="radio" id="5utr" name="dirx" value="5utr">
+  <label for="5utr">5' UTR</label></th>
+  </tr>
+</thead>
+</table> -->
+	
+	
+
+
+	
+		</p>
+		</div>
+
+
+<br>
+<a href="{{url_for('home')}}">Back</a></li>
+
+</div>
+    </div>
+<br><br>
+
+
+					
+</div>
+</div>
+
+						</div>
+					</div>
+					</div>
+				<!-- end #content -->
+
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+
+<script type="text/javascript">
+const targets = {{ results|tojson }};
+const entries = JSON.parse(targets);
+console.log(entries);
+
+function mir(mi) {
+    return `
+
+		<div class="alert alert-success" role="alert" style="word-wrap: break-word;">
+        <b>Sequence Entered:</b><br><pre>${mi.sequence}</pre>
+        <b>Secondary Structure:</b><br><pre>${mi.fold}</pre>
+        Sequence Length: <b>${mi.Len}</b>&nbsp;&nbsp;&nbsp;&nbsp;MFE:   <b>${mi.mfe}</b>&nbsp;&nbsp;&nbsp;&nbsp;Average basepairing:    <b>${mi.avg_bp}</b><br>
+        Prediction:<b>   ${mi.Prediction}</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Probability:    <b>${mi.proba}</b>
+        </div>
+
+
+
+      `
+}
+
+
+document.getElementById("mir").innerHTML = `
+${entries.map(mir).join("")}
+
+
+`;
+
+</script>
+
+{% endblock content %}

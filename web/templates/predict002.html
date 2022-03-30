@@ -1,0 +1,272 @@
+{% extends "layout.html" %}
+{% block content %}
+<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+<div id="content">
+					<div class="post">
+<div class="post post-alt">
+						<h2 class="title">Result</h2>
+						<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+     
+      						<div id="content">
+<p>
+
+
+
+<div class="alert alert-success" role="alert" style="word-wrap: break-word;">
+<b>Summary :</b>
+<br>Length of the Sequence: {{ Len }}
+<br>The MFE score is: <b>{{ mfe }}</b>
+<br>GC%: {{ GC }} 
+<br>Sequence and Secondary Structure:<br><pre>{{ rna }}<br>{{ str }}</pre>
+</div>
+<div class="alert alert-warning" role="alert"> 
+<h3 style="color: #ab0606;">{{ display }}</h3><br>
+Probability score: <b>{{ prob }}</b>
+</div>
+
+</p>
+<div class="alert alert-light" role="alert">
+	<h3>Sequence features:</h3>
+	<canvas id="myChart"></canvas>
+	 <button id="1" type="button" class="btn">Nucleotide</button>
+	 <button id="0" type="button" class="btn">Dinucleotide</button>
+	 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    Base Folds
+	  </button>
+	  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+	     <a class="dropdown-item" id="2" style="cursor: pointer;">Adenine</a>
+	     <a class="dropdown-item" id="3" style="cursor: pointer;">Guanine</a>
+	     <a class="dropdown-item" id="4" style="cursor: pointer;">Cytosine</a>
+	     <a class="dropdown-item" id="5" style="cursor: pointer;">Uracil</a>
+	  </div> 
+</div>
+<hr>
+<h2 class="title" style="height: auto;">Search for microRNA targets in <i>Drosophila melanogaster</i>:</h2>
+<div id="content">
+<p>
+
+<form name="mirna" action="{{ url_for('mirtar')}}" method="post">
+	<div class="alert alert-info" role="alert">
+	<div class="form-group">
+   <b style="font-size: 16px">Please select the directionality to cleave from the hairpin:</b><br>
+    <select id="ori" name="ori" class="form-control form-control-sm required" style="width: 50%">
+  <option value="0" selected hidden>Select</option>
+  <option value="3">3'</option>
+  <option value="5">5'</option>
+</select><br>
+
+<b style="font-size: 16px">Cleave at: </b><br><i>(Refer to the secondary structure)</i>
+<!--		<select name="getseq3" class="selectpicker form-control">-->
+<!--			{% for i in seq3 %}-->
+<!--			<option value="{{ i }}">{{ i }}</option>-->
+<!--			{% endfor %}-->
+<!--			{% print(seq3)%}-->
+<!--		</select>-->
+<select id="loop" name="getseq3" class="form-control form-control-sm" style="width: 50%">
+  <option value="0" hidden >Select</option>
+
+</select>
+<select id="loop2" name="getseq5" class="form-control form-control-sm" style="width: 50%">
+  <option value="0" selected hidden>Select</option>
+
+</select>
+
+<select id="loop1" class="form-control form-control-sm" style="width: 50%">
+  <option value="0" selected hidden>Select</option>
+
+</select>
+<br>
+<b style="font-size: 16px">Select Drosophila Chromosome:</b>
+<select id="chro" name="chrom" class="form-control form-control-sm" style="width: 50%">
+  <option value="0" hidden >Select chromosome</option>
+  <option value="2L">2L</option>
+  <option value="2R">2R</option>
+  <option value="3L">3L</option>
+  <option value="3R">3R</option>
+  <option value="4">4</option>
+  <option value="X">X</option>
+</select><br>
+
+
+<!--<div id = "res"></div>-->
+<!--<div id = "res1"></div>-->
+
+    <button type="submit" class="btn btn-primary mb-2" id="submit">Search</button></li>
+	</div>
+	</div>
+</form>
+   <!-- <table class="tg">
+	<thead>
+	  <tr>
+   <th class="tg-0lax"><input type="radio" id="3utr" name="dirx" value="3utr">
+  <label for="3utr">3' UTR</label></th>
+   <th class="tg-0lax"><input type="radio" id="5utr" name="dirx" value="5utr">
+  <label for="5utr">5' UTR</label></th>
+  </tr>
+</thead>
+</table> -->
+	
+	
+
+
+	
+		</p>
+		</div>
+
+
+<br>
+<a href="{{url_for('home')}}">Back</a></li>
+
+</div>
+    </div>
+<br><br>
+
+
+					
+</div>
+</div>
+
+						</div>
+					</div>
+					</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<p><b>Secondary Structure:</b><br>
+							<img src="{{ plot }}" alt="beleg" height="500px" class="cropped1"><br>
+							<a href="{{ url_for('static', filename='rna.ps')}}">Download PS file</a><br>
+
+
+							</p>
+						</li>
+					</ul>
+				</div> 
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script type='module' src="{{ url_for('static', filename='plot01.js')}}"></script>
+
+<script type="text/javascript">
+	function myFunction() {
+  var checkBox = document.getElementById("myCheck");
+  var text = document.getElementById("text");
+  if (checkBox.checked == true){
+    text.style.display = "block";
+  } else {
+     text.style.display = "none";
+  }
+}
+</script>
+
+
+<script type="text/javascript">
+const s3 = {{ seq3|tojson }};
+const seq3 = JSON.parse(s3);
+const s5 = {{ seq5|tojson }};
+const seq5 = JSON.parse(s5);
+$(document).ready(function(){
+	$.each(seq3, function(key, value){
+		$('#res1').append("3' " + key + ": " + value + "<br>");
+		$('#loop').append(`<option value="${value}">
+                           ${value}
+                      </option>`);
+
+
+	});
+
+	$.each(seq5, function(key, value){
+		$('#res1').append("5' " + key + ": " + value + "<br>");
+		$('#loop2').append(`<option value="${value}">
+                           ${value}
+                      </option>`);
+
+	});
+	$('#loop').hide();
+	$('#loop2').hide();
+
+
+	$("#ori").change(function(){
+
+		var origi = $(this).val();
+		if (origi == 3) {
+			$('#loop').show();
+			$('#loop2').hide();
+			$('#loop1').hide();
+
+		}
+
+		if (origi == 5) {
+			$('#loop2').show();
+			$('#loop').hide();
+			$('#loop1').hide();
+
+		}
+		if (origi == 0) {
+			$('#loop2').hide();
+			$('#loop').hide();
+			$('#loop1').show();
+
+		}
+
+
+		$('#res').html(origi);
+
+	})
+
+});
+
+
+
+</script>
+<script>
+$(document).ready(function(){
+	$("#submit").click(function()
+	{
+		const ori = $("#ori");
+		const s3 = $("#loop");
+		const s5 = $("#loop2");
+		const chr = $("#chro");
+		if(ori.val() === "0")
+			{
+			alert("Select directionality");
+			return false;
+			}
+
+		else if(ori.val() === "3")
+		{
+			if(s3.val() === "0")
+			{
+			alert("Select cleaving site for 3'");
+			return false;
+			}
+		}
+
+		else if(ori.val() === "5")
+		{
+
+			if(s5.val() === "0")
+			{
+			alert("Select cleaving site for 5'");
+			return false;
+			}
+		}
+		if(chr.val() === "0")
+			{
+			alert("Select chromosome to search");
+			return false;
+			}
+
+	});
+});
+</script>
+
+
+{% endblock content %}

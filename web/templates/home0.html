@@ -1,0 +1,114 @@
+{% extends "layout.html" %}
+{% block content %}
+
+        <!-- insert the page content here -->
+<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+<div id="content">
+					<div class="post">
+ <h2 class="title"><a href="#">Welcome to RNAinsecta</a></h2>
+						<div class="entry">
+							<p>This is <strong>RNAinsecta</strong>, a precursor MicroRNA prediction tool in insect. This tool is based on Machine Learning classification model which is extensively trained with insect precursor-microRNA. It has a prediction accuracy of over 95% as tested on SMOTE resampled dataset using Random Forest.</p>
+							<p class="links"><a href="#" class="button">Read More</a></p>
+						</div>
+					
+					<div class="post post-alt">
+						<h2 class="title">Predict Precursor MicroRNA</h2>
+
+						<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+     
+      						<div id="content">
+        
+         {{msg}}
+
+ <form name="mirna" action="{{ url_for('predict')}}" method="post" onSubmit="return check_Alpha(mirna)">
+       
+         <textarea name="rna" placeholder="Enter RNA Sequence" required="required" style="margin: 0px; width: 550px; height: 119px;"></textarea>
+         <br>
+        <button type="submit" class="btn btn-primary mb-2">PREDICT</button>
+
+    </form>
+
+<script type="text/javascript">
+   function check_Alpha(letters){
+    var regex = /^[ATGCuUatcg]+$/;
+    var reg1 = /[ATGCuUatcg](\n)[atgc]/;
+    var reg2 = /(>.*)(\n)/;
+    
+
+    if(reg2.test(letters.rna.value) == true){
+   alert("Enter raw sequence without header.");
+   letters.rna.focus();
+   return false;
+    }
+    
+    else if(reg1.test(letters.rna.value) == true){
+   alert("Line break detected! \nThe sequence must be in the same line.");
+   letters.rna.focus();
+   return false;
+    }
+    else if(regex.test(letters.rna.value) == false){
+   alert("Sequence must contain A,T/U,G & C only");
+   letters.rna.focus();
+   return false;
+    }
+
+    return true;
+  }
+</script>
+
+
+     </div>
+    </div>
+
+</div>
+</div>
+
+
+						</div>
+					</div>
+					</div>
+					
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<div style="clear: both;">&nbsp;</div>
+						</li>
+						<li>
+							<p>Created and maintained by<br><I>Adhiraj Nath</I><br><a href="https://www.iitg.ac.in/ubora/" target="new">Bioengineering Research Laboratory, IIT Guwahati.</a></p>
+						</li>
+					</ul>
+				</div>
+
+
+   <!--  <script>
+    function check_Alpha(letters){
+    var regex = /[ATGUCatucg]/;
+    if(regex.test(letters.rna.value) == false){
+   alert("Should contain sequence only");
+   letters.rna.focus();
+   return false;
+    }
+    if(letters.rna.value == " "){
+      alert("cannot be left empty");
+      letters.rna.focus();
+      return false;
+    }
+    return true;
+  }
+    </script>
+ -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	
+{% endblock content %}
+
+
+{{ rna }}

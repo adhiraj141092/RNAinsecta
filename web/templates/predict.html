@@ -1,0 +1,98 @@
+{% extends "layout.html" %}
+{% block content %}
+<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+<div id="content">
+					<div class="post">
+<div class="post post-alt">
+						<h2 class="title">Result</h2>
+						<div class="entry">
+						  <div id='container'>
+
+    						 <div id="site_content">
+     
+      						<div id="content">
+<p>
+
+
+
+<div class="alert alert-success" role="alert" style="word-wrap: break-word;">
+<b>Summary :</b>
+<br>Length of the Sequence: {{ Len }}
+<br>The MFE score is: <b>{{ mfe }}</b>
+<br>GC%: {{ GC }}
+</div>
+<div class="alert alert-warning" role="alert"> 
+<h3 style="color: #ab0606;">{{ display }}</h3><br>
+Probability score: <b>{{ prob }}</b>
+</div>
+
+</p>
+   <!-- <table class="tg">
+	<thead>
+	  <tr>
+   <th class="tg-0lax"><input type="radio" id="3utr" name="dirx" value="3utr">
+  <label for="3utr">3' UTR</label></th>
+   <th class="tg-0lax"><input type="radio" id="5utr" name="dirx" value="5utr">
+  <label for="5utr">5' UTR</label></th>
+  </tr>
+</thead>
+</table> -->
+	
+	
+
+
+	
+		</p>
+		</div>
+
+
+<br>
+<a href="{{url_for('home')}}">Back</a></li>
+
+</div>
+    </div>
+<br><br>
+
+
+					
+</div>
+</div>
+
+						</div>
+					</div>
+					</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+
+
+							</p>
+						</li>
+					</ul>
+				</div> 
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script type='module' src="{{ url_for('static', filename='plot01.js')}}"></script>
+
+<script type="text/javascript">
+	function myFunction() {
+  var checkBox = document.getElementById("myCheck");
+  var text = document.getElementById("text");
+  if (checkBox.checked == true){
+    text.style.display = "block";
+  } else {
+     text.style.display = "none";
+  }
+}
+</script>
+
+
+
+
+{% endblock content %}
