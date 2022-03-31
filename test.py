@@ -18,8 +18,8 @@ def data_prep(path):
  df02 = pd.DataFrame(matchA, matchB)
  df02 = df02.reset_index()
  df02.columns = ["sequence", "fold"]
- os.system('perl trip.pl < ' + path + '> ' + path + 'trip.csv')  # miPred processes
- os.system('perl stats.pl <' + path + '> ' + path + 'stats.csv')
+ os.system('perl trip.pl < ' + path + '> ' + path + 'trip.csv 2>/dev/null')  # miPred processes
+ os.system('perl stats.pl <' + path + '> ' + path + 'stats.csv 2>/dev/null') 
  s1 = pd.read_csv(path+"trip.csv", sep='\s+')
  s2 = pd.read_csv(path+"stats.csv", sep='\t')
  s1 = s1.fillna(0)
@@ -113,8 +113,10 @@ rf_res = eval(rf_pred)
 res = pd.concat([rf_res, svm_res], ignore_index=True)
 res = res.rename(index={0: 'RF', 1:'SVM'})
 
-res.to_csv("results.csv")
-
+res.to_csv("results/results.csv")
+print("Prediction Results:\n",res)
+print("\n\nThe files are stored in the results directory.")
+print("\nThank you for using RNAinsecta. Kindly send your queries or issues to adhiraj@iitg.ac.in")
 #AUC_ROC
 svm_fpr, svm_tpr, threshold = roc_curve(y, svm_pred_proba)
 svm_auc = auc(svm_fpr, svm_tpr)
@@ -131,4 +133,4 @@ plt.legend()
 plt.show()
 fig = plt.gcf()
 fig.set_size_inches((10, 6), forward=False)
-fig.savefig('ROC.png', format='png', dpi=800)
+fig.savefig('results/ROC.png', format='png', dpi=800)
