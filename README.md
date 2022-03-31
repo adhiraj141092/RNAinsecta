@@ -9,7 +9,7 @@ This repository consist of the source code for hosting the webserver as well as 
 
 <b>Pre- Requisites:</b>
 <li><a href="https://www.tbi.univie.ac.at/RNA/">ViennaRNA Package</a></li>
-<li>Python3</li>
+<li><a href="https://www.python.org/downloads/">Python3</a></li>
 <li>Virtual Environment:</li>
 <pre>python3 -m pip install --user virtualenv</pre>
 <br>
@@ -36,6 +36,14 @@ Results are stored in the newly created results directory.
 To run the web-server locally, execute the following commands:
 <pre>cd web
 python3 app.py</pre>
+<br><br>
+Acknowledgements:
+<br>
+RNAinsecta Uses<br>
+<li>Perl scripts developed by Kwang Loong Stanley Ng and Santosh K. Mishra for feature calculation.</li><br>
+<ol>Kwang Loong Stanley Ng, Santosh K. Mishra, De novo SVM classification of precursor microRNAs from genomic pseudo hairpins using global and intrinsic folding measures, Bioinformatics, Volume 23, Issue 11, June 2007, Pages 1321–1330, https://doi.org/10.1093/bioinformatics/btm026</ol><br><BR>
+<li>miRanda: A microRNA target searching tool.</li><br>
+<ol>John,B., Enright,A.J., Aravin,A., Tuschl,T., Sander,C. and Marks,D.S. (2005) Correction: Human MicroRNA Targets. PLoS Biol., 3, e264.</ol>
 
 <br><br>
 The web-server is created and maintained under GNU/GPL v3 license by:<br>
