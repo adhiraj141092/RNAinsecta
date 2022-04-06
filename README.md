@@ -45,6 +45,11 @@ RNAinsecta Uses<br>
 <li>miRanda: A microRNA target searching tool.</li><br>
 <ol>John,B., Enright,A.J., Aravin,A., Tuschl,T., Sander,C. and Marks,D.S. (2005) Correction: Human MicroRNA Targets. PLoS Biol., 3, e264.</ol>
 
+<b>Pre-print</b>
+RNAinsecta: A tool for prediction of pre-microRNA in insects using machine learning algorithms.
+Adhiraj Nath, Utpal Bora*
+bioRxiv 2022.03.31.486617; doi: <a href="https://doi.org/10.1101/2022.03.31.486617">https://doi.org/10.1101/2022.03.31.486617
+</a>
 <br><br>
 The web-server is created and maintained under GNU/GPL v3 license by:<br>
 Adhiraj Nath<br>
