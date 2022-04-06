@@ -2,7 +2,8 @@
 
 Pre-MicroRNAs are the hairpin loops which produces microRNAs that negatively regulate gene expression in several organisms. In insects, microRNAs participate in several biological processes including metamorphosis, reproduction, immune response, etc. 
 In this work, we trained machine learning classifiers such as Random Forest, Support Vector Machine, Logistic Regression and k-Nearest Neighbours to predict pre-microRNA hairpin loops in insects while using Synthetic Minority Over-sampling Technique and Near-Miss to handle the class imbalance. The trained model on Support Vector Machine achieved accuracy of 92.19% while the Random Forest attained an accuracy of 82.4% on our validation dataset. These models are hosted online as web application called RNAinsecta. Further, searching target for the predicted pre-microRNA in insect model organism <i>Drosophila melanogaster</i> has been provided in RNAinsecta using miRanda at the backend where experimentally validated genes regulated by microRNA are collected from miRTarBase as target sites. 
-RNAinsecta is currently hosted at https://rnainsecta.in
+RNAinsecta is currently hosted at https://rnainsecta.in.
+<br><a href="https://doi.org/10.1101/2022.03.31.486617">Read more</a>
 <br>
 This repository consist of the source code for hosting the webserver as well as testing the Machine Learning models to replicate the results.
 <br><br>
@@ -45,8 +46,8 @@ RNAinsecta Uses<br>
 <li>miRanda: A microRNA target searching tool.</li><br>
 <ol>John,B., Enright,A.J., Aravin,A., Tuschl,T., Sander,C. and Marks,D.S. (2005) Correction: Human MicroRNA Targets. PLoS Biol., 3, e264.</ol>
 
-<b>Pre-print</b>
-RNAinsecta: A tool for prediction of pre-microRNA in insects using machine learning algorithms.
+<br><b>Pre-print</b>
+<h3>RNAinsecta: A tool for prediction of pre-microRNA in insects using machine learning algorithms.</h3>
 Adhiraj Nath, Utpal Bora*
 bioRxiv 2022.03.31.486617; doi: <a href="https://doi.org/10.1101/2022.03.31.486617">https://doi.org/10.1101/2022.03.31.486617
 </a>
