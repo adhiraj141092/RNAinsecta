@@ -9,22 +9,22 @@ import matplotlib.pyplot as plt
 pos_data = "dataset/pos.fold"
 neg_data = "dataset/neg.fold"
 
-print("Welcome to RNAinsecta standalone test run.\n")
+print("Welcome to RNAinsecta standalone test run:\n")
 def data_prep(path):
  
- print("Reading dataset: ",path)
+ print("Reading dataset:\n",path)
  qi = open(path, "r")
  text = qi.read()
  qi.close()
 
- print("\nCalculating features...\n")
+ print("Calculating features:\n")
  matchA = re.findall("[(.][.)(]+[.)]", str(text))
  matchB = re.findall(r"^[AUGC]{10,}", str(text), flags=re.MULTILINE)
  df02 = pd.DataFrame(matchA, matchB)
  df02 = df02.reset_index()
  df02.columns = ["sequence", "fold"]
- os.system('perl triplet_scripts/3_step_triplet_coding_for_queries.pl < ' + path + '> ' + path + 'trip.csv 2>/dev/null')  # miPred processes
- os.system('perl triplet_scripts/genRNAStats.pl <' + path + '> ' + path + 'stats.csv 2>/dev/null') 
+ os.system('perl trip.pl < ' + path + '> ' + path + 'trip.csv 2>/dev/null')  # miPred processes
+ os.system('perl stats.pl <' + path + '> ' + path + 'stats.csv 2>/dev/null') 
  s1 = pd.read_csv(path+"trip.csv", sep='\s+')
  s2 = pd.read_csv(path+"stats.csv", sep='\t')
  s1 = s1.fillna(0)
@@ -83,7 +83,7 @@ tot = tot.abs()
 X = tot.iloc[:, :-1].values
 y = tot.iloc[:, -1].values
 
-print("\nRunning predictive model...\n")
+print("Running predictive model:\n")
 
 svm_path = "ML_models/SVM.pkl"
 rf_path = "ML_models/RF.pkl"
@@ -93,7 +93,7 @@ def testing(model):
  y_pred = classifier.predict(X)
  y_pred_proba = classifier.predict_proba(X)
  y_proba = y_pred_proba[:, 1]
- print("\nTest complete for: ",model)
+ print("Running complete for\n",model)
  return y_pred, y_proba;
 
 def eval(y_pred):
@@ -121,9 +121,9 @@ rf_res = eval(rf_pred)
 res = pd.concat([rf_res, svm_res], ignore_index=True)
 res = res.rename(index={0: 'RF', 1:'SVM'})
 
-os.system("mkdir results")
-res.to_csv("results/performance.csv")
-print("\nPrediction Results:\n",res)
+os.system("mkdir results:")
+res.to_csv("results/results.csv")
+print("Prediction Results:\n",res)
 print("\n\nThe files are stored in the results directory.")
 print("\nThank you for using RNAinsecta. Kindly send your queries or issues to adhiraj@iitg.ac.in")
 #AUC_ROC

@@ -50,7 +50,8 @@ Probability score: <b>{{ prob }}</b>
 <div id="content">
 <p>
 
-<form name="mirna" action="{{ url_for('mirtar')}}" method="post">
+<form id="mirna" name="mirna" action="{{ url_for('mirtar')}}" method="post">
+	
 	<div class="alert alert-info" role="alert">
 	<div class="form-group">
    <b style="font-size: 16px">Please select the directionality to cleave from the hairpin:</b><br>
@@ -61,12 +62,6 @@ Probability score: <b>{{ prob }}</b>
 </select><br>
 
 <b style="font-size: 16px">Cleave at: </b><br><i>(Refer to the secondary structure)</i>
-<!--		<select name="getseq3" class="selectpicker form-control">-->
-<!--			{% for i in seq3 %}-->
-<!--			<option value="{{ i }}">{{ i }}</option>-->
-<!--			{% endfor %}-->
-<!--			{% print(seq3)%}-->
-<!--		</select>-->
 <select id="loop" name="getseq3" class="form-control form-control-sm" style="width: 50%">
   <option value="0" hidden >Select</option>
 
@@ -80,6 +75,12 @@ Probability score: <b>{{ prob }}</b>
   <option value="0" selected hidden>Select</option>
 
 </select>
+<br><br>
+<br><h3 style="font-size: 16px" align="left"><b>Or</b></h3><br>
+<h5 style="font-size: 16px; text-align: left;"><b>Enter the miRNA sequence:</b></h5>
+<input type="text" id="microrna" name="microrna" size="100">
+<br>
+
 <br>
 <b style="font-size: 16px">Select Drosophila Chromosome:</b>
 <select id="chro" name="chrom" class="form-control form-control-sm" style="width: 50%">
@@ -200,6 +201,7 @@ $(document).ready(function(){
 			$('#loop').show();
 			$('#loop2').hide();
 			$('#loop1').hide();
+			document.getElementById("microrna").disabled = true; 
 
 		}
 
@@ -207,6 +209,8 @@ $(document).ready(function(){
 			$('#loop2').show();
 			$('#loop').hide();
 			$('#loop1').hide();
+			document.getElementById("microrna").disabled = true; 
+
 
 		}
 		if (origi == 0) {
@@ -233,31 +237,38 @@ $(document).ready(function(){
 		const ori = $("#ori");
 		const s3 = $("#loop");
 		const s5 = $("#loop2");
+		const mi = document.getElementById("microrna").value;
 		const chr = $("#chro");
-		if(ori.val() === "0")
+		if(mi){}
+			else
+
+		{
+			if(ori.val() === "0")
+				{
+				alert("Select directionality");
+				return false;
+				}
+
+			else if(ori.val() === "3")
 			{
-			alert("Select directionality");
-			return false;
+				if(s3.val() === "0")
+				{
+				alert("Select cleaving site for 3'");
+				return false;
+				}
 			}
 
-		else if(ori.val() === "3")
-		{
-			if(s3.val() === "0")
+			else if(ori.val() === "5")
 			{
-			alert("Select cleaving site for 3'");
-			return false;
+
+				if(s5.val() === "0")
+				{
+				alert("Select cleaving site for 5'");
+				return false;
+				}
 			}
 		}
-
-		else if(ori.val() === "5")
-		{
-
-			if(s5.val() === "0")
-			{
-			alert("Select cleaving site for 5'");
-			return false;
-			}
-		}
+	
 		if(chr.val() === "0")
 			{
 			alert("Select chromosome to search");
@@ -266,6 +277,11 @@ $(document).ready(function(){
 
 	});
 });
+
+
+function clear() {
+document.getElementById("mirna").reset();
+}
 </script>
 
 

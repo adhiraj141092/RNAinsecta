@@ -20,6 +20,11 @@ app.secret_key = 'xyzzyspoon!'
 def home():
     return render_template('home.html')
 
+@app.route('/about', methods=['GET', 'POST'])
+def about():
+    return render_template('about.html')
+
+
 
 
 @app.route('/predict', methods=['POST', 'GET'])
@@ -32,9 +37,9 @@ def predict():
     clf1 = request.form.get('clf1')
 
     if clf1 == '2':
-        classifier = pickle.load(open('../ML_models/SVM_Final.pkl', 'rb'))
+        classifier = pickle.load(open('../ML_models/SVM.pkl', 'rb'))
     if clf1 == '1':
-        classifier = pickle.load(open('../ML_models/RF_reg1.pkl', 'rb'))
+        classifier = pickle.load(open('../ML_models/RF.pkl', 'rb'))
 
 
     if mfe == 0:
@@ -44,8 +49,8 @@ def predict():
         f.write(rna)
         f.close()
         os.system('RNAfold < temp1.fasta > rnafold.txt')
-        os.system('perl trip.pl < rnafold.txt > triplet.csv')  # make it subprocess pipe
-        os.system('perl stats.pl < rnafold.txt > stats.csv')
+        os.system('perl ../triplet_scripts/3_step_triplet_coding_for_queries.pl < rnafold.txt > triplet.csv')  # make it subprocess pipe
+        os.system('perl ../triplet_scripts/genRNAStats.pl < rnafold.txt > stats.csv')
         os.system("gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=png16m -r300   -sOutputFile=rna.png rna.ps")
         os.system("cp rna.ps static/rna.ps")
         os.system("cp rna.png static/rna.png")
@@ -146,9 +151,9 @@ def predict2():
     clf = request.form.get('clf')
 
     if clf == '2':
-        classifier = pickle.load(open('../ML_models/SVM_Final.pkl', 'rb'))
+        classifier = pickle.load(open('../ML_models/SVM.pkl', 'rb'))
     if clf == '1':
-        classifier = pickle.load(open('../ML_models/RF_reg1.pkl', 'rb'))
+        classifier = pickle.load(open('../ML_models/RF.pkl', 'rb'))
     # fc = RNA.fold_compound(rna)
     # (ss, mfe) = fc.mfe()
     # session["struc"] = ss
@@ -159,8 +164,8 @@ def predict2():
     f.write(rna)
     f.close()
     os.system('RNAfold < temp1.fasta > rnafold.txt')
-    os.system('perl trip.pl < rnafold.txt > triplet.csv')  # make it subprocess pipe
-    os.system('perl stats.pl < rnafold.txt > stats.csv')
+    os.system('perl ../triplet_scripts/3_step_triplet_coding_for_queries.pl < rnafold.txt > triplet.csv')  # make it subprocess pipe
+    os.system('perl ../triplet_scripts/genRNAStats.pl < rnafold.txt > stats.csv')
     os.system("gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=png16m -r300   -sOutputFile=rna.png rna.ps")
     os.system("cp rna.ps static/rna.ps")
     os.system("cp rna.png static/rna.png")
@@ -238,33 +243,6 @@ def predict2():
     return render_template('predict002_batch.html', results=json.dumps(parsed))
 
 
-@app.route('/val', methods=['GET', 'POST'])
-def val():
-    s3 = request.form.get('getseq3')
-    s5 = request.form.get('getseq5')
-    ori = request.form.get('ori')
-    rna = session['rna']
-    se = ''
-    lenr = len(rna)
-
-    if s5 != '0':
-        var = int(s5)
-    else:
-        var = int(s3)
-
-    if ori == '3':
-        for element in range(0, var):
-            se += rna[element]
-
-    if ori == '5':
-        for element in range(var, lenr):
-            se += rna[element]
-
-    return f"3' is {s3}<br>5' is {s5}<br> The value is {var}<br>original RNA {rna}<br>Directionality: {ori}<br>Cropped RNA is {se}"
-    # return (str(s5))
-
-
-# com = "/media/ub/New_vol/project_miRNA/post_lockdown/target/miRanda-1.0b/bin/miranda tarRNA.fasta DM_tar/DM_" + chrom + ".fasta -en -50 -sc 150 > res1.txt"
 
 
 @app.route('/mirtar', methods=['POST', 'GET'])
@@ -276,6 +254,7 @@ def mirtar():
     rna = session['rna']
     se = ''
     lenr = len(rna)
+    micro = request.form.get('microrna')
 
     if s5 != '0':
         var = int(s5)
@@ -289,6 +268,10 @@ def mirtar():
     if ori == '5':
         for element in range(var, lenr):
             se += rna[element]
+
+    elif micro != None:
+        se = micro
+    print(se, "\n",micro)
 
     f = open("tarRNA.fasta", "w+")
     f.write(se)
